@@ -1,0 +1,1022 @@
+{
+    "Trigonometry II": [
+        {
+            "question": "If tan A + sec A = x, then tan A(sec A − tan A) equals:",
+            "options": {
+                "a": "1/x",
+                "b": "x",
+                "c": "x^2",
+                "d": "−1/x"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The identity sin3θ =",
+            "options": {
+                "a": "3sinθ − 4sin^3θ",
+                "b": "3sinθ + 4sin^3θ",
+                "c": "sinθ − cosθ",
+                "d": "cos3θ"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If sin A + sin B = 2 sin C, then A =",
+            "options": {
+                "a": "C",
+                "b": "90°",
+                "c": "B",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "cosA − cosB = −2 sin((A+B)/2) sin((A−B)/2). This is an example of:",
+            "options": {
+                "a": "Transformation formula",
+                "b": "Pythagorean identity",
+                "c": "Double angle",
+                "d": "Half angle"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "tan^2θ + 1 equals:",
+            "options": {
+                "a": "sec^2θ",
+                "b": "cosec^2θ",
+                "c": "sin^2θ",
+                "d": "cos^2θ"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If sinA = 3/5, cosA =",
+            "options": {
+                "a": "4/5",
+                "b": "3/4",
+                "c": "5/4",
+                "d": "4/3"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "tan(A ± B) formula deals with:",
+            "options": {
+                "a": "tanA ± tanB / 1 ∓ tanA tanB",
+                "b": "sinA ± sinB",
+                "c": "cosA ± cosB",
+                "d": "secA ± secB"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "sin(A+B) expands to:",
+            "options": {
+                "a": "sinA cosB + cosA sinB",
+                "b": "sinA sinB",
+                "c": "cosA cosB",
+                "d": "cos(A − B)"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If tanθ = 1, θ equals:",
+            "options": {
+                "a": "45°",
+                "b": "30°",
+                "c": "60°",
+                "d": "90°"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "cos(90° − θ) equals:",
+            "options": {
+                "a": "sinθ",
+                "b": "cosθ",
+                "c": "−sinθ",
+                "d": "−cosθ"
+            },
+            "answer": "a"
+        }
+    ],
+    "Straight Lines": [
+        {
+            "question": "Slope of line parallel to y = 3x + 5 is:",
+            "options": {
+                "a": "3",
+                "b": "−3",
+                "c": "0",
+                "d": "1/3"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If two lines are perpendicular, product of slopes equals:",
+            "options": {
+                "a": "−1",
+                "b": "1",
+                "c": "0",
+                "d": "2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Equation of line passing through (x1,y1) with slope m is:",
+            "options": {
+                "a": "y − y1 = m(x − x1)",
+                "b": "y + y1 = m(x + x1)",
+                "c": "x − x1 = m(y − y1)",
+                "d": "x + y = m"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Two‐point form is used when:",
+            "options": {
+                "a": "Given two points on line",
+                "b": "Given slope only",
+                "c": "Given intercept only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Intercept form is:",
+            "options": {
+                "a": "x/a + y/b = 1",
+                "b": "y = mx + c",
+                "c": "x − y = 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If slope = 0, line is:",
+            "options": {
+                "a": "Horizontal",
+                "b": "Vertical",
+                "c": "Perpendicular",
+                "d": "Parallel"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Point‐slope form is helpful when:",
+            "options": {
+                "a": "Point and slope are given",
+                "b": "X‐intercept is given",
+                "c": "Y‐intercept only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Collinearity of 3 points can be tested by:",
+            "options": {
+                "a": "Area = 0",
+                "b": "Distance only",
+                "c": "Vector product",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Slope intercept form is:",
+            "options": {
+                "a": "y = mx + c",
+                "b": "x + y = 0",
+                "c": "x = y",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Normal form includes:",
+            "options": {
+                "a": "Perpendicular distance",
+                "b": "Slope only",
+                "c": "Y‐intercept only",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Circles": [
+        {
+            "question": "Standard equation of circle with centre (h,k) is:",
+            "options": {
+                "a": "(x−h)^2 + (y−k)^2 = r^2",
+                "b": "x^2 + y^2 = r",
+                "c": "x² − y² = r²",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "General equation of a circle is:",
+            "options": {
+                "a": "x^2 + y^2 + 2gx + 2fy + c = 0",
+                "b": "y = mx + c",
+                "c": "x + y = 1",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Length of diameter =",
+            "options": {
+                "a": "2r",
+                "b": "r",
+                "c": "1/r",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If circle passes through origin and centre is (a,0), then:",
+            "options": {
+                "a": "r = a",
+                "b": "r = 0",
+                "c": "r = a/2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Equation x^2 + y^2 = 25 represents:",
+            "options": {
+                "a": "Circle with radius 5",
+                "b": "Radius 25",
+                "c": "Line only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Centre of a circle x^2 + y^2 + 6x − 8y + 9 = 0 is:",
+            "options": {
+                "a": "(-3, 4)",
+                "b": "(3, -4)",
+                "c": "(0,0)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Tangent to circle is:",
+            "options": {
+                "a": "Line that touches at one point",
+                "b": "Line passes through centre",
+                "c": "Chord",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Radius is:",
+            "options": {
+                "a": "Distance from centre to any point",
+                "b": "Diameter/2",
+                "c": "Both a and b",
+                "d": "None"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Chord is:",
+            "options": {
+                "a": "Line joining two points on circle",
+                "b": "Diameter only",
+                "c": "Radius only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Measure of angle in semicircle is:",
+            "options": {
+                "a": "90°",
+                "b": "180°",
+                "c": "45°",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Probability": [
+        {
+            "question": "If P(A) = 0.4 and P(B) = 0.5, P(A∩B) ≤",
+            "options": {
+                "a": "0.4",
+                "b": "0.9",
+                "c": "0.1",
+                "d": "1"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Complement of event A means:",
+            "options": {
+                "a": "Event not A",
+                "b": "Event A",
+                "c": "Both",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Total probability equals:",
+            "options": {
+                "a": "1",
+                "b": "0",
+                "c": "0.5",
+                "d": "2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If events are independent, P(A∩B) =",
+            "options": {
+                "a": "P(A)P(B)",
+                "b": "P(A)+P(B)",
+                "c": "P(A)−P(B)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "P(A|B) denotes:",
+            "options": {
+                "a": "Conditional probability",
+                "b": "Union",
+                "c": "Intersection",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If P(A) = 1/4, then complement is:",
+            "options": {
+                "a": "3/4",
+                "b": "1/4",
+                "c": "1",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "When two events cannot occur together, they are:",
+            "options": {
+                "a": "Mutually exclusive",
+                "b": "Independent",
+                "c": "Complementary",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "P(A∪B) =",
+            "options": {
+                "a": "P(A)+P(B)−P(A∩B)",
+                "b": "P(A)P(B)",
+                "c": "P(A)−P(B)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Probability ranges between:",
+            "options": {
+                "a": "0 and 1",
+                "b": "-1 and 1",
+                "c": "0 and ∞",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If P(A)=0.2 and P(B)=0.3 and A,B are disjoint, P(A∪B) =",
+            "options": {
+                "a": "0.5",
+                "b": "0.6",
+                "c": "0.1",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Complex Numbers": [
+        {
+            "question": "i^2 equals:",
+            "options": {
+                "a": "-1",
+                "b": "1",
+                "c": "i",
+                "d": "0"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If z = a + ib, conjugate is:",
+            "options": {
+                "a": "a − ib",
+                "b": "a + ib",
+                "c": "b + ia",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Modulus of a + ib is:",
+            "options": {
+                "a": "√(a^2 + b^2)",
+                "b": "a + b",
+                "c": "a − b",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Arg(z) means:",
+            "options": {
+                "a": "Argument",
+                "b": "Module",
+                "c": "Real part",
+                "d": "Imag part"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "|1 + i| equals:",
+            "options": {
+                "a": "√2",
+                "b": "1",
+                "c": "2",
+                "d": "0"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "i^3 equals:",
+            "options": {
+                "a": "-i",
+                "b": "i",
+                "c": "1",
+                "d": "-1"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Euler’s formula relates:",
+            "options": {
+                "a": "exponential and trigonometric",
+                "b": "linear only",
+                "c": "none",
+                "d": "algebraic"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "cisθ stands for:",
+            "options": {
+                "a": "cosθ + i sinθ",
+                "b": "cosθ − i sinθ",
+                "c": "sinθ only",
+                "d": "cosθ only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If z1 = i and z2 = -i, then z1 + z2 =",
+            "options": {
+                "a": "0",
+                "b": "i",
+                "c": "-i",
+                "d": "2i"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Arg(-1) =",
+            "options": {
+                "a": "π",
+                "b": "0",
+                "c": "π/2",
+                "d": "-π"
+            },
+            "answer": "a"
+        }
+    ],
+    "Permutations and Combinations": [
+        {
+            "question": "Number of ways to arrange 5 distinct objects is:",
+            "options": {
+                "a": "5!",
+                "b": "5^2",
+                "c": "5P3",
+                "d": "5C3"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "nPr denotes:",
+            "options": {
+                "a": "Permutation",
+                "b": "Combination",
+                "c": "Probability",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "nCr =",
+            "options": {
+                "a": "nPr / r!",
+                "b": "nPr × r!",
+                "c": "nPr − r!",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If n = r, then nCr equals:",
+            "options": {
+                "a": "1",
+                "b": "n",
+                "c": "n!",
+                "d": "0"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Number of ways to choose 3 from 7 is:",
+            "options": {
+                "a": "7C3",
+                "b": "7P3",
+                "c": "3P7",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Total ways to arrange the letters of word MATH is:",
+            "options": {
+                "a": "4!",
+                "b": "4P3",
+                "c": "4C2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "nPr < nCr if:",
+            "options": {
+                "a": "r > 1",
+                "b": "n > r",
+                "c": "r = 1",
+                "d": "n = r"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Empty selection (0 objects):",
+            "options": {
+                "a": "1",
+                "b": "0",
+                "c": "n!",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Fundamental principle of counting uses:",
+            "options": {
+                "a": "Multiplication rule",
+                "b": "Addition rule",
+                "c": "Subtraction rule",
+                "d": "Division rule"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In circular permutations of n objects:",
+            "options": {
+                "a": "(n−1)!",
+                "b": "n!",
+                "c": "nC2",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Functions": [
+        {
+            "question": "A function maps:",
+            "options": {
+                "a": "Every element in domain to one in codomain",
+                "b": "One to many",
+                "c": "Many to many",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f(x) = 2x + 3, f(2) is:",
+            "options": {
+                "a": "7",
+                "b": "5",
+                "c": "2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "f(x) = f(−x) implies:",
+            "options": {
+                "a": "Even function",
+                "b": "Odd function",
+                "c": "Neither",
+                "d": "Both"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f(x) = x^2, it is:",
+            "options": {
+                "a": "Even",
+                "b": "Odd",
+                "c": "Neither",
+                "d": "Both"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Inverse of f(x) = 3x + 2 is:",
+            "options": {
+                "a": "(x − 2)/3",
+                "b": "3x − 2",
+                "c": "x/2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Domain of √(x − 1) is:",
+            "options": {
+                "a": "x ≥ 1",
+                "b": "x ≤ 1",
+                "c": "All real",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Range of f(x) = x^2 is:",
+            "options": {
+                "a": "x ≥ 0",
+                "b": "All real",
+                "c": "Negative only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "f(x) + g(x) is defined if:",
+            "options": {
+                "a": "Same domain",
+                "b": "Different domain",
+                "c": "No domain",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Composite function f(g(x)) means:",
+            "options": {
+                "a": "Apply g then f",
+                "b": "Apply f then g",
+                "c": "Add f and g",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Constant function has:",
+            "options": {
+                "a": "Same output for all input",
+                "b": "Different output",
+                "c": "No output",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Limits": [
+        {
+            "question": "lim (x→0) (sin x)/x =",
+            "options": {
+                "a": "1",
+                "b": "0",
+                "c": "∞",
+                "d": "Undefined"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "lim (x→0) (1 − cos x)/x^2 =",
+            "options": {
+                "a": "1/2",
+                "b": "1",
+                "c": "0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f(x) → L as x → a, then L is:",
+            "options": {
+                "a": "Limit",
+                "b": "Function value",
+                "c": "Undefined",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "lim (x→∞) 1/x =",
+            "options": {
+                "a": "0",
+                "b": "1",
+                "c": "∞",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "lim (x→a)(x^2 − a^2)/(x − a) =",
+            "options": {
+                "a": "2a",
+                "b": "a",
+                "c": "a^2",
+                "d": "0"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Use factorization to evaluate limits when:",
+            "options": {
+                "a": "Indeterminate form",
+                "b": "Defined form",
+                "c": "Random",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "lim (x→0) (tan x)/x =",
+            "options": {
+                "a": "1",
+                "b": "0",
+                "c": "∞",
+                "d": "Undefined"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "lim (x→∞)(x)/(x+1) =",
+            "options": {
+                "a": "1",
+                "b": "0",
+                "c": "∞",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If left and right limits equal, limit:",
+            "options": {
+                "a": "Exists",
+                "b": "Doesn't exist",
+                "c": "Infinite",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Limits help define:",
+            "options": {
+                "a": "Continuity",
+                "b": "Distance",
+                "c": "Probability",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Continuity": [
+        {
+            "question": "A function is continuous at x = a if:",
+            "options": {
+                "a": "lim (x→a) f(x) = f(a)",
+                "b": "lim (x→a) f(x) ≠ f(a)",
+                "c": "Undefined",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Discontinuity at a point means:",
+            "options": {
+                "a": "Function not continuous",
+                "b": "Continuous",
+                "c": "Differentiable",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If left and right limits differ:",
+            "options": {
+                "a": "Discontinuous",
+                "b": "Continuous",
+                "c": "Smooth",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Removable discontinuity can be removed by:",
+            "options": {
+                "a": "Redefining function at the point",
+                "b": "Scaling",
+                "c": "No change",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Continuity is necessary for:",
+            "options": {
+                "a": "Differentiability",
+                "b": "None",
+                "c": "Random",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Hole in graph indicates:",
+            "options": {
+                "a": "Removable discontinuity",
+                "b": "Jump",
+                "c": "Infinite",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Function with no breaks is:",
+            "options": {
+                "a": "Continuous",
+                "b": "Discontinuous",
+                "c": "Undefined",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f(a) exists and limit exists then:",
+            "options": {
+                "a": "Continuous",
+                "b": "Discontinuous",
+                "c": "None",
+                "d": "Undefined"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Discontinuity can be:",
+            "options": {
+                "a": "Jump or removable",
+                "b": "Linear only",
+                "c": "None",
+                "d": "Constant"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If limit does not exist then:",
+            "options": {
+                "a": "Discontinuous",
+                "b": "Continuous",
+                "c": "Differentiable",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Conic Sections": [
+        {
+            "question": "Equation of a parabola with focus (a,0) is:",
+            "options": {
+                "a": "y^2 = 4ax",
+                "b": "x^2 = 4ay",
+                "c": "x^2 + y^2 = a^2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Standard equation of circle is:",
+            "options": {
+                "a": "x^2 + y^2 = r^2",
+                "b": "y^2 = 4ax",
+                "c": "x^2 = 4ay",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Ellipse has sum of distances to foci constant:",
+            "options": {
+                "a": "2a",
+                "b": "a",
+                "c": "b",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Hyperbola has difference of distances to foci constant:",
+            "options": {
+                "a": "2a",
+                "b": "a",
+                "c": "b",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Latus rectum of ellipse equals:",
+            "options": {
+                "a": "2b^2/a",
+                "b": "2a^2/b",
+                "c": "b^2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Focus of parabola y^2 = 4ax is:",
+            "options": {
+                "a": "(a,0)",
+                "b": "(0,a)",
+                "c": "(-a,0)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Major axis of ellipse is:",
+            "options": {
+                "a": "2a",
+                "b": "2b",
+                "c": "b",
+                "d": "a"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Equation of hyperbola with centre at origin is:",
+            "options": {
+                "a": "x^2/a^2 − y^2/b^2 = 1",
+                "b": "x^2/a^2 + y^2/b^2 = 1",
+                "c": "y^2 = 4ax",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Directrix of parabola y^2 = 4ax is:",
+            "options": {
+                "a": "x = −a",
+                "b": "y = −a",
+                "c": "x = a",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Eccentricity of circle is:",
+            "options": {
+                "a": "0",
+                "b": "1",
+                "c": "∞",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ]
+}

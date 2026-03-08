@@ -1,0 +1,1022 @@
+{
+    "Solid State": [
+        {
+            "question": "In a crystalline solid, particles are arranged in a:",
+            "options": {
+                "a": "Fixed, repeating pattern",
+                "b": "Random pattern",
+                "c": "Liquid like pattern",
+                "d": "Gas like pattern"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Amorphous solids do not have:",
+            "options": {
+                "a": "Long range order",
+                "b": "Short range order",
+                "c": "Definite shape",
+                "d": "Fixed volume"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Ionic solids conduct electricity in:",
+            "options": {
+                "a": "Molten state",
+                "b": "Solid state",
+                "c": "None",
+                "d": "Both solid & molten"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In a unit cell, the number of atoms in body centered cubic is:",
+            "options": {
+                "a": "2",
+                "b": "1",
+                "c": "4",
+                "d": "8"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Packing efficiency of face centered cubic is:",
+            "options": {
+                "a": "74%",
+                "b": "68%",
+                "c": "52%",
+                "d": "100%"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The voids present in close packing are:",
+            "options": {
+                "a": "Octahedral & tetrahedral",
+                "b": "Cubic only",
+                "c": "Interstitial",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Coordination number in fcc is:",
+            "options": {
+                "a": "12",
+                "b": "6",
+                "c": "8",
+                "d": "4"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Defects in solids increase:",
+            "options": {
+                "a": "Entropy",
+                "b": "Order",
+                "c": "Density",
+                "d": "Melting point"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Schottky defect decreases:",
+            "options": {
+                "a": "Density",
+                "b": "Entropy",
+                "c": "Number of ions",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Frenkel defect occurs in:",
+            "options": {
+                "a": "Ionic solids",
+                "b": "Molecular solids",
+                "c": "Metals",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Solutions and Colligative Properties": [
+        {
+            "question": "Colligative properties depend on:",
+            "options": {
+                "a": "Number of solute particles",
+                "b": "Nature of solute",
+                "c": "Nature of solvent only",
+                "d": "Colour of solution"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Boiling point elevation occurs because of:",
+            "options": {
+                "a": "Vapor pressure lowering",
+                "b": "Surface tension",
+                "c": "Viscosity",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Raoult’s law is valid for:",
+            "options": {
+                "a": "Ideal solutions",
+                "b": "All solutions",
+                "c": "Only gases",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Molal freezing point depression constant is:",
+            "options": {
+                "a": "K_f",
+                "b": "K_b",
+                "c": "Kb/Kf",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Osmotic pressure depends on:",
+            "options": {
+                "a": "Molarity",
+                "b": "Viscosity",
+                "c": "Colour",
+                "d": "Pressure only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Van’t Hoff factor relates to:",
+            "options": {
+                "a": "Degree of dissociation",
+                "b": "Viscosity",
+                "c": "Surface tension",
+                "d": "Colour"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Greater colligative effect is seen with:",
+            "options": {
+                "a": "Higher solute concentration",
+                "b": "Lower concentration",
+                "c": "Colourless solute",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Osmotic pressure increases with:",
+            "options": {
+                "a": "Temperature",
+                "b": "Pressure only",
+                "c": "Colour",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If non-volatile solute is added, vapour pressure:",
+            "options": {
+                "a": "Decreases",
+                "b": "Increases",
+                "c": "Same",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Boiling point elevation formula is:",
+            "options": {
+                "a": "ΔT_b = K_b m i",
+                "b": "ΔT_b = K_f m i",
+                "c": "ΔT_b = m/K_b",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Chemical Thermodynamics and Electrochemistry": [
+        {
+            "question": "First law of thermodynamics is law of:",
+            "options": {
+                "a": "Conservation of energy",
+                "b": "Entropy",
+                "c": "Mass only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "ΔG < 0 indicates:",
+            "options": {
+                "a": "Spontaneous process",
+                "b": "Non-spontaneous",
+                "c": "Equilibrium",
+                "d": "Impossible"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Entropy is a measure of:",
+            "options": {
+                "a": "Disorder",
+                "b": "Order",
+                "c": "Heat only",
+                "d": "Work only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Electrochemical cell converts:",
+            "options": {
+                "a": "Chemical to electrical energy",
+                "b": "Heat to work",
+                "c": "Electrical to light",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Standard electrode potential is measured against:",
+            "options": {
+                "a": "SHE",
+                "b": "Ag/AgCl",
+                "c": "Cu/Cu2+",
+                "d": "Zn/Cu cell"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Cell potential is positive for:",
+            "options": {
+                "a": "Spontaneous reaction",
+                "b": "Non-spontaneous",
+                "c": "Equilibrium",
+                "d": "Impossible"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Gibbs free energy change (ΔG) relates to cell potential by:",
+            "options": {
+                "a": "−nFE",
+                "b": "nFE",
+                "c": "nE/F",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "At equilibrium, ΔG is:",
+            "options": {
+                "a": "Zero",
+                "b": "Positive",
+                "c": "Negative",
+                "d": "Infinite"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Entropy change for reversible process is:",
+            "options": {
+                "a": "Zero",
+                "b": "Positive",
+                "c": "Negative",
+                "d": "Infinite"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Cathode is where:",
+            "options": {
+                "a": "Reduction occurs",
+                "b": "Oxidation occurs",
+                "c": "No change",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Chemical Kinetics": [
+        {
+            "question": "Rate of reaction depends on:",
+            "options": {
+                "a": "Concentration",
+                "b": "Pressure only",
+                "c": "Colour",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Order of reaction is sum of:",
+            "options": {
+                "a": "Exponents in rate law",
+                "b": "Coefficients in equation",
+                "c": "Molecular masses",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Activation energy is:",
+            "options": {
+                "a": "Minimum energy for reaction",
+                "b": "Maximum energy",
+                "c": "Heat evolved",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Catalyst affects:",
+            "options": {
+                "a": "Activation energy",
+                "b": "Equilibrium constant",
+                "c": "Fractional distillation",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Half-life in 1st order reaction is:",
+            "options": {
+                "a": "Constant",
+                "b": "Variable",
+                "c": "Zero",
+                "d": "Infinite"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rate constant increases with:",
+            "options": {
+                "a": "Temperature",
+                "b": "Pressure only",
+                "c": "Colour",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rate law is determined experimentally by:",
+            "options": {
+                "a": "Method of initial rates",
+                "b": "Stoichiometric coefficients",
+                "c": "Molecular formula",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In 2nd order reaction, half-life depends on:",
+            "options": {
+                "a": "Initial concentration",
+                "b": "Temperature only",
+                "c": "Pressure only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rate of reaction has units of:",
+            "options": {
+                "a": "Concentration/time",
+                "b": "Time only",
+                "c": "Pressure/time",
+                "d": "Mass only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Fast reactions have:",
+            "options": {
+                "a": "Low activation energy",
+                "b": "High activation energy",
+                "c": "No reaction",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "p-Block Elements": [
+        {
+            "question": "Group 17 elements are called:",
+            "options": {
+                "a": "Halogens",
+                "b": "Alkali metals",
+                "c": "Noble gases",
+                "d": "Transition metals"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Oxygen family is group:",
+            "options": {
+                "a": "16",
+                "b": "17",
+                "c": "15",
+                "d": "18"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Nitrogen exists as:",
+            "options": {
+                "a": "Diatomic molecule",
+                "b": "Monatomic",
+                "c": "Triatomic",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Halogens are strong:",
+            "options": {
+                "a": "Oxidizing agents",
+                "b": "Reducing agents",
+                "c": "Bases",
+                "d": "Acids only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Element with highest electronegativity is:",
+            "options": {
+                "a": "Fluorine",
+                "b": "Chlorine",
+                "c": "Bromine",
+                "d": "Iodine"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Noble gases are:",
+            "options": {
+                "a": "Inert",
+                "b": "Reactive",
+                "c": "Acidic",
+                "d": "Base only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Most abundant element in atmosphere is:",
+            "options": {
+                "a": "Nitrogen",
+                "b": "Oxygen",
+                "c": "Carbon dioxide",
+                "d": "Argon"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Oxides of p-block elements can be:",
+            "options": {
+                "a": "Acidic or basic",
+                "b": "Only acidic",
+                "c": "Only basic",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Boron belongs to group:",
+            "options": {
+                "a": "13",
+                "b": "14",
+                "c": "15",
+                "d": "16"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Halogens exist in:",
+            "options": {
+                "a": "Diatomic form",
+                "b": "Monatomic",
+                "c": "Triatomic",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "d and f Block Elements": [
+        {
+            "question": "Transition metals are characterized by:",
+            "options": {
+                "a": "Partially filled d orbitals",
+                "b": "Fully filled d orbitals",
+                "c": "No d electrons",
+                "d": "Only s electrons"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "f-block elements are also called:",
+            "options": {
+                "a": "Inner transition metals",
+                "b": "Alkali metals",
+                "c": "Halogens",
+                "d": "Noble gases"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Lanthanides show:",
+            "options": {
+                "a": "Lanthanide contraction",
+                "b": "Large atomic size increase",
+                "c": "No contraction",
+                "d": "Sharp rise in size"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Common oxidation states of transition metals are:",
+            "options": {
+                "a": "Variable",
+                "b": "Fixed",
+                "c": "Only +1",
+                "d": "Only −1"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Color of many transition metal compounds is due to:",
+            "options": {
+                "a": "d–d electron transitions",
+                "b": "s–p transitions",
+                "c": "No electron transitions",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Actinides are:",
+            "options": {
+                "a": "Radioactive",
+                "b": "Non-radioactive",
+                "c": "Gas phase only",
+                "d": "Noble gases"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Magnetic properties of transition metals arise due to:",
+            "options": {
+                "a": "Unpaired electrons",
+                "b": "Paired electrons",
+                "c": "No electrons",
+                "d": "Constant field"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Transition metal catalysts work because of:",
+            "options": {
+                "a": "Variable oxidation states",
+                "b": "Fixed oxidation states",
+                "c": "No electrons",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "f-Block elements include:",
+            "options": {
+                "a": "Lanthanides and actinides",
+                "b": "Group 1 only",
+                "c": "Group 2 only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Complex formation in transition metals is due to:",
+            "options": {
+                "a": "d-orbitals availability",
+                "b": "High mass",
+                "c": "No d electrons",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Coordination Compounds": [
+        {
+            "question": "A ligand that forms one bond is called:",
+            "options": {
+                "a": "Monodentate",
+                "b": "Bidentate",
+                "c": "Polydentate",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Coordination number refers to:",
+            "options": {
+                "a": "Number of ligand attachments",
+                "b": "Total electrons",
+                "c": "Ions present",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Chelation involves:",
+            "options": {
+                "a": "Bidentate ligands",
+                "b": "Monodentate ligands",
+                "c": "No ligands",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In [Co(NH3)6]3+, NH3 is a:",
+            "options": {
+                "a": "Neutral ligand",
+                "b": "Anionic ligand",
+                "c": "Cationic ligand",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Crystal field splitting occurs in:",
+            "options": {
+                "a": "d orbitals",
+                "b": "p orbitals",
+                "c": "s orbitals",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Coordination compounds show:",
+            "options": {
+                "a": "Isomerism",
+                "b": "No isomerism",
+                "c": "Only one structure",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Oxidation state in complex is determined by:",
+            "options": {
+                "a": "Ligand charges and metal charge",
+                "b": "Only ligand charge",
+                "c": "Only metal charge",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "EDTA is an example of:",
+            "options": {
+                "a": "Polydentate ligand",
+                "b": "Monodentate ligand",
+                "c": "No ligand",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The term ‘chelate’ was coined from:",
+            "options": {
+                "a": "Greek word for claw",
+                "b": "Latin word for bond",
+                "c": "French word for metal",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Charge on complex [Fe(CN)6]4− is:",
+            "options": {
+                "a": "−4",
+                "b": "+4",
+                "c": "0",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Halogen Derivatives, Alcohols, Phenols, and Ethers": [
+        {
+            "question": "Halogen derivatives contain:",
+            "options": {
+                "a": "Carbon and halogen",
+                "b": "Only carbon",
+                "c": "Only halogen",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Alcohol functional group is:",
+            "options": {
+                "a": "−OH",
+                "b": "−COOH",
+                "c": "−NH2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Phenols are more acidic than alcohols due to:",
+            "options": {
+                "a": "Resonance stabilization",
+                "b": "Less stability",
+                "c": "Higher mass",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Ethers have general formula:",
+            "options": {
+                "a": "R−O−R'",
+                "b": "R−OH",
+                "c": "COOR",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Chloroform is:",
+            "options": {
+                "a": "CHCl3",
+                "b": "CCl4",
+                "c": "CH4",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Benzyl alcohol is:",
+            "options": {
+                "a": "C6H5CH2OH",
+                "b": "C6H5OH",
+                "c": "CH3OH",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Ethers are generally:",
+            "options": {
+                "a": "Less reactive",
+                "b": "Highly reactive",
+                "c": "Ionic",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Tertiary alcohol does not undergo:",
+            "options": {
+                "a": "Oxidation easily",
+                "b": "Substitution reactions",
+                "c": "Any reaction",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Phenol reacts with NaOH to form:",
+            "options": {
+                "a": "Sodium phenoxide",
+                "b": "Water",
+                "c": "Methane",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Halogen derivatives undergo:",
+            "options": {
+                "a": "Nucleophilic substitution",
+                "b": "Only elimination",
+                "c": "Only addition",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Biomolecules and Polymers": [
+        {
+            "question": "Proteins are polymers of:",
+            "options": {
+                "a": "Amino acids",
+                "b": "Monosaccharides",
+                "c": "Nucleotides",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Carbohydrates are:",
+            "options": {
+                "a": "Polyhydroxy aldehydes or ketones",
+                "b": "Proteins",
+                "c": "Lipids",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "DNA is made up of:",
+            "options": {
+                "a": "Nucleotides",
+                "b": "Amino acids",
+                "c": "Fatty acids",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Synthetic polymers are:",
+            "options": {
+                "a": "Man-made",
+                "b": "Only natural",
+                "c": "Proteins",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Cellulose is a:",
+            "options": {
+                "a": "Polysaccharide",
+                "b": "Protein",
+                "c": "Lipid",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Polyethene is used for:",
+            "options": {
+                "a": "Plastic bags",
+                "b": "Medicines",
+                "c": "Food only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Enzymes are:",
+            "options": {
+                "a": "Biological catalysts",
+                "b": "Only proteins",
+                "c": "Hormones only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Lipids are:",
+            "options": {
+                "a": "Fats and oils",
+                "b": "Proteins",
+                "c": "Sugars",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Nucleic acids store:",
+            "options": {
+                "a": "Genetic information",
+                "b": "Energy only",
+                "c": "Heat",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Natural polymers include:",
+            "options": {
+                "a": "Proteins",
+                "b": "Polyethene",
+                "c": "PVC",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Chemistry in Everyday Life": [
+        {
+            "question": "Soap cleans by:",
+            "options": {
+                "a": "Emulsification of oils",
+                "b": "Only dissolving water",
+                "c": "Colour change",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Aspirin acts as:",
+            "options": {
+                "a": "Pain reliever",
+                "b": "Acid only",
+                "c": "Base only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Detergents are better than soap because:",
+            "options": {
+                "a": "Work in hard water",
+                "b": "Work only in soft water",
+                "c": "Add colour",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Antibiotics kill:",
+            "options": {
+                "a": "Bacteria",
+                "b": "Viruses",
+                "c": "Fungi only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Vitamins are needed for:",
+            "options": {
+                "a": "Normal growth",
+                "b": "Only digestion",
+                "c": "Only energy",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Baking soda is:",
+            "options": {
+                "a": "NaHCO3",
+                "b": "NaCl",
+                "c": "KCl",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Preservatives prevent:",
+            "options": {
+                "a": "Microbial growth",
+                "b": "Pressure change",
+                "c": "Boiling only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Toothpaste contains:",
+            "options": {
+                "a": "Fluoride",
+                "b": "Chlorine only",
+                "c": "Gold",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Antacids are used to:",
+            "options": {
+                "a": "Neutralize stomach acid",
+                "b": "Increase acid",
+                "c": "None",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Caffeine is a:",
+            "options": {
+                "a": "Stimulant",
+                "b": "Sedative",
+                "c": "None",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+@import url('https://api.fontshare.com/v2/css?f[]=clash-display@400,500,600,700&f[]=satoshi@300,400,500,700&f[]=general-sans@200,300,400,500,600,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  /* ===== Theme CSS Variables ===== */
+  :root {
+    /* Light theme (default root, toggled by class) */
+    --bg-page: #ffffff;
+    --bg-card: #ffffff;
+    --bg-elevated: #f9fafb;
+    --bg-input: #f3f4f6;
+    --bg-hover: #f3f4f6;
+    --text-primary: #111827;
+    --text-secondary: #6b7280;
+    --text-muted: #9ca3af;
+    --border-primary: #e5e7eb;
+    --border-subtle: rgba(0, 0, 0, 0.06);
+    --shadow-color: rgba(0, 0, 0, 0.08);
+    --glass-bg: rgba(255, 255, 255, 0.7);
+    --glass-border: rgba(0, 0, 0, 0.08);
+    --overlay-bg: rgba(255, 255, 255, 0.95);
+  }
+
+  .dark {
+    --bg-page: #0a0a0a;
+    --bg-card: #121212;
+    --bg-elevated: #1a1a1a;
+    --bg-input: rgba(255, 255, 255, 0.05);
+    --bg-hover: rgba(31, 41, 55, 0.3);
+    --text-primary: #ffffff;
+    --text-secondary: #9ca3af;
+    --text-muted: rgba(255, 255, 255, 0.5);
+    --border-primary: rgba(255, 255, 255, 0.1);
+    --border-subtle: rgba(255, 255, 255, 0.05);
+    --shadow-color: rgba(0, 0, 0, 0.3);
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --overlay-bg: rgba(0, 0, 0, 0.95);
+  }
+
+  html.lenis,
+  html.lenis body {
+    height: auto;
+  }
+
+  .lenis.lenis-smooth {
+    scroll-behavior: auto !important;
+  }
+
+  .lenis.lenis-smooth [data-lenis-prevent] {
+    overscroll-behavior: contain;
+  }
+
+  .lenis.lenis-stopped {
+    overflow: hidden;
+  }
+
+  .lenis.lenis-scrolling iframe {
+    pointer-events: none;
+  }
+
+  body {
+    @apply font-sans antialiased selection:bg-brand selection:text-white;
+    color: var(--text-primary);
+    background-color: var(--bg-page);
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading;
+  }
+}
+
+@layer utilities {
+  .glass {
+    background: var(--glass-bg);
+    backdrop-filter: blur(16px);
+    border: 1px solid var(--glass-border);
+  }
+
+  .glass-card {
+    background: var(--bg-card);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--border-primary);
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+  }
+
+  .glass-card:hover {
+    border-color: rgba(20, 184, 166, 0.5);
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-white via-white to-white/70;
+  }
+
+  .dark .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-white via-white to-white/70;
+  }
+
+  .light .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-gray-900 via-gray-800 to-gray-600;
+  }
+
+  .text-gradient-brand {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-brand-light via-brand to-brand-dark;
+  }
+
+  /* Theme-aware background utilities */
+  .bg-theme-page {
+    background-color: var(--bg-page);
+  }
+  .bg-theme-card {
+    background-color: var(--bg-card);
+  }
+  .bg-theme-elevated {
+    background-color: var(--bg-elevated);
+  }
+  .text-theme-primary {
+    color: var(--text-primary);
+  }
+  .text-theme-secondary {
+    color: var(--text-secondary);
+  }
+  .text-theme-muted {
+    color: var(--text-muted);
+  }
+  .border-theme {
+    border-color: var(--border-primary);
+  }
+  .border-theme-subtle {
+    border-color: var(--border-subtle);
+  }
+
+  /* Theme transition for smooth color changes */
+  .theme-transition {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+}
+
+/* Blinking cursor animation for streaming typewriter effect */
+@keyframes blink-cursor {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* ============================================================================
+   KaTeX Math Rendering Styles for Chatbot
+   ============================================================================ */
+
+/* Make KaTeX formulas responsive and properly sized */
+.kaksha-math-content .katex {
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+/* Block math equations - centered with nice spacing */
+.kaksha-math-content .katex-display {
+  margin: 0.75rem 0;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* Dark mode block math background */
+.dark .kaksha-math-content .katex-display,
+.prose-invert .kaksha-math-content .katex-display {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* Light mode block math background */
+.kaksha-math-content .katex-display {
+  background: rgba(0, 0, 0, 0.03);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* Dark mode - make KaTeX text white */
+.dark .kaksha-math-content .katex,
+.prose-invert .kaksha-math-content .katex {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+/* Brand color for math operators and important symbols */
+.kaksha-math-content .katex .mord.text {
+  color: inherit;
+}
+
+/* Inline math - subtle highlight */
+.kaksha-math-content p .katex {
+  padding: 0.1em 0.2em;
+  border-radius: 0.25rem;
+}
+
+/* Make sure KaTeX doesn't overflow containers */
+.kaksha-math-content .katex-html {
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+/* Scrollbar for overflow math on mobile */
+.kaksha-math-content .katex-display::-webkit-scrollbar {
+  height: 3px;
+}
+
+.kaksha-math-content .katex-display::-webkit-scrollbar-thumb {
+  background: rgba(20, 184, 166, 0.3);
+  border-radius: 3px;
+}

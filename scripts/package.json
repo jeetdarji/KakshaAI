@@ -1,0 +1,19 @@
+{
+    "name": "kaksha-ai-scripts",
+    "version": "1.0.0",
+    "description": "Data population scripts for KakshaAI Study Hub",
+    "type": "module",
+    "main": "populateStudyHubData.js",
+    "scripts": {
+        "populate": "node populateStudyHubData.js",
+        "populate:chapters": "node populateStudyHubData.js --chapters-only",
+        "populate:videos": "node populateStudyHubData.js --videos-only",
+        "populate:notes": "node populateStudyHubData.js --notes-only",
+        "populate:mcqs": "node populateStudyHubData.js --mcqs-only"
+    },
+    "dependencies": {
+        "@supabase/supabase-js": "^2.39.0",
+        "dotenv": "^16.3.1",
+        "xlsx": "^0.18.5"
+    }
+}

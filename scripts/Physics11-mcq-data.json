@@ -1,0 +1,1022 @@
+{
+  "Vectors": [
+    {
+      "question": "If |A| = 5, |B| = 12 and the angle between them is 90°, what is |A + B|?",
+      "options": {
+        "a": "13",
+        "b": "17",
+        "c": "7",
+        "d": "60"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "The unit vector perpendicular to both i + j and i - j is:",
+      "options": {
+        "a": "k",
+        "b": "-k",
+        "c": "i",
+        "d": "j"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If A · B = 0, then vectors A and B are:",
+      "options": {
+        "a": "Parallel",
+        "b": "Perpendicular",
+        "c": "Equal",
+        "d": "Collinear"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "The angle between vectors 2i + 3j and 4i - 6j is:",
+      "options": {
+        "a": "90°",
+        "b": "60°",
+        "c": "120°",
+        "d": "0°"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If A × B = 0, then vectors are:",
+      "options": {
+        "a": "Perpendicular",
+        "b": "Parallel",
+        "c": "Opposite",
+        "d": "Random"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Scalar triple product represents:",
+      "options": {
+        "a": "Area of parallelogram",
+        "b": "Volume of parallelepiped",
+        "c": "Magnitude of vector",
+        "d": "Projection"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Projection of A on B equals:",
+      "options": {
+        "a": "(A·B)/|B|",
+        "b": "|A×B|",
+        "c": "(A×B)/|B|",
+        "d": "|A+B|"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If A = 3i - 4j, its magnitude is:",
+      "options": {
+        "a": "5",
+        "b": "7",
+        "c": "1",
+        "d": "25"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "The direction cosines of a unit vector are:",
+      "options": {
+        "a": "Less than 1",
+        "b": "Squares sum to 1",
+        "c": "Greater than 1",
+        "d": "Zero"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "If A = i + j + k, then |A| is:",
+      "options": {
+        "a": "√2",
+        "b": "√3",
+        "c": "3",
+        "d": "1"
+      },
+      "answer": "b"
+    }
+  ],
+  "Error Analysis": [
+    {
+      "question": "The percentage error in measuring 50 cm with possible error 0.5 cm is:",
+      "options": {
+        "a": "1%",
+        "b": "0.1%",
+        "c": "5%",
+        "d": "10%"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If Z = A × B, percentage error in Z is:",
+      "options": {
+        "a": "ΔA + ΔB",
+        "b": "ΔA - ΔB",
+        "c": "ΔA × ΔB",
+        "d": "ΔA / ΔB"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Significant figures in 0.00520 are:",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Least count of Vernier caliper is:",
+      "options": {
+        "a": "MSD - VSD",
+        "b": "MSD + VSD",
+        "c": "MSD × VSD",
+        "d": "MSD / VSD"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Random errors can be reduced by:",
+      "options": {
+        "a": "Increasing observations",
+        "b": "Changing instrument",
+        "c": "Calibration",
+        "d": "Zero correction"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Dimensional formula of force is:",
+      "options": {
+        "a": "MLT^-2",
+        "b": "ML^2T^-2",
+        "c": "MT^-2",
+        "d": "M^2LT^-2"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If quantity depends on a^2 b^3, fractional error is:",
+      "options": {
+        "a": "2Δa + 3Δb",
+        "b": "Δa + Δb",
+        "c": "2Δa - 3Δb",
+        "d": "Δa × Δb"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Accuracy means:",
+      "options": {
+        "a": "Closeness to true value",
+        "b": "Repeatability",
+        "c": "Precision only",
+        "d": "Least count"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Precision refers to:",
+      "options": {
+        "a": "True value",
+        "b": "Reproducibility",
+        "c": "Zero error",
+        "d": "Unit"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Dimensional analysis cannot determine:",
+      "options": {
+        "a": "Constants",
+        "b": "Units",
+        "c": "Dimensions",
+        "d": "Homogeneity"
+      },
+      "answer": "a"
+    }
+  ],
+  "Motion in a Plane": [
+    {
+      "question": "Range of projectile is maximum when angle is:",
+      "options": {
+        "a": "30°",
+        "b": "45°",
+        "c": "60°",
+        "d": "90°"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Centripetal acceleration is directed:",
+      "options": {
+        "a": "Tangentially",
+        "b": "Outward",
+        "c": "Towards center",
+        "d": "Upward"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Time of flight of projectile is:",
+      "options": {
+        "a": "2u sinθ / g",
+        "b": "u cosθ / g",
+        "c": "u sinθ / g",
+        "d": "u/g"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Angular velocity unit is:",
+      "options": {
+        "a": "rad/s",
+        "b": "m/s",
+        "c": "m/s^2",
+        "d": "rad"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Maximum height of projectile is:",
+      "options": {
+        "a": "u^2 sin^2θ / 2g",
+        "b": "u^2 cos^2θ / 2g",
+        "c": "u^2 / g",
+        "d": "2u/g"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Centripetal force formula is:",
+      "options": {
+        "a": "mv^2/r",
+        "b": "mr^2/v",
+        "c": "mv/r^2",
+        "d": "mvr"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If θ and 90°−θ give same range, their sum is:",
+      "options": {
+        "a": "45°",
+        "b": "90°",
+        "c": "60°",
+        "d": "30°"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "In uniform circular motion, speed is:",
+      "options": {
+        "a": "Constant",
+        "b": "Zero",
+        "c": "Increasing",
+        "d": "Decreasing"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Angular acceleration unit is:",
+      "options": {
+        "a": "rad/s^2",
+        "b": "m/s",
+        "c": "rad",
+        "d": "m/s^2"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Velocity at highest point of projectile is:",
+      "options": {
+        "a": "u cosθ",
+        "b": "0",
+        "c": "u sinθ",
+        "d": "u"
+      },
+      "answer": "a"
+    }
+  ],
+  "Laws of Motion": [
+    {
+      "question": "Newton's second law states F =:",
+      "options": {
+        "a": "ma",
+        "b": "mv",
+        "c": "m/a",
+        "d": "a/m"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Unit of impulse is:",
+      "options": {
+        "a": "Ns",
+        "b": "N",
+        "c": "kg",
+        "d": "J"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Friction always opposes:",
+      "options": {
+        "a": "Motion",
+        "b": "Force",
+        "c": "Velocity",
+        "d": "Acceleration"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Coefficient of friction is:",
+      "options": {
+        "a": "Dimensionless",
+        "b": "Has unit",
+        "c": "kg",
+        "d": "N"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Action and reaction act on:",
+      "options": {
+        "a": "Same body",
+        "b": "Different bodies",
+        "c": "Ground",
+        "d": "Air"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Impulse equals change in:",
+      "options": {
+        "a": "Momentum",
+        "b": "Force",
+        "c": "Velocity",
+        "d": "Energy"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Normal reaction acts:",
+      "options": {
+        "a": "Parallel",
+        "b": "Perpendicular",
+        "c": "Downward",
+        "d": "Upward only"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Static friction is:",
+      "options": {
+        "a": "Less than limiting",
+        "b": "Greater",
+        "c": "Zero",
+        "d": "Infinite"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Weight of body is:",
+      "options": {
+        "a": "mg",
+        "b": "m/g",
+        "c": "g/m",
+        "d": "ma"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "In elevator going up with acceleration, apparent weight is:",
+      "options": {
+        "a": "m(g+a)",
+        "b": "m(g-a)",
+        "c": "mg",
+        "d": "0"
+      },
+      "answer": "a"
+    }
+  ],
+  "Gravitation11": [
+    {
+      "question": "Gravitational force varies as:",
+      "options": {
+        "a": "1/r^2",
+        "b": "1/r",
+        "c": "r",
+        "d": "r^2"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Escape velocity from Earth is approx:",
+      "options": {
+        "a": "11.2 km/s",
+        "b": "7.9 km/s",
+        "c": "9.8 km/s",
+        "d": "5 km/s"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Orbital velocity near Earth surface is:",
+      "options": {
+        "a": "7.9 km/s",
+        "b": "11.2 km/s",
+        "c": "9.8 km/s",
+        "d": "5 km/s"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "g decreases with height as:",
+      "options": {
+        "a": "1/(R+h)^2",
+        "b": "1/R",
+        "c": "R^2",
+        "d": "R"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Potential energy at infinity is:",
+      "options": {
+        "a": "Zero",
+        "b": "Maximum",
+        "c": "Minimum",
+        "d": "Negative"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Value of g at center of Earth is:",
+      "options": {
+        "a": "0",
+        "b": "9.8",
+        "c": "Infinity",
+        "d": "4.9"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Kepler's third law states T^2 ∝",
+      "options": {
+        "a": "r^3",
+        "b": "r^2",
+        "c": "r",
+        "d": "1/r"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Gravitational constant unit is:",
+      "options": {
+        "a": "Nm^2/kg^2",
+        "b": "N/kg",
+        "c": "kg/m",
+        "d": "m/s^2"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Energy of satellite in orbit is:",
+      "options": {
+        "a": "-GMm/2R",
+        "b": "GMm/R",
+        "c": "0",
+        "d": "Positive"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If Earth radius doubles, g becomes:",
+      "options": {
+        "a": "g/4",
+        "b": "2g",
+        "c": "g/2",
+        "d": "4g"
+      },
+      "answer": "a"
+    }
+  ],
+  "Thermal Properties of Matter": [
+    {
+      "question": "The specific heat capacity of a substance is defined as the heat required to raise 1 kg of substance by:",
+      "options": {
+        "a": "1°C",
+        "b": "1 K",
+        "c": "1 J",
+        "d": "Both a and b"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "The graph between temperature and time during phase change is:",
+      "options": {
+        "a": "Horizontal line",
+        "b": "Straight sloping",
+        "c": "Exponential",
+        "d": "Parabolic"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "During boiling, the temperature of a liquid:",
+      "options": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains constant",
+        "d": "Increases then decreases"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "The latent heat of fusion refers to heat required for:",
+      "options": {
+        "a": "Solid to liquid",
+        "b": "Liquid to gas",
+        "c": "Gas to liquid",
+        "d": "Liquid to solid"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Coefficient of linear expansion has unit:",
+      "options": {
+        "a": "K^-1",
+        "b": "m/K",
+        "c": "K",
+        "d": "m"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which law relates change in length to temperature change?",
+      "options": {
+        "a": "Hooke’s law",
+        "b": "Boyle’s law",
+        "c": "Charles’ law",
+        "d": "Ohm’s law"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Internal energy of an ideal gas depends on:",
+      "options": {
+        "a": "Volume",
+        "b": "Pressure",
+        "c": "Temperature",
+        "d": "Mass only"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Heat flow from hot body to cold body is consistent with:",
+      "options": {
+        "a": "1st law of thermodynamics",
+        "b": "2nd law of thermodynamics",
+        "c": "Zeroth law",
+        "d": "Boyle’s law"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Thermal equilibrium means:",
+      "options": {
+        "a": "Heat flow stops",
+        "b": "Temperature equalizes",
+        "c": "No work done",
+        "d": "Pressure equal"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which process occurs without heat exchange?",
+      "options": {
+        "a": "Isothermal",
+        "b": "Adiabatic",
+        "c": "Isobaric",
+        "d": "Isochoric"
+      },
+      "answer": "b"
+    }
+  ],
+  "Sound": [
+    {
+      "question": "The speed of sound in air is approximately:",
+      "options": {
+        "a": "330 m/s",
+        "b": "1500 m/s",
+        "c": "100 m/s",
+        "d": "440 Hz"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Frequency of a sound determines its:",
+      "options": {
+        "a": "Loudness",
+        "b": "Pitch",
+        "c": "Quality",
+        "d": "Speed"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Doppler effect is a change in:",
+      "options": {
+        "a": "Amplitude",
+        "b": "Frequency",
+        "c": "Velocity only",
+        "d": "Wavelength only"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Threshold of human hearing is:",
+      "options": {
+        "a": "20 Hz",
+        "b": "20,000 Hz",
+        "c": "Both a and b",
+        "d": "400 Hz"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Echo is heard when delay is at least:",
+      "options": {
+        "a": "0.1 s",
+        "b": "1 s",
+        "c": "0.01 s",
+        "d": "1 min"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Supersonic speed is:",
+      "options": {
+        "a": "Less than speed of sound",
+        "b": "Equal to speed of sound",
+        "c": "Greater than speed of sound",
+        "d": "Negative"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Ultrasound frequency is:",
+      "options": {
+        "a": "<20 Hz",
+        "b": "20–20,000 Hz",
+        "c": ">20,000 Hz",
+        "d": "None"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Beat frequency occurs due to:",
+      "options": {
+        "a": "Interference",
+        "b": "Reflection",
+        "c": "Diffraction",
+        "d": "Refraction"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Resonance happens when:",
+      "options": {
+        "a": "Two frequencies differ",
+        "b": "Natural frequency matches driving frequency",
+        "c": "Amplitude is zero",
+        "d": "Speed is constant"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Sound travels fastest in:",
+      "options": {
+        "a": "Air",
+        "b": "Water",
+        "c": "Steel",
+        "d": "Vacuum"
+      },
+      "answer": "c"
+    }
+  ],
+  "Optics": [
+    {
+      "question": "The speed of light in vacuum is:",
+      "options": {
+        "a": "3 × 10^8 m/s",
+        "b": "3 × 10^6 m/s",
+        "c": "1.5 × 10^8 m/s",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Lens used to correct myopia is:",
+      "options": {
+        "a": "Convex",
+        "b": "Concave",
+        "c": "Plano-convex",
+        "d": "None"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Focal length of a concave mirror is:",
+      "options": {
+        "a": "Positive",
+        "b": "Negative",
+        "c": "Zero",
+        "d": "Infinite"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Total internal reflection occurs when:",
+      "options": {
+        "a": "Angle greater than critical angle",
+        "b": "Less than critical angle",
+        "c": "At normal",
+        "d": "At zero"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Refractive index of a medium is ≥:",
+      "options": {
+        "a": "1",
+        "b": "0",
+        "c": "Infinity",
+        "d": "Negative"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Power of lens is:",
+      "options": {
+        "a": "1/f",
+        "b": "f",
+        "c": "f^2",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "For a real image, the image distance is:",
+      "options": {
+        "a": "Positive",
+        "b": "Negative",
+        "c": "Zero",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Magnification is:",
+      "options": {
+        "a": "Image size/Object size",
+        "b": "Object size/Image size",
+        "c": "Focal length/Object distance",
+        "d": "Focal length/Image distance"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Chromatic aberration is due to:",
+      "options": {
+        "a": "Dispersion of light",
+        "b": "Reflection",
+        "c": "Refraction only",
+        "d": "Polarization"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Image formed by a plane mirror is:",
+      "options": {
+        "a": "Real",
+        "b": "Virtual",
+        "c": "Magnified",
+        "d": "Inverted"
+      },
+      "answer": "b"
+    }
+  ],
+  "Electrostatics11": [
+    {
+      "question": "Coulomb’s law states force is ∝:",
+      "options": {
+        "a": "1/r^2",
+        "b": "r",
+        "c": "r^2",
+        "d": "1/r"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Electric field inside conductor is:",
+      "options": {
+        "a": "Zero",
+        "b": "Max",
+        "c": "Depends",
+        "d": "Infinite"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Electric potential due to a point charge at ∞ is:",
+      "options": {
+        "a": "Zero",
+        "b": "Finite",
+        "c": "Infinite",
+        "d": "Negative"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Capacitance depends on:",
+      "options": {
+        "a": "Area of plates",
+        "b": "Distance between plates",
+        "c": "Dielectric material",
+        "d": "All of the above"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "SI unit of potential is:",
+      "options": {
+        "a": "Volt",
+        "b": "Ampere",
+        "c": "Ohm",
+        "d": "Joule"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Charge on electron is:",
+      "options": {
+        "a": "−1.6 × 10^-19 C",
+        "b": "1.6 × 10^-19 C",
+        "c": "0",
+        "d": "1.6 × 10^-6 C"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Dielectric increases capacitance by:",
+      "options": {
+        "a": "Decreasing field",
+        "b": "Increasing charge",
+        "c": "Reducing separation",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Electric field is gradient of:",
+      "options": {
+        "a": "Potential",
+        "b": "Capacitance",
+        "c": "Charge",
+        "d": "Inductance"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Potential energy of like charges is:",
+      "options": {
+        "a": "Positive",
+        "b": "Negative",
+        "c": "Zero",
+        "d": "Depends"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Equipotential surfaces are:",
+      "options": {
+        "a": "Perpendicular to E",
+        "b": "Parallel to E",
+        "c": "Curved only",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ],
+  "Semiconductors": [
+    {
+      "question": "Intrinsic semiconductor has:",
+      "options": {
+        "a": "Equal number of electrons and holes",
+        "b": "Only electrons",
+        "c": "Only holes",
+        "d": "No charge carriers"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Doping increases:",
+      "options": {
+        "a": "Conductivity",
+        "b": "Resistance",
+        "c": "Band gap",
+        "d": "Mass"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Majority carriers in n-type semiconductor are:",
+      "options": {
+        "a": "Electrons",
+        "b": "Holes",
+        "c": "Ions",
+        "d": "Both equal"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "p-type is doped with:",
+      "options": {
+        "a": "Trivalent impurity",
+        "b": "Pentavalent impurity",
+        "c": "No impurity",
+        "d": "Both"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Band gap of semiconductors is:",
+      "options": {
+        "a": "Small",
+        "b": "Large",
+        "c": "Infinite",
+        "d": "Zero"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Conductivity increases with:",
+      "options": {
+        "a": "Temperature",
+        "b": "Pressure",
+        "c": "Volume",
+        "d": "Density"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Hole mobility is:",
+      "options": {
+        "a": "Less than electron",
+        "b": "Greater",
+        "c": "Equal",
+        "d": "Zero"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Majority carriers in p-type are:",
+      "options": {
+        "a": "Holes",
+        "b": "Electrons",
+        "c": "Ions",
+        "d": "Equal"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Semiconductors are:",
+      "options": {
+        "a": "Conductors at high T",
+        "b": "Insulators at all T",
+        "c": "Super conductors",
+        "d": "No conduction"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Doping reduces:",
+      "options": {
+        "a": "Resistivity",
+        "b": "Charge",
+        "c": "Field",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+
+# Environment variables (contains API keys!)
+.env
+.env.local
+.env.*.local
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Kiro specs
+.kiro/
+
+# Heavy data folders (not needed in repo)
+Cutoff_Csvs/
+Design-References/
+migration_data/
+papers/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# Misc
+*.exe
+
+# Competitive programming artifacts
+input.txt
+output.txt

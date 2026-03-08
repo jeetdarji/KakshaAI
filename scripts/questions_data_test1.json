@@ -1,0 +1,1508 @@
+{
+    "physics": [
+        {
+            "question_text": "In vertical circular motion, the ratio of kinetic energy of a particle at highest point to that at lowest point is",
+            "option_a": "5",
+            "option_b": "2",
+            "option_c": "0.5",
+            "option_d": "0.2",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two wires having same length and material are stretched by same force. Their diameters are in the ratio 1: 3. The ratio of strain energy per unit volume for these two wires (smaller to larger diameter) when stretched is",
+            "option_a": "3:1",
+            "option_b": "9:1",
+            "option_c": "27:1",
+            "option_d": "81:1",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "For a gas R/Cv = 0.4 where R is the universal gas constant and Cv is molar specific heat at constant volume. The gas is made up of molecules which are",
+            "option_a": "rigid diatomic",
+            "option_b": "monoatomic",
+            "option_c": "non-rigid diatomic",
+            "option_d": "polyatomic",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In non uniform circular motion, the ratio of tangential to radial acceleration is (r = radius of circle, v = speed of the particle, α = angular acceleration)",
+            "option_a": "α²r²/v",
+            "option_b": "α²r/v²",
+            "option_c": "αr²/v²",
+            "option_d": "v²/αr²",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A particle moves along a circle of radius 'r' with constant tangential acceleration. If the velocity of the particle is 'v' at the end of second revolution, after the revolution has started then the tangential acceleration is",
+            "option_a": "v²/8πr",
+            "option_b": "v²/6πr",
+            "option_c": "v²/4πr",
+            "option_d": "v²/2πr",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A solid sphere and a solid cylinder, both of mass M and radius R, roll down an inclined plane without slipping. If they start from the same height h, what is the ratio of their translational kinetic energies at the bottom of the incline (Sphere:Cylinder)?",
+            "option_a": "14/15",
+            "option_b": "28/25",
+            "option_c": "15/14",
+            "option_d": "25/28",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In an L-R series circuit, the rate at which energy is dissipated as heat across the resistor is exactly equal to the rate at which magnetic energy is being stored in the inductor. If L = 20 H and R = 10 Ω, find the time elapsed since the DC source was connected.",
+            "option_a": "2/ln2",
+            "option_b": "ln2",
+            "option_c": "2ln2",
+            "option_d": "1/2 ln2",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The aperture diameter of a telescope is 5 m. The separation between the moon and the earth is 4x10^5 km. With light of wavelength of 5500Å, the minimum separation between objects on the surface of moon, so that they are just resolved, is close to :",
+            "option_a": "600 m",
+            "option_b": "20 m",
+            "option_c": "60 m",
+            "option_d": "200 m",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A 10μF capacitor is connected in series with a 40Ω resistor and a 20V DC supply. Calculate the final charge stored on the capacitor once it reaches a steady state.",
+            "option_a": "2μC",
+            "option_b": "60μC",
+            "option_c": "200μC",
+            "option_d": "10μC",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A body of mass 1 kg falls freely from a height of 100 m on a platform of mass 3 kg which is mounted on a spring having spring constant k=1.25x10^6 N/m. The body sticks to the platform and the spring's maximum compression is found to be x. Given that g=10 ms^-2, the value of x will be close to :",
+            "option_a": "4 cm",
+            "option_b": "8 cm",
+            "option_c": "80 cm",
+            "option_d": "40 cm",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "There is a uniform electrostatic field in a region. The potential at various points on a small sphere centred at P, in the region, is found to vary between the limits 589.0 V to 589.8 V. What is the potential at a point on the sphere whose radius vector makes an angle of 60° with the direction of the field?",
+            "option_a": "589.5 V",
+            "option_b": "589.2 V",
+            "option_c": "589.4 V",
+            "option_d": "589.6 V",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The de Broglie wavelength associated with the electron in the n=4 level is:",
+            "option_a": "two times the ground state wavelength",
+            "option_b": "four times the ground state wavelength",
+            "option_c": "half of the ground state wavelength",
+            "option_d": "1/4th of the ground state wavelength",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "At 16°C, two open-end organ pipes produce 34 beats in 2 seconds. How many beats per second will be produced if the temperature rises to 51°C? (Neglect expansion of pipes)",
+            "option_a": "18",
+            "option_b": "15",
+            "option_c": "10",
+            "option_d": "5",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The energy stored in the electric field produced by a metal sphere is 4.5 J. If the sphere contains 4 μC charge, its radius will be: (1/4πε₀ = 9x10^9)",
+            "option_a": "20 mm",
+            "option_b": "32 mm",
+            "option_c": "28 mm",
+            "option_d": "16 mm",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A block of mass 2 kg moving at velocity 'v' undergoes a perfectly elastic head-on collision with a 4 kg block at rest. If the 4 kg block then slides up a frictionless circular track to just reach a height of 4 m, find the initial velocity 'v' of the 2 kg block.",
+            "option_a": "10 m/s",
+            "option_b": "5 m/s",
+            "option_c": "20 m/s",
+            "option_d": "15 m/s",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A charge Q is distributed over two concentric conducting thin spherical shells radii r and R (R>r). If the surface charge densities on the two shells are equal, the electric potential at the common centre is:",
+            "option_a": "1/4πε₀ (R+2r)Q / 2(R²+r²)",
+            "option_b": "1/4πε₀ (R+r)Q / 2(R²+r²)",
+            "option_c": "1/4πε₀ (R+r)Q / (R²+r²)",
+            "option_d": "1/4πε₀ (2R+r)Q / (R²+r²)",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A free neutron decays into a proton but a free proton does not decay into neutron. This is because",
+            "option_a": "neutron is an uncharged particle",
+            "option_b": "neutron has larger rest mass than proton",
+            "option_c": "neutron is a composite particle",
+            "option_d": "proton is a charged particle",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two slabs of thermal conductivity 3K and K, with thicknesses d and 3d respectively, are placed in series contact. If the outer temperatures are maintained at T2 and T1 (T2 > T1), find the temperature at the interface in steady state.",
+            "option_a": "(T2 + T1) / 2",
+            "option_b": "T1/10 + 9T2/10",
+            "option_c": "T1/3 + 2T2/3",
+            "option_d": "T1/6 + 5T2/6",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A resonance tube 512 Hz fork produces first resonance at 11 cm below a mark. A 256 Hz fork produces first resonance at 27 cm below the same mark. The velocity of sound in air is close to:",
+            "option_a": "328 m/s",
+            "option_b": "322 m/s",
+            "option_c": "341 m/s",
+            "option_d": "335 m/s",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A train is moving with a speed of 10m/s towards a platform and blows a horn with frequency 400Hz. Find the frequency heard by a passenger standing on the platform. (v_sound = 310m/s)",
+            "option_a": "405 Hz",
+            "option_b": "425 Hz",
+            "option_c": "380 Hz",
+            "option_d": "413 Hz",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two moles of helium are mixed with n moles of hydrogen. If Cp/Cv = 3/2 for the mixture, then the value of n is:",
+            "option_a": "1",
+            "option_b": "3",
+            "option_c": "2",
+            "option_d": "4",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A block of mass 10 kg on a horizontal surface is pulled by a force F at 30° to the horizontal. If μs = 0.25, the block just starts to move when F is:",
+            "option_a": "20 N",
+            "option_b": "35.7 N",
+            "option_c": "33.3 N",
+            "option_d": "25.2 N",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "An equilateral triangular loop of wire carries a current of 2A. If the length of each side is 4√3 cm, calculate the magnitude of the magnetic field at the centroid of the triangle.",
+            "option_a": "4√3 x 10^-4 T",
+            "option_b": "√3 x 10^-4 T",
+            "option_c": "4√3 x 10^-5 T",
+            "option_d": "3√3 x 10^-5 T",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "For a damped oscillator, if the ratio r²/mk is 8%, the change in time period compared to the undamped oscillator is approximately:",
+            "option_a": "increases by 1%",
+            "option_b": "increases by 8%",
+            "option_c": "decreases by 1%",
+            "option_d": "decreases by 8%",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The correct relation between γ = Cp/Cv and temperature T is:",
+            "option_a": "γ ∝ T⁰",
+            "option_b": "γ ∝ 1/T",
+            "option_c": "γ ∝ T",
+            "option_d": "γ ∝ 1/√T",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two particles of equal mass m have respective initial velocities ui and u((i+j)/2). They collide completely inelastically. The energy lost in the process is :",
+            "option_a": "3/4 mu²",
+            "option_b": "√(2/3) mu²",
+            "option_c": "1/3 mu²",
+            "option_d": "1/8 mu²",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In determining surface tension T using T = rhg/2 x 10^3, if diameter D = 1.25x10^-2 m and rise h = 1.45x10^-2 m are measured with a least count of 0.01x10^-2 m, the possible error is:",
+            "option_a": "0.15%",
+            "option_b": "1.5%",
+            "option_c": "2.4%",
+            "option_d": "10%",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A point source of sound moves along a straight line with constant velocity. An observer is at a perpendicular distance 'd' from the path. As the source passes the observer, the heard frequency:",
+            "option_a": "increases continuously",
+            "option_b": "stays constant then drops",
+            "option_c": "decreases continuously",
+            "option_d": "is highest at the minimum distance",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A diode detector is used to detect an amplitude modulated wave of 60% modulation by using a condenser of capacity 250 pF in parallel with a load resistance 100 kΩ. Find the max modulated frequency.",
+            "option_a": "10.62 MHz",
+            "option_b": "10.62 kHz",
+            "option_c": "5.31 MHz",
+            "option_d": "5.31 kHz",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The mass and the diameter of a planet are three times the respective values for the Earth. The period of oscillation of a simple pendulum on the Earth is 2s. The period on the planet would be :",
+            "option_a": "2/√3 s",
+            "option_b": "2√3 s",
+            "option_c": "√3/2 s",
+            "option_d": "3/2 s",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In a 400 cm potentiometer wire with resistance 0.01 Ω/cm, a 3V cell is connected. If a voltmeter is connected with jockey at 50 cm from the high potential end, the reading is:",
+            "option_a": "0.20 V",
+            "option_b": "0.25 V",
+            "option_c": "0.75 V",
+            "option_d": "0.50 V",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A block on a rough 30° inclined plane remains at rest up to a maximum force of 2 N acting down the plane. The maximum force up the plane that does not move it is 10 N. Find μs.",
+            "option_a": "2/3",
+            "option_b": "√3/2",
+            "option_c": "√3/4",
+            "option_d": "1/2",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The dimensions of Stefan’s constant are:",
+            "option_a": "[M⁰L¹T⁻³K⁻⁴]",
+            "option_b": "[ML¹T⁻³K⁻³]",
+            "option_c": "[ML²T⁻³K⁻⁴]",
+            "option_d": "[ML⁰T⁻³K⁻⁴]",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A square parallel plate capacitor is filled with four dielectrics K1, K2, K3, K4 in a series-parallel quadrant arrangement. If all quadrants have equal volume, find the effective K if the electric field is perpendicular to the quadrant interfaces.",
+            "option_a": "(K1+K2)(K3+K4)/2(K1+K2+K3+K4)",
+            "option_b": "(K1+K2)(K3+K4)/(K1+K2+K3+K4)",
+            "option_c": "(K1+K4)(K2+K3)/2(K1+K2+K3+K4)",
+            "option_d": "(K1+K3)(K2+K4)/(K1+K2+K3+K4)",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A radioactive nucleus decays by two different processes. The half life for the first process is 10s and that for the second is 100s. The effective half life is close to:",
+            "option_a": "9 sec",
+            "option_b": "55 sec",
+            "option_c": "6 sec",
+            "option_d": "12 sec",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A bridge of four capacitors is connected in a circuit. C1 = 8μF, C2 = 12μF, C3 = 6μF, and C4 = 4μF. If the bridge is in a balanced state (Wheatstone condition), what is the equivalent capacitance between the main terminals?",
+            "option_a": "31/23 μF",
+            "option_b": "32/23 μF",
+            "option_c": "33/23 μF",
+            "option_d": "4 μF",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two identical capacitors of capacitance C are connected in parallel. This combination is then connected in series with a third identical capacitor. Find the equivalent capacitance of the entire network.",
+            "option_a": "C/2",
+            "option_b": "2C",
+            "option_c": "2C/3",
+            "option_d": "3C/2",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A block of √3 kg is hung by a string from a wall. A horizontal force F is applied such that the string makes an angle of 30° with the wall in equilibrium. Find the tension T in the string.",
+            "option_a": "25 N",
+            "option_b": "15 N",
+            "option_c": "10 N",
+            "option_d": "20 N",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Match Torque (A), Energy Density (B), Pressure gradient (C), and Impulse (D) with their units:",
+            "option_a": "A-IV, B-I, C-III, D-II",
+            "option_b": "A-I, B-IV, C-III, D-II",
+            "option_c": "A-IV, B-III, C-I, D-II",
+            "option_d": "A-IV, B-I, C-II, D-III",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A solid uniform sphere of mass M and radius R has a smaller sphere of radius R/2 removed from its edge. Calculate the gravitational field due to the remaining part at a point P located at a distance 'x' far from the center along the axis of removal.",
+            "option_a": "5/6 GM/x²",
+            "option_b": "8/9 GM/x²",
+            "option_c": "7/8 GM/x²",
+            "option_d": "6/7 GM/x²",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In an RC circuit, as the capacitance C of one capacitor is increased from 1μF to 3μF, the charge Q on a second capacitor connected in parallel with it will:",
+            "option_a": "increase and approach a limit",
+            "option_b": "increase linearly",
+            "option_c": "decrease exponentially",
+            "option_d": "remain constant",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A particle performs SHM with amplitude A. Its speed is trebled at the instant that it is at a distance 2A/3 from equilibrium position. The new amplitude of the motion is:",
+            "option_a": "A/3 √41",
+            "option_b": "3A",
+            "option_c": "A√3",
+            "option_d": "7A/3",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A thin circular disk lies in the xy-plane. Find the ratio of its moment of inertia about the z-axis (through center) to the moment of inertia about an axis tangent to its rim and parallel to the z-axis.",
+            "option_a": "1:03",
+            "option_b": "1:04",
+            "option_c": "1:05",
+            "option_d": "1:02",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Ideal diatomic gas A (rigid) and gas B (with additional vibrational mode) are at temp T. The ratio of their specific heats Cv_A and Cv_B is:",
+            "option_a": "5:09",
+            "option_b": "7:09",
+            "option_c": "3:05",
+            "option_d": "5:07",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A plane EM wave (intensity I) propagates along +Y. If E is along +Z, the allowed expression for electric field is:",
+            "option_a": "E = √(2I/ε₀c) cos[2π/λ (y-ct)] k",
+            "option_b": "E = √(2I/ε₀c) cos[2π/λ (y+ct)] i",
+            "option_c": "E = √(I/ε₀c) cos[2π/λ (y-ct)] k",
+            "option_d": "E = √(I/ε₀c) cos[2π/λ (y-ct)] i",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A square frame (side 10 cm) moves right at 10 m/s away from a long straight wire carrying 1A. The induced emf when the left arm is at x=10 cm from the wire is :",
+            "option_a": "2 μV",
+            "option_b": "1 μV",
+            "option_c": "0.75 μV",
+            "option_d": "0.5 μV",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Match Young's Modulus (A), Viscosity (B), Planck's Constant (C), and Work Function (D) with dimensions:",
+            "option_a": "A-I, B-III, C-IV, D-II",
+            "option_b": "A-I, B-II, C-III, D-IV",
+            "option_c": "A-II, B-III, C-IV, D-I",
+            "option_d": "A-III, B-I, C-II, D-IV",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A 0.2 μF capacitor is charged to 10 V and then connected to a 0.5 mH inductor. The current when the potential difference across the capacitor is 5 V is:",
+            "option_a": "0.34 A",
+            "option_b": "0.25 A",
+            "option_c": "0.17 A",
+            "option_d": "0.15 A",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Height of transmitting antenna is 32 m and receiving antenna is 50 m. Maximum distance for LOS communication is:",
+            "option_a": "55.4 km",
+            "option_b": "45.5 km",
+            "option_c": "54.5 km",
+            "option_d": "455 km",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A plane EM wave travels along +X. At a point, E = 6 V/m along +Y. The corresponding magnetic field B is :",
+            "option_a": "6x10⁻⁸ T along z-direction",
+            "option_b": "6x10⁻⁸ T along x-direction",
+            "option_c": "2x10⁻⁸ T along z-direction",
+            "option_d": "2x10⁻⁸ T along y-direction",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        }
+    ],
+    "chemistry": [
+        {
+            "question_text": "The elevation in boiling point of 0.25 molal aqueous solution of a substance is (Kb = 0.52 K kg mol⁻¹):",
+            "option_a": "0.15 K",
+            "option_b": "0.50 K",
+            "option_c": "0.13 K",
+            "option_d": "2.08 K",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which among the following is correct for the electrolysis of brine solution?",
+            "option_a": "Oxygen gas is liberated at cathode",
+            "option_b": "Sodium metal is collected at anode",
+            "option_c": "Hydrogen gas is liberated at cathode",
+            "option_d": "Chlorine gas is liberated at cathode",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Given for Sn4+/Sn2+, standard reduction potential is 0.15 V and for Au3+/Au, standard reduction potential is 1.5 V. For the reaction 3Sn2+ + 2Au3+ -> 3Sn4+ + 2Au, the value of E°cell is:",
+            "option_a": "+1.35 V",
+            "option_b": "+2.55 V",
+            "option_c": "-1.35 V",
+            "option_d": "-2.55 V",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "How many isomeric vicinal-dihalides are possible for the compound having molecular formula C3H6Cl2?",
+            "option_a": "1",
+            "option_b": "2",
+            "option_c": "3",
+            "option_d": "4",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The temperature of 32 degrees Celsius is equivalent to:",
+            "option_a": "89.6 degrees Fahrenheit",
+            "option_b": "85.6 degrees Fahrenheit",
+            "option_c": "70 degrees Fahrenheit",
+            "option_d": "69 degrees Fahrenheit",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "In the cell Pt(s)|H2(g, 1 bar)|HCl(aq)|AgCl(s)|Ag(s)|Pt(s), the potential is 0.92 V when a 10^-6 molal HCl solution is used. The standard electrode potential of the (AgCl/Ag, Cl-) electrode at 298 K is:",
+            "option_a": "0.20 V",
+            "option_b": "0.76 V",
+            "option_c": "0.40 V",
+            "option_d": "0.94 V",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Bouveault-Blanc reduction reaction involves:",
+            "option_a": "Reduction of an acyl halide with H2/Pd",
+            "option_b": "Reduction of an ester with Na/C2H5OH",
+            "option_c": "Reduction of a carbonyl compound with Na/Hg and HCl",
+            "option_d": "Reduction of an anhydride with LiAlH4",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Statement I: Colourless cupric metaborate is reduced to cuprous metaborate in a luminous flame. Statement II: Cuprous metaborate is obtained by heating boric anhydride and copper sulphate in a non-luminous flame.",
+            "option_a": "Statement I is true but Statement II is false",
+            "option_b": "Both Statement I and Statement II are false",
+            "option_c": "Statement I is false but Statement II is true",
+            "option_d": "Both Statement I and Statement II are true",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Identify the correct statement among the following regarding colloids:",
+            "option_a": "Brownian movement is more pronounced for smaller particles than for bigger particles",
+            "option_b": "Sols of metal sulphides are lyophilic",
+            "option_c": "Hardy Schulze law states that bigger the size of the ions, the greater is its coagulating power",
+            "option_d": "Charcoal is expected to adsorb chlorine more than hydrogen sulphide",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Bromination of cyclohexene in the presence of UV light yields which major product?",
+            "option_a": "1,2-dibromocyclohexane",
+            "option_b": "3-bromocyclohexene",
+            "option_c": "1-bromocyclohexene",
+            "option_d": "2,3-dibromocyclohexene",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The artificial sweetener that has the highest sweetness value in comparison to cane sugar is:",
+            "option_a": "Aspartame",
+            "option_b": "Saccharin",
+            "option_c": "Sucralose",
+            "option_d": "Alitame",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The molarity of a solution obtained by mixing 750 mL of 0.5 M HCl with 250 mL of 2 M HCl will be:",
+            "option_a": "0.875 M",
+            "option_b": "1.00 M",
+            "option_c": "1.75 M",
+            "option_d": "0.0975 M",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Peptization is a:",
+            "option_a": "Process of converting a colloidal solution into precipitate",
+            "option_b": "Process of converting precipitate into colloidal solution",
+            "option_c": "Process of converting soluble particles to form colloidal solution",
+            "option_d": "Process of bringing colloidal molecule into solution",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Among the following isomers of difluorocyclohexene, which arrangement would result in the highest net dipole moment (most polar)?",
+            "option_a": "Both fluorine atoms pointing in the same direction (cis-isomer)",
+            "option_b": "Fluorine atoms pointing in exactly opposite directions (trans-isomer)",
+            "option_c": "Fluorine atoms at 120 degree separation",
+            "option_d": "A single fluorine substitution",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Identify the correct statements: (a) saline hydrides produce H2 gas with H2O. (b) LiAlH4 with BF3 leads to B2H6. (c) PH3 and CH4 are electron-rich and electron-precise hydrides. (d) HF and CH4 are molecular hydrides.",
+            "option_a": "(c) and (d) only",
+            "option_b": "(a), (b) and (c) only",
+            "option_c": "(a), (b), (c) and (d)",
+            "option_d": "(a), (c) and (d) only",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "According to Moseley's Law, the graph of the square root of X-ray frequency (v) versus atomic number (Z) is linear. This implies the proportionality is:",
+            "option_a": "sqrt(v) is proportional to Z",
+            "option_b": "v is proportional to Z",
+            "option_c": "v^2 is proportional to Z",
+            "option_d": "1/v is proportional to Z",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "For a large number of molecules in the gaseous state, the ratio of most probable speed, average speed, and root mean square speed is:",
+            "option_a": "1.225 : 1.128 : 1",
+            "option_b": "1.128 : 1.225 : 1",
+            "option_c": "1 : 1.128 : 1.225",
+            "option_d": "1 : 1.225 : 1.128",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Identify the correct order of spin-only magnetic moments for: (I) [Cr(H2O)6]Br2, (II) Na4[Fe(CN)6], (III) Na3[Fe(C2O4)3], (IV) (Et4N)2[CoCl4]:",
+            "option_a": "(III) > (I) > (II) > (IV)",
+            "option_b": "(III) > (I) > (IV) > (II)",
+            "option_c": "(I) > (IV) > (III) > (II)",
+            "option_d": "(II) approx (I) > (IV) > (III)",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Arrange the following in decreasing order of acidic strength: (A) p-nitrophenol, (B) m-nitrophenol, (C) m-methoxyphenol, (D) p-methoxyphenol:",
+            "option_a": "A > B > C > D",
+            "option_b": "B > A > C > D",
+            "option_c": "D > C > A > B",
+            "option_d": "D > C > B > A",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Predict the most stable product when 3-methylbutan-2-ol reacts first with p-toluenesulfonyl chloride in pyridine, followed by Sodium Cyanide (NaCN) in DMF:",
+            "option_a": "The product with retention of configuration",
+            "option_b": "The product with inversion of configuration (substitution)",
+            "option_c": "An elimination product (alkene)",
+            "option_d": "A rearranged nitrile product",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Assertion: Rayon is a semisynthetic polymer whose properties are better than natural cotton. Reason: Mechanical and aesthetic properties of cellulose can be improved by acetylation.",
+            "option_a": "Both assertion and reason are correct, and reason is the correct explanation",
+            "option_b": "Both assertion and reason are correct, but reason is not the correct explanation",
+            "option_c": "Assertion is incorrect, but reason is correct",
+            "option_d": "Both assertion and reason are incorrect",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The effect of lanthanoid contraction in the lanthanoid series of elements means:",
+            "option_a": "Decrease in both atomic and ionic radii",
+            "option_b": "Increase in atomic radii and decrease in ionic radii",
+            "option_c": "Increase in both atomic and ionic radii",
+            "option_d": "Decrease in atomic radii and increase in ionic radii",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Assertion: In an Ellingham diagram, the oxidation of carbon to carbon monoxide shows a negative slope. Reason: CO tends to decompose at higher temperature.",
+            "option_a": "Assertion is correct but Reason is not correct",
+            "option_b": "Assertion is not correct but Reason is correct",
+            "option_c": "Both Assertion and Reason are correct and Reason is correct explanation",
+            "option_d": "Both Assertion and Reason are correct but Reason is NOT the correct explanation",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The coagulating power of electrolytes having ions Na+, Al3+ and Ba2+ for arsenic sulphide sol increases in the order:",
+            "option_a": "Al3+ < Ba2+ < Na+",
+            "option_b": "Na+ < Ba2+ < Al3+",
+            "option_c": "Ba2+ < Na+ < Al3+",
+            "option_d": "Al3+ < Na+ < Ba2+",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The 71st electron of an element X with an atomic number of 71 enters into which orbital?",
+            "option_a": "4f",
+            "option_b": "6p",
+            "option_c": "6s",
+            "option_d": "5d",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Calamine is an ore of which metal?",
+            "option_a": "Aluminium",
+            "option_b": "Copper",
+            "option_c": "Iron",
+            "option_d": "Zinc",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Phenol is also known by what other name?",
+            "option_a": "Carboxylic acid",
+            "option_b": "Carbolic acid",
+            "option_c": "Benzoic acid",
+            "option_d": "Salicylic acid",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "During the electrolysis of brine solution, which species is formed at the cathode?",
+            "option_a": "OH-",
+            "option_b": "Cl2",
+            "option_c": "O2",
+            "option_d": "H2 (at anode)",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "A vapour pressure vs temperature graph for liquids X, Y, Z shows Boiling Point order Z > Y > X. Which inference is correct?",
+            "option_a": "X has higher intermolecular interactions than Y",
+            "option_b": "X has lower interactions than Y",
+            "option_c": "Z has lower interactions than Y",
+            "option_d": "X and Z have same interactions",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which statement is incorrect regarding antibiotics?",
+            "option_a": "An antibiotic must be a product of metabolism",
+            "option_b": "An antibiotic should be effective in low concentrations",
+            "option_c": "An antibiotic is a synthetic analogue of a naturally occurring antibiotic",
+            "option_d": "An antibiotic should promote the growth or survival of microorganisms",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The volume strength of 1 M H2O2 is (Molar mass of H2O2 = 34 g/mol):",
+            "option_a": "16.8",
+            "option_b": "11.35",
+            "option_c": "22.4",
+            "option_d": "5.6",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Manganese exhibits its highest oxidation state in Mn2O7. Which statements are correct regarding its structure?",
+            "option_a": "Mn is tetrahedrally surrounded by O and contains Mn-O-Mn bridge",
+            "option_b": "Mn is octahedrally surrounded by O",
+            "option_c": "Contains Mn-Mn bond",
+            "option_d": "Mn is square planar",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The fundamental principle of column chromatography is:",
+            "option_a": "Capillary action",
+            "option_b": "Gravitational force",
+            "option_c": "Differential adsorption of substances on solid phase",
+            "option_d": "Differential absorption of substances on solid phase",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "In the Victor-Meyer's test, the colours given by 1, 2 and 3 degree alcohols are respectively:",
+            "option_a": "Red, colourless, blue",
+            "option_b": "Red, blue, colourless",
+            "option_c": "Colourless, red, blue",
+            "option_d": "Red, blue, violet",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "At 35 degrees Celsius vapour pressure of CS2 is 512 mmHg and acetone is 344 mmHg. A mixture has total pressure of 600 mmHg. Which statement is false?",
+            "option_a": "Heat must be absorbed to produce the solution",
+            "option_b": "A mixture of 100 mL CS2 and 100 mL acetone has volume < 200 mL",
+            "option_c": "CS2 and acetone are less attracted to each other than to themselves",
+            "option_d": "Raoult's law is not obeyed by this system",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is a thermosetting polymer?",
+            "option_a": "Buna-N",
+            "option_b": "PVC",
+            "option_c": "Bakelite",
+            "option_d": "Nylon 6",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Arrange the following amines in order of increasing basicity: p-methoxyaniline, p-nitroaniline, aniline, methylamine.",
+            "option_a": "Aniline < p-methoxyaniline < p-nitroaniline < methylamine",
+            "option_b": "p-nitroaniline < aniline < p-methoxyaniline < methylamine",
+            "option_c": "Methylamine < aniline < p-methoxyaniline < p-nitroaniline",
+            "option_d": "p-nitroaniline < p-methoxyaniline < aniline < methylamine",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The pH of normal rain water is approximately:",
+            "option_a": "6.5",
+            "option_b": "7.5",
+            "option_c": "5.6",
+            "option_d": "7.0",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Assertion: Ozone is destroyed by CFCs in the upper stratosphere. Reason: Ozone holes increase the amount of UV radiation reaching the earth.",
+            "option_a": "Both correct, reason is not the explanation",
+            "option_b": "Assertion false, reason correct",
+            "option_c": "Both correct, reason is the correct explanation",
+            "option_d": "Both incorrect",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which artificial sweetener has the highest sweetness value relative to cane sugar?",
+            "option_a": "Alitame",
+            "option_b": "Saccharin",
+            "option_c": "Aspartame",
+            "option_d": "Sucralose",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Regarding Biochemical Oxygen Demand (BOD), which statement is correct?",
+            "option_a": "Aerobic bacteria decrease the BOD value",
+            "option_b": "Anaerobic bacteria increase the BOD value",
+            "option_c": "Clean water has BOD higher than 10 ppm",
+            "option_d": "Polluted water has BOD higher than 10 ppm",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Identify correct statements: (A) Boiling point elevation is same for 0.1 M NaCl and 0.1 M urea. (B) Azeotropes boil without composition change. (C) Osmosis is hypertonic to hypotonic. (D) Density of 4.09 M 32% H2SO4 is approx 1.26 g/mL.",
+            "option_a": "B and D only",
+            "option_b": "B, D and E only",
+            "option_c": "A and C only",
+            "option_d": "A, B and D only",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which among the following compounds are Lewis acids?",
+            "option_a": "PH3 and BCl3",
+            "option_b": "AlCl3 and SiCl4",
+            "option_c": "PH3 and SiCl4",
+            "option_d": "BCl3 and AlCl3",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Initial volume of a gas is 750 mL at 840 mmHg. If pressure changes to 360 mmHg, final volume is:",
+            "option_a": "1.750 L",
+            "option_b": "3.60 L",
+            "option_c": "4.032 L",
+            "option_d": "7.50 L",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Tischenko reaction is a modification of which reaction?",
+            "option_a": "Aldol condensation",
+            "option_b": "Claisen condensation",
+            "option_c": "Cannizzaro reaction",
+            "option_d": "Pinacol-pinacolon reaction",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Time for 90% completion of first order reaction is 't'. Time for 99.9% completion is:",
+            "option_a": "t",
+            "option_b": "2t",
+            "option_c": "3t",
+            "option_d": "t/2",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The major product of the reaction between 3,4-dihydro-2H-pyran and an alcohol (RCH2OH) in the presence of H+ catalyst is:",
+            "option_a": "A hemiacetal",
+            "option_b": "An acetal",
+            "option_c": "An ether",
+            "option_d": "An ester",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is an anionic detergent?",
+            "option_a": "Sodium stearate",
+            "option_b": "Sodium lauryl sulphate",
+            "option_c": "Cetyltrimethyl ammonium bromide",
+            "option_d": "Glyceryl oleate",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which statement regarding the structure of Vitamin C (ascorbic acid) is correct?",
+            "option_a": "Structure with double bond conjugated with carbonyl group is most stable",
+            "option_b": "Structure with isolated double bond",
+            "option_c": "Structure with bridged oxygen",
+            "option_d": "Structure with five-membered ring lacking double bond",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Solutions A and B have 1g solutes X and Y in 1kg water. Freezing point depression ratio is 1:4. Ratio of molar masses X:Y is:",
+            "option_a": "1 : 4",
+            "option_b": "1 : 0.25",
+            "option_c": "1 : 0.20",
+            "option_d": "1 : 5",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        }
+    ],
+    "mathematics": [
+        {
+            "question_text": "If A, B, C are the angles of ΔABC then cot A. cot B + cot B. cot C + cot C. cot A =",
+            "option_a": "0",
+            "option_b": "1",
+            "option_c": "2",
+            "option_d": "-1",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If f(x) is continuous at x=0, where f(x) = x² + α for x ≥ 0 and f(x) = 2√(x² + 1) + β for x < 0. If f(1/2) = 2, then α² + β² is:",
+            "option_a": "3",
+            "option_b": "8/25",
+            "option_c": "25/8",
+            "option_d": "1/3",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If log₁₀((x³ - y³) / (x³ + y³)) = 2 then dy/dx =",
+            "option_a": "x/y",
+            "option_b": "-y/x",
+            "option_c": "-x/y",
+            "option_d": "y/x",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A coin is tossed three times. If X denotes the absolute difference between the number of heads and the number of tails then P(X=1) =",
+            "option_a": "1/2",
+            "option_b": "2/3",
+            "option_c": "1/6",
+            "option_d": "3/4",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Letters in the word HULULULU are rearranged. The probability of all three L being together is:",
+            "option_a": "3/20",
+            "option_b": "2/5",
+            "option_c": "3/28",
+            "option_d": "5/23",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Calculate the number of ways of selecting 15 teams from 15 men and 15 women, such that each team consists of exactly one man and one woman.",
+            "option_a": "1120",
+            "option_b": "1240",
+            "option_c": "1880",
+            "option_d": "1960",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Find the equation of the plane containing the line x/2 = y/3 = z/4 and perpendicular to the plane containing the straight lines x/3 = y/4 = z/2 and x/4 = y/2 = z/3.",
+            "option_a": "x + 2y - 2z = 0",
+            "option_b": "x - 2y + z = 0",
+            "option_c": "5x + 2y - 4z = 0",
+            "option_d": "3x + 2y - 3z = 0",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The area (in sq units) of the region described by A = {(x,y) : x² + y² ≤ 1 and y² ≤ 1 - x} is:",
+            "option_a": "π/2 + 4/3",
+            "option_b": "π/2 - 4/3",
+            "option_c": "π/2 - 2/3",
+            "option_d": "π/2 + 2/3",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The sum of the series S = 1/19! + 1/(3!7!) + 1/(5!5!) + ... to 10 terms is equal to:",
+            "option_a": "2²⁰ / 20!",
+            "option_b": "2¹⁰ / 20!",
+            "option_c": "2¹⁹ / 19!",
+            "option_d": "2¹⁹ / 20!",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If 0 ≤ x < π/2, find the number of values of x for which sin x - sin 2x + sin 3x = 0.",
+            "option_a": "2",
+            "option_b": "1",
+            "option_c": "3",
+            "option_d": "4",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If sin(θ + φ) = 6 sin(θ - φ) and tan θ / tan φ = k, what is the value of k?",
+            "option_a": "3/5",
+            "option_b": "6/5",
+            "option_c": "4/5",
+            "option_d": "7/5",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "ΔABC has vertices at A(2,3,5), B(-1,3,2) and C(λ,5,μ). If the median through A is equally inclined to the axes, find λ and μ.",
+            "option_a": "10, 7",
+            "option_b": "9, 10",
+            "option_c": "7, 9",
+            "option_d": "7, 10",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A function y = f(x) has f''(x) = 6(x-1). If its graph passes through (2, 1) and the tangent at that point is y = 3x - 5, the function is:",
+            "option_a": "(x-1)²",
+            "option_b": "(x-1)³",
+            "option_c": "(x+1)³",
+            "option_d": "(x+1)²",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Find the value of the integral ∫ from -2 to 2 of (sin²x / ([x/π] + 1/2)) dx, where [x] is the greatest integer function.",
+            "option_a": "4",
+            "option_b": "4 - sin 4",
+            "option_c": "sin 4",
+            "option_d": "0",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Let A = {(a,b) ∈ R×R : |a-5|<1 and |b-5|<1} and B = {(a,b) ∈ R×R : 4(a-6)² + 9(b-5)² ≤ 36}. Then:",
+            "option_a": "B ⊂ A",
+            "option_b": "A ⊂ B",
+            "option_c": "A ∩ B = ∅",
+            "option_d": "Neither A ⊂ B nor B ⊂ A",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Let f(x) = 2x + tan⁻¹x and g(x) = log_e(√(1+x²) + x) for x ∈ [0, 3]. Which of the following is true?",
+            "option_a": "min f'(x) = 1 + max g'(x)",
+            "option_b": "f(x) < g(x) for some sub-interval",
+            "option_c": "max f(x) > max g(x)",
+            "option_d": "f'(x) < g'(x) for some x",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A hyperbola with transverse axis length 2 sin θ is confocal with the ellipse 3x² + 4y² = 12. Its equation is:",
+            "option_a": "x² sin² θ - y² cos² θ = 1",
+            "option_b": "x² cosec² θ - y² sec² θ = 1",
+            "option_c": "(x² + y²) sin² θ = 1 + y²",
+            "option_d": "x² cosec² θ = x² + y² sin² θ",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If the tangent at point P(t) on x = 4t² + 3, y = 8t³ - 1 meets the curve again at Q, the coordinates of Q are:",
+            "option_a": "(t² + 3, -t³ - 1)",
+            "option_b": "(4t² + 3, -8t³ - 1)",
+            "option_c": "(t² + 3, t³ - 1)",
+            "option_d": "(16t² + 3, -64t³ - 1)",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The limit as x approaches π/2 of (cot x - cos x) / (π - 2x)³ equals:",
+            "option_a": "1/16",
+            "option_b": "1/8",
+            "option_c": "1/4",
+            "option_d": "1/24",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Given P(A' ∪ B') = 1/6, P(A' ∩ B') = 1/4 and P(A') = 1/4. The events A and B are:",
+            "option_a": "Independent but not equally likely",
+            "option_b": "Independent and equally likely",
+            "option_c": "Mutually exclusive and independent",
+            "option_d": "Equally likely but not independent",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Tangents from (-8, 0) to y² = 8x touch at P and Q. If F is the focus, the area of ΔPFQ is:",
+            "option_a": "24",
+            "option_b": "32",
+            "option_c": "48",
+            "option_d": "64",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The coefficient of x¹⁰¹² in the expansion of (1 + xⁿ + x²⁵³)¹⁰, where n ≤ 22 is a positive integer, is:",
+            "option_a": "1",
+            "option_b": "¹⁰C₄",
+            "option_c": "4n",
+            "option_d": "²⁵³C₄",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The contrapositive of the statement 'If you are born in India, then you are a citizen of India' is:",
+            "option_a": "If you are born in India, then you are not a citizen of India.",
+            "option_b": "If you are not a citizen of India, then you are not born in India.",
+            "option_c": "If you are a citizen of India, then you are born in India.",
+            "option_d": "If you are not born in India, then you are not a citizen of India.",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The integral ∫ from 0 to 1/2 of ln(1 + 2x) / (1 + 4x²) dx equals:",
+            "option_a": "π/8 ln 2",
+            "option_b": "π/4 ln 2",
+            "option_c": "π/16 ln 2",
+            "option_d": "π/2 ln 2",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The least positive integer n such that 1 - 2/3 - 2/3² - ... - 2/3ⁿ⁻¹ < 1/100 is:",
+            "option_a": "4",
+            "option_b": "5",
+            "option_c": "6",
+            "option_d": "7",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A helicopter flies along y - x³ᐟ² = 7. A soldier at (1/2, 7) shoots when it is nearest. Find that distance.",
+            "option_a": "1/2",
+            "option_b": "1/3 √(7/3)",
+            "option_c": "1/6 √(7/3)",
+            "option_d": "√5 / 6",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If f(x) = 2 tan⁻¹x + sin⁻¹(2x / (1+x²)) for x > 1, then f(5) equals:",
+            "option_a": "π/2",
+            "option_b": "π",
+            "option_c": "4 tan⁻¹(5)",
+            "option_d": "tan⁻¹(65/156)",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Regarding the system αx + y + z = 1, x + αy + z = 1, x + y + αz = β, which is NOT correct?",
+            "option_a": "Infinitely many solutions if α = 2 and β = -1",
+            "option_b": "x + y + z = 3/4 if α = 2 and β = 1",
+            "option_c": "Infinitely many solutions if α = 1 and β = 1",
+            "option_d": "No solution if α = -2 and β = 1",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A vector v in the first octant makes 60° with x-axis, 45° with y-axis and acute angle γ with z-axis. If a plane through (√2, -1, 1) and (a, b, c) is normal to v, then:",
+            "option_a": "√2a - b + c = 1",
+            "option_b": "a + √2b + c = 1",
+            "option_c": "√2a + b + c = 1",
+            "option_d": "a + b + √2c = 1",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Determine the truth values: (S1) (p ⇒ q) ∨ (p ∧ ~q) is a tautology; (S2) (~p ⇒ ~q) ∧ (~p ∨ q) is a contradiction.",
+            "option_a": "Both correct",
+            "option_b": "Only (S2) correct",
+            "option_c": "Only (S1) correct",
+            "option_d": "Both wrong",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The limit as x approaches 0 of sin²x / (√2 - √(1 + cos x)) equals:",
+            "option_a": "2√2",
+            "option_b": "4√2",
+            "option_c": "√2",
+            "option_d": "4",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A point on the XOZ plane divides the line joining (5, -3, -2) and (1, 2, -2). Find the point.",
+            "option_a": "(13/5, 0, -2)",
+            "option_b": "(13/5, 0, 2)",
+            "option_c": "(5, 0, 2)",
+            "option_d": "(5, 0, -2)",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If α, β are roots of x² - x + 2λ = 0 and α, γ are roots of 3x² - 10x + 27λ = 0, find βγ/λ.",
+            "option_a": "36",
+            "option_b": "27",
+            "option_c": "9",
+            "option_d": "18",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "20m of wire is used to fence a circular sector flower-bed. Find the maximum possible area in sq m.",
+            "option_a": "10",
+            "option_b": "25",
+            "option_c": "30",
+            "option_d": "12.5",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Repeat: A vector v in the first octant makes 60° with x-axis, 45° with y-axis and acute angle γ with z-axis. If a plane through (√2, -1, 1) and (a, b, c) is normal to v, find the relation.",
+            "option_a": "√2a - b + c = 1",
+            "option_b": "a + √2b + c = 1",
+            "option_c": "√2a + b + c = 1",
+            "option_d": "a + b + √2c = 1",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Find the shortest distance between the lines (x+7)/-6 = (y-6)/7 = z/1 and (7-x)/2 = y-2 = z-6.",
+            "option_a": "2√29",
+            "option_b": "1",
+            "option_c": "√(37/29)",
+            "option_d": "√29 / 2",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Let A = {1,2,3,4,5,6,7}. The relation R = {(x,y) ∈ A×A : x + y = 7} is:",
+            "option_a": "Symmetric but neither reflexive nor transitive",
+            "option_b": "Transitive but neither symmetric nor reflexive",
+            "option_c": "An equivalence relation",
+            "option_d": "Reflexive but neither symmetric nor transitive",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "In ΔABC with A(2,3,5), B(-1,3,2), C(λ,5,μ), if the median through A is equally inclined to the axes, find λ³ + μ³ + 5.",
+            "option_a": "1130",
+            "option_b": "1348",
+            "option_c": "676",
+            "option_d": "1077",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If sin⁻¹x = 2 tan⁻¹x, find the number of integral values of x satisfying the equation.",
+            "option_a": "0",
+            "option_b": "1",
+            "option_c": "2",
+            "option_d": "More than 2",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Find the number of integers greater than 7000 that can be formed using digits 3, 5, 6, 7, 8 without repetition.",
+            "option_a": "168",
+            "option_b": "120",
+            "option_c": "220",
+            "option_d": "48",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "In ΔPQR, if 3 sin P + 4 cos Q = 6 and 4 sin Q + 3 cos P = 1, find the angle R.",
+            "option_a": "5π/6",
+            "option_b": "π/6",
+            "option_c": "π/4",
+            "option_d": "3π/4",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Let z₁ = 2 + 3i, z₂ = 3 + 4i. The set S = {z ∈ C : |z - z₁|² - |z - z₂|² = |z₁ - z₂|²} represents a:",
+            "option_a": "Line with intercepts sum -18",
+            "option_b": "Hyperbola with e=2",
+            "option_c": "Hyperbola with transverse axis 7",
+            "option_d": "Line with intercepts sum 14",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The integral ∫ x cos⁻¹((1 - x²) / (1 + x²)) dx (x > 0) is equal to:",
+            "option_a": "-x + (1 + x²) tan⁻¹x + c",
+            "option_b": "x - (1 + x²) cot⁻¹x + c",
+            "option_c": "-x + (1 + x²) cot⁻¹x + c",
+            "option_d": "x - (1 + x²) tan⁻¹x + c",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A line intercepted between axes is trisected at A(4, 3) (nearer to x-axis). Find its equation.",
+            "option_a": "4x + 3y = 7",
+            "option_b": "3x + 2y = 18",
+            "option_c": "3x + 8y = 36",
+            "option_d": "x + 3y = 13",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Students' mean/variance are 10/4. One student's mark increases from 8 to 12. If the new mean is 10.2, find the new variance.",
+            "option_a": "3.92",
+            "option_b": "3.96",
+            "option_c": "4.04",
+            "option_d": "4.08",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "For x ∈ (0, π), find the number of solutions to sin x + 2 sin 2x - sin 3x = 3.",
+            "option_a": "Infinitely many",
+            "option_b": "Three",
+            "option_c": "One",
+            "option_d": "No solution",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If f(x) = ax² + bx + c, f(1) = 3 and f(x+y) = f(x) + f(y) + xy, find Σ f(n) from n=1 to 10.",
+            "option_a": "165",
+            "option_b": "190",
+            "option_c": "255",
+            "option_d": "330",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "Find the locus of the mid-point of AB, where tangents to 4y² = x² + 1 intersect axes at A and B.",
+            "option_a": "x² - 4y² + 16x²y² = 0",
+            "option_b": "x² - 4y² - 16x²y² = 0",
+            "option_c": "4x² - y² + 16x²y² = 0",
+            "option_d": "4x² - y² - 16x²y² = 0",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "L1 and L2 are intersection lines of specific planes. Find origin's distance from the plane containing L1 and L2.",
+            "option_a": "1 / 4√2",
+            "option_b": "1 / 3√2",
+            "option_c": "1 / 2√2",
+            "option_d": "1 / √2",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "A hyperbola (e=3/2) has transverse axis along x²/3 + y²/4 = 4 major axis and vertices at its foci. Which point is NOT on it?",
+            "option_a": "(0, 2)",
+            "option_b": "(√5, 2√2)",
+            "option_c": "(√10, 2√3)",
+            "option_d": "(5, 2√3)",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        }
+    ]
+}

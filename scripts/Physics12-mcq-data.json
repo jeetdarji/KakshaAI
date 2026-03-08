@@ -1,0 +1,1736 @@
+{
+    "Circular Motion": [
+        {
+            "question": "Uniform circular motion has acceleration directed:",
+            "options": {
+                "a": "Towards center",
+                "b": "Along velocity",
+                "c": "Outward",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Centripetal force is given by:",
+            "options": {
+                "a": "mv^2 / r",
+                "b": "mr / v^2",
+                "c": "mv^2 r",
+                "d": "mvr"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Angular speed ω relates to frequency f as:",
+            "options": {
+                "a": "2πf",
+                "b": "f/2π",
+                "c": "πf",
+                "d": "f"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Period of circular motion is:",
+            "options": {
+                "a": "1/f",
+                "b": "f",
+                "c": "ω/2π",
+                "d": "2π/ω"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If velocity doubles, centripetal force becomes:",
+            "options": {
+                "a": "4 times",
+                "b": "2 times",
+                "c": "1/2",
+                "d": "Same"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A car rounding a curve needs friction as:",
+            "options": {
+                "a": "Centripetal force",
+                "b": "Centrifugal force",
+                "c": "Normal force",
+                "d": "Weight"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Banked road reduces requirement of:",
+            "options": {
+                "a": "Friction",
+                "b": "Mass",
+                "c": "Radius",
+                "d": "Velocity"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Example of circular motion is:",
+            "options": {
+                "a": "Earth around Sun",
+                "b": "Free fall",
+                "c": "Straight motion",
+                "d": "Rest"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Centripetal acceleration equals:",
+            "options": {
+                "a": "v^2 / r",
+                "b": "v/r",
+                "c": "r/v^2",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If radius decreases at constant v, centripetal force:",
+            "options": {
+                "a": "Increases",
+                "b": "Decreases",
+                "c": "Remains same",
+                "d": "Zero"
+            },
+            "answer": "a"
+        }
+    ],
+    "Gravitation": [
+        {
+            "question": "Newton’s law of gravitation states force ∝:",
+            "options": {
+                "a": "1/r^2",
+                "b": "r",
+                "c": "1/r",
+                "d": "r^2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Escape velocity from Earth is approx:",
+            "options": {
+                "a": "11.2 km/s",
+                "b": "7.9 km/s",
+                "c": "9.8 km/s",
+                "d": "3 km/s"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Acceleration due to gravity at Earth’s surface is:",
+            "options": {
+                "a": "9.8 m/s^2",
+                "b": "9 m/s^2",
+                "c": "10 m/s^2",
+                "d": "8.8 m/s^2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Gravitational constant unit is:",
+            "options": {
+                "a": "Nm^2/kg^2",
+                "b": "N/kg",
+                "c": "kg/N",
+                "d": "J/kg"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Orbital velocity is:",
+            "options": {
+                "a": "√(GM/R)",
+                "b": "GM/R",
+                "c": "2GM/R",
+                "d": "R/GM"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Potential energy of two masses at distance r is:",
+            "options": {
+                "a": "-GMm/r",
+                "b": "GMm/r",
+                "c": "Zero",
+                "d": "Negative constant"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Weightlessness occurs when:",
+            "options": {
+                "a": "Free fall",
+                "b": "At rest",
+                "c": "High speed",
+                "d": "Low temperature"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Value of g at centre of Earth is:",
+            "options": {
+                "a": "0",
+                "b": "9.8",
+                "c": "Infinite",
+                "d": "4.9"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If Earth radius doubled, g becomes:",
+            "options": {
+                "a": "g/4",
+                "b": "2g",
+                "c": "g/2",
+                "d": "Same"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Kepler’s third law gives:",
+            "options": {
+                "a": "T^2 ∝ r^3",
+                "b": "T ∝ r^2",
+                "c": "T ∝ r",
+                "d": "T^2 ∝ r"
+            },
+            "answer": "a"
+        }
+    ],
+    "Rotational Motion": [
+        {
+            "question": "Moment of inertia of a ring about central axis is:",
+            "options": {
+                "a": "MR^2",
+                "b": "2MR^2",
+                "c": "1/2 MR^2",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Torque is equal to:",
+            "options": {
+                "a": "r × F",
+                "b": "r/F",
+                "c": "F/r",
+                "d": "r + F"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Angular momentum unit is:",
+            "options": {
+                "a": "kg m^2/s",
+                "b": "kg m/s",
+                "c": "N m",
+                "d": "kg/s"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rolling without slipping implies:",
+            "options": {
+                "a": "v = ωR",
+                "b": "v = ω/R",
+                "c": "vR = ω",
+                "d": "No relation"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Kinetic energy of rotation is:",
+            "options": {
+                "a": "1/2 Iω^2",
+                "b": "1/2 mv^2",
+                "c": "Iω",
+                "d": "mω^2"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "For a disc, I about central axis is:",
+            "options": {
+                "a": "1/2 MR^2",
+                "b": "MR^2",
+                "c": "2MR^2",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Newton’s 2nd law in rotation is:",
+            "options": {
+                "a": "τ = Iα",
+                "b": "F = ma",
+                "c": "L = Iω",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Angular acceleration is derivative of:",
+            "options": {
+                "a": "ω",
+                "b": "θ",
+                "c": "Time",
+                "d": "v"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If I increases, angular velocity:",
+            "options": {
+                "a": "Decreases",
+                "b": "Increases",
+                "c": "Constant",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Moment of inertia is least for:",
+            "options": {
+                "a": "Solid sphere",
+                "b": "Ring",
+                "c": "Cylinder",
+                "d": "Disc"
+            },
+            "answer": "a"
+        }
+    ],
+    "Oscillations": [
+        {
+            "question": "Time period of simple harmonic motion is:",
+            "options": {
+                "a": "2π√(m/k)",
+                "b": "2π√(k/m)",
+                "c": "√(m/k)",
+                "d": "k/m"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In SHM, acceleration is:",
+            "options": {
+                "a": "Proportional to displacement",
+                "b": "Constant",
+                "c": "Zero",
+                "d": "Opposite displacement"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Maximum velocity in SHO occurs at:",
+            "options": {
+                "a": "Mean position",
+                "b": "Amplitude",
+                "c": "Zero",
+                "d": "End points"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Damped oscillations occur due to:",
+            "options": {
+                "a": "Friction",
+                "b": "Gravity",
+                "c": "None",
+                "d": "Amplitude increases"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Time period of a pendulum is independent of:",
+            "options": {
+                "a": "Mass",
+                "b": "Length",
+                "c": "Gravity",
+                "d": "Amplitude for small angles"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Restoring force in SHO is:",
+            "options": {
+                "a": "-kx",
+                "b": "kx",
+                "c": "Zero",
+                "d": "k"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Frequency is reciprocal of:",
+            "options": {
+                "a": "Time period",
+                "b": "Amplitude",
+                "c": "Velocity",
+                "d": "Acceleration"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Energy in SHO is:",
+            "options": {
+                "a": "Constant",
+                "b": "Increases",
+                "c": "Decreases",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Phase difference between velocity and displacement is:",
+            "options": {
+                "a": "π/2",
+                "b": "π",
+                "c": "0",
+                "d": "2π"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Oscillation frequency increases if:",
+            "options": {
+                "a": "k increases",
+                "b": "m increases",
+                "c": "Length increases",
+                "d": "Damping increases"
+            },
+            "answer": "a"
+        }
+    ],
+    "Elasticity": [
+        {
+            "question": "Young’s modulus relates:",
+            "options": {
+                "a": "Stress/strain",
+                "b": "Force/area",
+                "c": "Length/area",
+                "d": "Stress × strain"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Shear modulus is ratio of:",
+            "options": {
+                "a": "Shear stress to shear strain",
+                "b": "Stress/strain",
+                "c": "Force/length",
+                "d": "Area/length"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Bulk modulus refers to:",
+            "options": {
+                "a": "Volume change",
+                "b": "Area change",
+                "c": "Length change",
+                "d": "Mass change"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Hooke’s law is valid only:",
+            "options": {
+                "a": "Within elastic limit",
+                "b": "Beyond limit",
+                "c": "At breaking point",
+                "d": "Never"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Unit of Young’s modulus is:",
+            "options": {
+                "a": "N/m^2",
+                "b": "N/m",
+                "c": "Pa",
+                "d": "Both a and c"
+            },
+            "answer": "d"
+        },
+        {
+            "question": "Elastic potential energy is stored due to:",
+            "options": {
+                "a": "Deformation",
+                "b": "Mass",
+                "c": "Speed",
+                "d": "Time"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Stress is defined as:",
+            "options": {
+                "a": "Force/area",
+                "b": "Force/length",
+                "c": "Area/force",
+                "d": "Strain"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Strain is:",
+            "options": {
+                "a": "Change in length/original length",
+                "b": "Force/area",
+                "c": "Area/length",
+                "d": "Stress"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Elastic limit is:",
+            "options": {
+                "a": "Max reversible deformation",
+                "b": "Breaking point",
+                "c": "Zero",
+                "d": "Momentary"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Hooke’s law constant is:",
+            "options": {
+                "a": "Force/extension",
+                "b": "Stress/strain",
+                "c": "Area/length",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Surface Tension": [
+        {
+            "question": "Surface tension acts:",
+            "options": {
+                "a": "Along the surface",
+                "b": "Normal to surface",
+                "c": "Along and normal both",
+                "d": "No specific direction"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "SI unit of surface tension is:",
+            "options": {
+                "a": "N/m",
+                "b": "Nm",
+                "c": "N/m^2",
+                "d": "J"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The phenomenon of capillarity occurs because of:",
+            "options": {
+                "a": "Surface tension",
+                "b": "Viscosity",
+                "c": "Density",
+                "d": "Pressure only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Surface tension decreases with:",
+            "options": {
+                "a": "Increase in temperature",
+                "b": "Decrease in temperature",
+                "c": "Increase in pressure",
+                "d": "Decrease in pressure"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Liquid will rise in a capillary if adhesive > cohesive force. This is:",
+            "options": {
+                "a": "True",
+                "b": "False",
+                "c": "Depends on density",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Surface energy is equal to:",
+            "options": {
+                "a": "Work done to increase area",
+                "b": "Force × length",
+                "c": "Mass/area",
+                "d": "Velocity/area"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Force due to surface tension is:",
+            "options": {
+                "a": "2πrT",
+                "b": "πrT",
+                "c": "rT",
+                "d": "2rT"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Droplets are spherical because:",
+            "options": {
+                "a": "Minimum surface area",
+                "b": "Maximum volume",
+                "c": "Constant pressure",
+                "d": "No forces"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Angle of contact affects capillary rise. This angle is between:",
+            "options": {
+                "a": "Liquid and solid",
+                "b": "Liquid and gas",
+                "c": "Solid and gas",
+                "d": "Two liquids"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Soap reduces surface tension because it:",
+            "options": {
+                "a": "Increases cohesive forces",
+                "b": "Reduces cohesive forces",
+                "c": "Increases density",
+                "d": "Increases pressure"
+            },
+            "answer": "b"
+        }
+    ],
+    "Wave Motion": [
+        {
+            "question": "Transverse waves have particle motion:",
+            "options": {
+                "a": "Perpendicular to wave",
+                "b": "Parallel to wave",
+                "c": "No motion",
+                "d": "Random"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wave speed equals:",
+            "options": {
+                "a": "Frequency × wavelength",
+                "b": "Frequency / wavelength",
+                "c": "Wavelength / frequency",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Time period of wave is:",
+            "options": {
+                "a": "1/frequency",
+                "b": "Frequency",
+                "c": "Wavelength",
+                "d": "Wave speed"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Longitudinal waves travel in:",
+            "options": {
+                "a": "Solids & liquids",
+                "b": "Vacuum",
+                "c": "Air only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Nodes are points of:",
+            "options": {
+                "a": "Zero amplitude",
+                "b": "Maximum amplitude",
+                "c": "Half amplitude",
+                "d": "Random amplitude"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wave reflection changes:",
+            "options": {
+                "a": "Direction",
+                "b": "Speed",
+                "c": "Frequency",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wave interference occurs due to:",
+            "options": {
+                "a": "Superposition",
+                "b": "Reflection only",
+                "c": "Refraction only",
+                "d": "Diffraction only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wavelength is distance between:",
+            "options": {
+                "a": "Two consecutive crests",
+                "b": "Crest & trough",
+                "c": "Node & antinode",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wave amplitude is:",
+            "options": {
+                "a": "Max displacement",
+                "b": "Min displacement",
+                "c": "Speed of wave",
+                "d": "Frequency"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wave energy is proportional to:",
+            "options": {
+                "a": "Amplitude^2",
+                "b": "Wavelength",
+                "c": "Frequency",
+                "d": "Speed"
+            },
+            "answer": "a"
+        }
+    ],
+    "Stationary Waves": [
+        {
+            "question": "Stationary waves have:",
+            "options": {
+                "a": "Nodes and antinodes",
+                "b": "Only nodes",
+                "c": "Only antinodes",
+                "d": "No disturbance"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Nodes are points of:",
+            "options": {
+                "a": "Zero amplitude",
+                "b": "Max amplitude",
+                "c": "Half amplitude",
+                "d": "Infinite amplitude"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Stationary waves form due to:",
+            "options": {
+                "a": "Superposition of two opposite waves",
+                "b": "Reflection only",
+                "c": "Refraction only",
+                "d": "Diffraction only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Distance between two nodes is:",
+            "options": {
+                "a": "λ/2",
+                "b": "λ",
+                "c": "λ/4",
+                "d": "2λ"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Antinodes are points of:",
+            "options": {
+                "a": "Maximum amplitude",
+                "b": "Zero amplitude",
+                "c": "Minimum amplitude",
+                "d": "No motion"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Length of string for nth harmonic is:",
+            "options": {
+                "a": "nλ/2",
+                "b": "nλ",
+                "c": "λ/2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Stationary wave has:",
+            "options": {
+                "a": "No net energy transfer",
+                "b": "Constant transfer",
+                "c": "Variable transfer",
+                "d": "Infinite transfer"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Phase difference between two adjacent nodes is:",
+            "options": {
+                "a": "0",
+                "b": "π",
+                "c": "π/2",
+                "d": "None"
+            },
+            "answer": "b"
+        },
+        {
+            "question": "Stationary waves occur at:",
+            "options": {
+                "a": "Resonance frequencies",
+                "b": "Random",
+                "c": "No conditions",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Next antinode distance after node is:",
+            "options": {
+                "a": "λ/4",
+                "b": "λ/2",
+                "c": "λ",
+                "d": "2λ"
+            },
+            "answer": "a"
+        }
+    ],
+    "Wave Theory of Light": [
+        {
+            "question": "Wave theory explains:",
+            "options": {
+                "a": "Interference",
+                "b": "Photoelectric effect",
+                "c": "Compton effect",
+                "d": "Blackbody radiation"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Young’s double slit experiment gives:",
+            "options": {
+                "a": "Interference fringes",
+                "b": "No fringes",
+                "c": "Diffraction only",
+                "d": "Reflection only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Brightness in interference depends on:",
+            "options": {
+                "a": "Phase difference",
+                "b": "Speed of light",
+                "c": "Density only",
+                "d": "Time"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Light waves are:",
+            "options": {
+                "a": "Transverse",
+                "b": "Longitudinal",
+                "c": "Both",
+                "d": "No motion"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Coherent sources have:",
+            "options": {
+                "a": "Constant phase difference",
+                "b": "Random phase",
+                "c": "No phase",
+                "d": "Variable phase"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Fringe width is:",
+            "options": {
+                "a": "λD/d",
+                "b": "d/λD",
+                "c": "λd/D",
+                "d": "D/λd"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Constructive interference occurs when path difference is:",
+            "options": {
+                "a": "nλ",
+                "b": "λ/2",
+                "c": "λ/4",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Light wave speed in medium:",
+            "options": {
+                "a": "Less than vacuum",
+                "b": "More than vacuum",
+                "c": "Same as vacuum",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Diffraction is maximum when aperture is:",
+            "options": {
+                "a": "≈ λ",
+                "b": ">> λ",
+                "c": "<< λ",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wave theory fails to explain:",
+            "options": {
+                "a": "Photoelectric effect",
+                "b": "Interference",
+                "c": "Diffraction",
+                "d": "Refraction"
+            },
+            "answer": "a"
+        }
+    ],
+    "Electrostatics": [
+        {
+            "question": "Electric field due to point charge is:",
+            "options": {
+                "a": "kq/r^2",
+                "b": "kq/r",
+                "c": "kq",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Equipotential surfaces are:",
+            "options": {
+                "a": "Perpendicular to E",
+                "b": "Parallel to E",
+                "c": "Curved only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Electric potential inside conductor is:",
+            "options": {
+                "a": "Constant",
+                "b": "Varies",
+                "c": "Zero only",
+                "d": "Infinite"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Capacitance depends on:",
+            "options": {
+                "a": "Area and distance",
+                "b": "Mass only",
+                "c": "Temperature",
+                "d": "Time"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "SI unit of potential is:",
+            "options": {
+                "a": "Volt",
+                "b": "Ampere",
+                "c": "Ohm",
+                "d": "Joule"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Charge on electron is:",
+            "options": {
+                "a": "-1.6×10^-19 C",
+                "b": "1.6×10^-19 C",
+                "c": "Zero",
+                "d": "1.6×10^-6 C"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Coulomb’s law is valid in:",
+            "options": {
+                "a": "Free space",
+                "b": "All media",
+                "c": "Vacuum only",
+                "d": "None"
+            },
+            "answer": "c"
+        },
+        {
+            "question": "Electric field inside conductor is:",
+            "options": {
+                "a": "Zero",
+                "b": "Max",
+                "c": "Depends",
+                "d": "Infinite"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Electric potential at infinity is taken as:",
+            "options": {
+                "a": "Zero",
+                "b": "Non-zero",
+                "c": "Infinite",
+                "d": "Negative only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Potential energy of like charges is:",
+            "options": {
+                "a": "Positive",
+                "b": "Negative",
+                "c": "Zero",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Current Electricity": [
+        {
+            "question": "Ohm’s law states that current is directly proportional to:",
+            "options": {
+                "a": "Voltage",
+                "b": "Resistance",
+                "c": "Power",
+                "d": "Energy"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "SI unit of resistance is:",
+            "options": {
+                "a": "Ohm",
+                "b": "Volt",
+                "c": "Ampere",
+                "d": "Watt"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Resistivity depends on:",
+            "options": {
+                "a": "Material",
+                "b": "Length",
+                "c": "Current",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Combination of resistors in series gives:",
+            "options": {
+                "a": "Greater resistance",
+                "b": "Lesser resistance",
+                "c": "Same resistance",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Kirchhoff’s first law is about:",
+            "options": {
+                "a": "Current",
+                "b": "Voltage",
+                "c": "Power",
+                "d": "Resistance"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Wheatstone bridge is used to measure:",
+            "options": {
+                "a": "Unknown resistance",
+                "b": "Current",
+                "c": "Voltage",
+                "d": "Power"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Power in electric circuit is:",
+            "options": {
+                "a": "VI",
+                "b": "V/R",
+                "c": "I/R",
+                "d": "R/V"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conductivity is reciprocal of:",
+            "options": {
+                "a": "Resistivity",
+                "b": "Resistance",
+                "c": "Current",
+                "d": "Voltage"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Potential difference across cells in series:",
+            "options": {
+                "a": "Increases",
+                "b": "Decreases",
+                "c": "Zero",
+                "d": "Constant"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "For maximum power transfer, load R equals:",
+            "options": {
+                "a": "Internal resistance",
+                "b": "Zero",
+                "c": "Infinite",
+                "d": "Double internal"
+            },
+            "answer": "a"
+        }
+    ],
+    "Magnetism": [
+        {
+            "question": "Magnetic field lines are from:",
+            "options": {
+                "a": "North to South",
+                "b": "South to North",
+                "c": "Inside magnet only",
+                "d": "No specific direction"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "SI unit of magnetic field (B) is:",
+            "options": {
+                "a": "Tesla",
+                "b": "Weber",
+                "c": "Ampere",
+                "d": "Volt"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Right hand thumb rule relates:",
+            "options": {
+                "a": "Current & magnetic field",
+                "b": "Force & charge",
+                "c": "Voltage & resistance",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Magnetic force on moving charge is zero when velocity is:",
+            "options": {
+                "a": "Parallel to field",
+                "b": "Perpendicular",
+                "c": "Any direction",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Earth behaves like a:",
+            "options": {
+                "a": "Magnet",
+                "b": "Conductor",
+                "c": "Insulator",
+                "d": "Capacitor"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Magnetic moment unit is:",
+            "options": {
+                "a": "A·m^2",
+                "b": "Tesla",
+                "c": "Weber",
+                "d": "Volt"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Force on current in magnetic field is given by:",
+            "options": {
+                "a": "BIL",
+                "b": "IL/B",
+                "c": "BI/R",
+                "d": "B/R"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Magnetic declination refers to:",
+            "options": {
+                "a": "Angle between true north & magnetic north",
+                "b": "Magnetic field strength",
+                "c": "Pole strength",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Magnetic lines never:",
+            "options": {
+                "a": "Intersect",
+                "b": "End",
+                "c": "Begin",
+                "d": "All"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Maxwell’s right hand rule deals with:",
+            "options": {
+                "a": "Current carrying conductor",
+                "b": "Electric field",
+                "c": "Wave motion",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Electromagnetic Induction": [
+        {
+            "question": "Faraday’s law states induced emf ∝:",
+            "options": {
+                "a": "Rate of change of flux",
+                "b": "Flux only",
+                "c": "Time only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Direction of induced current is given by:",
+            "options": {
+                "a": "Lenz’s law",
+                "b": "Ohm’s law",
+                "c": "Ampere’s law",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "SI unit of magnetic flux is:",
+            "options": {
+                "a": "Weber",
+                "b": "Tesla",
+                "c": "Volt",
+                "d": "Ampere"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Alternating emf can be produced by:",
+            "options": {
+                "a": "Rotating coil in field",
+                "b": "Static charge",
+                "c": "Stationary coil",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Self induction occurs due to:",
+            "options": {
+                "a": "Change in own current",
+                "b": "External magnetic field",
+                "c": "Constant current",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Induced current opposes change due to:",
+            "options": {
+                "a": "Lenz’s law",
+                "b": "Coulomb’s law",
+                "c": "Hooke’s law",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Mutual induction occurs in:",
+            "options": {
+                "a": "Two coils",
+                "b": "One coil",
+                "c": "Capacitor",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Transformer works on:",
+            "options": {
+                "a": "Mutual induction",
+                "b": "Capacitance",
+                "c": "Resistance",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Induced emf is maximum when change in flux is:",
+            "options": {
+                "a": "Maximum",
+                "b": "Minimum",
+                "c": "Zero",
+                "d": "Constant"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If magnetic field is constant, induced emf is:",
+            "options": {
+                "a": "Zero",
+                "b": "Maximum",
+                "c": "Finite",
+                "d": "Infinite"
+            },
+            "answer": "a"
+        }
+    ],
+    "Electrons and Photons": [
+        {
+            "question": "Electron charge is:",
+            "options": {
+                "a": "-1.6 × 10^-19 C",
+                "b": "1.6 × 10^-19 C",
+                "c": "0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Photon has:",
+            "options": {
+                "a": "Zero mass",
+                "b": "Mass",
+                "c": "Charge",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Photoelectric effect shows that light behaves as:",
+            "options": {
+                "a": "Particle",
+                "b": "Wave",
+                "c": "Both",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Stopping potential is related to:",
+            "options": {
+                "a": "Max kinetic energy",
+                "b": "Work function only",
+                "c": "Wavelength only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Electronvolt is a unit of:",
+            "options": {
+                "a": "Energy",
+                "b": "Charge",
+                "c": "Mass",
+                "d": "Current"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Photoelectric effect supports:",
+            "options": {
+                "a": "Quantum theory",
+                "b": "Classical wave theory",
+                "c": "Ray theory",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Work function is:",
+            "options": {
+                "a": "Min energy to eject electron",
+                "b": "Max energy",
+                "c": "Frequency",
+                "d": "Wavelength"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Photon energy is given by:",
+            "options": {
+                "a": "hf",
+                "b": "h/f",
+                "c": "f/h",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Electron has:",
+            "options": {
+                "a": "Both wave and particle nature",
+                "b": "Only particle",
+                "c": "Only wave",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Stopping potential is independent of:",
+            "options": {
+                "a": "Intensity",
+                "b": "Frequency",
+                "c": "Work function",
+                "d": "Voltage"
+            },
+            "answer": "a"
+        }
+    ],
+    "Semiconductors": [
+        {
+            "question": "Intrinsic semiconductor has equal:",
+            "options": {
+                "a": "Electrons and holes",
+                "b": "Only electrons",
+                "c": "Only holes",
+                "d": "No carriers"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "n-type semiconductor has majority carriers:",
+            "options": {
+                "a": "Electrons",
+                "b": "Holes",
+                "c": "Ions",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Doping increases:",
+            "options": {
+                "a": "Conductivity",
+                "b": "Resistance",
+                "c": "Mass",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "p-type semiconductor is doped with:",
+            "options": {
+                "a": "Trivalent impurity",
+                "b": "Pentavalent impurity",
+                "c": "No impurity",
+                "d": "Both"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Majority carriers in p-type are:",
+            "options": {
+                "a": "Holes",
+                "b": "Electrons",
+                "c": "Ions",
+                "d": "Equal"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Semiconductor band gap is:",
+            "options": {
+                "a": "Small",
+                "b": "Large",
+                "c": "Infinite",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Conductivity increases with:",
+            "options": {
+                "a": "Temperature",
+                "b": "Pressure",
+                "c": "Volume",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Hole mobility is:",
+            "options": {
+                "a": "Less than electron",
+                "b": "Greater",
+                "c": "Equal",
+                "d": "Zero"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Doped semiconductor has:",
+            "options": {
+                "a": "More carriers",
+                "b": "Less carriers",
+                "c": "Same carriers",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Semiconductors are:",
+            "options": {
+                "a": "Conductors at high T",
+                "b": "Insulators",
+                "c": "Perfect conductors",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Communication Systems": [
+        {
+            "question": "Modulation is done to:",
+            "options": {
+                "a": "Reduce noise",
+                "b": "Increase wavelength",
+                "c": "Decrease speed",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Carrier frequency is:",
+            "options": {
+                "a": "High",
+                "b": "Low",
+                "c": "Zero",
+                "d": "Variable"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "AM stands for:",
+            "options": {
+                "a": "Amplitude Modulation",
+                "b": "Amplitude Multiplex",
+                "c": "Average Modulation",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "FM stands for:",
+            "options": {
+                "a": "Frequency Modulation",
+                "b": "Frequency Multiplex",
+                "c": "Field Modulation",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Bandwidth of AM is:",
+            "options": {
+                "a": "2 × signal freq",
+                "b": "Signal freq",
+                "c": "Carrier freq",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Antenna is used to:",
+            "options": {
+                "a": "Transmit/receive waves",
+                "b": "Store energy",
+                "c": "Multiply signal",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Noise affects:",
+            "options": {
+                "a": "Quality",
+                "b": "Amplitude only",
+                "c": "Frequency only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Satellite communication uses:",
+            "options": {
+                "a": "High frequency",
+                "b": "Low frequency",
+                "c": "No frequency",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Transducer converts:",
+            "options": {
+                "a": "One form of energy to another",
+                "b": "Speed to frequency",
+                "c": "Frequency to time",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Reception quality improves by:",
+            "options": {
+                "a": "Reducing noise",
+                "b": "Increasing speed",
+                "c": "Increasing resistance",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Kinetic Theory of Gases": [
+        {
+            "question": "Average kinetic energy per molecule ∝:",
+            "options": {
+                "a": "Absolute temperature",
+                "b": "Pressure",
+                "c": "Volume",
+                "d": "Mass"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "PV = nRT is:",
+            "options": {
+                "a": "Ideal gas equation",
+                "b": "Newton’s law",
+                "c": "Ohm’s law",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Root mean square speed is:",
+            "options": {
+                "a": "√(3RT/M)",
+                "b": "√(RT/M)",
+                "c": "√(2RT/M)",
+                "d": "√(RT)"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Pressure arises due to:",
+            "options": {
+                "a": "Molecular collisions",
+                "b": "Static forces",
+                "c": "Friction only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "For ideal gas, intermolecular forces are:",
+            "options": {
+                "a": "Negligible",
+                "b": "Strong",
+                "c": "Moderate",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Average speed < RMS speed because:",
+            "options": {
+                "a": "Different distribution",
+                "b": "Same distribution",
+                "c": "No motion",
+                "d": "Mass only"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Temperature of gas is a measure of:",
+            "options": {
+                "a": "Avg KE",
+                "b": "Pressure",
+                "c": "Volume",
+                "d": "Mass"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "At constant T, pressure ∝:",
+            "options": {
+                "a": "1/Volume",
+                "b": "Volume",
+                "c": "Mass",
+                "d": "Speed"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Velocity distribution is given by:",
+            "options": {
+                "a": "Maxwell’s distribution",
+                "b": "Boyle’s law",
+                "c": "Charles’ law",
+                "d": "Hooke’s law"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Gas molecules occupy:",
+            "options": {
+                "a": "Negligible volume",
+                "b": "Same as container",
+                "c": "Only half volume",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ]
+}

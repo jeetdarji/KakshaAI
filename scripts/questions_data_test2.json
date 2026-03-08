@@ -1,0 +1,1508 @@
+{
+    "physics": [
+        {
+            "question_text": "Two spherical black bodies have radii r1 and r2. Their surface temperatures are T1 and T2. If they radiate same power then the ratio r2/r1 is:",
+            "option_a": "T1/T2",
+            "option_b": "T2/T1",
+            "option_c": "(T1/T2)^2",
+            "option_d": "(T2/T1)^2",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A disc of moment of inertia I1 is rotating in horizontal plane about an axis passing through a centre and perpendicular to its plane with constant angular speed ω1. Another disc of moment of inertia I2 having zero angular speed is placed coaxially on rotating disc. Now both discs rotate with same angular speed ω2. The energy lost by the system is:",
+            "option_a": "0.5 * [I1*I2 / (I1+I2)] * ω1^2",
+            "option_b": "0.5 * [I1*I2 / (I1+I2)] * ω1",
+            "option_c": "[I1*I2 / (I1+I2)] * ω1^2",
+            "option_d": "I1^2 * ω1^2 / 2(I1+I2)",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A simple pendulum of length L has a maximum angular displacement θ. The maximum kinetic energy of the bob of mass m is:",
+            "option_a": "mgL(1 + cos θ)",
+            "option_b": "mgL(1 + sin θ)",
+            "option_c": "mgL(1 - cos θ)",
+            "option_d": "mgL cos θ",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A particle of mass m is moving in a horizontal circle of radius r under a centripetal force F = -k/r^2. The total energy of the particle is:",
+            "option_a": "-k/r",
+            "option_b": "-k/2r",
+            "option_c": "k/2r",
+            "option_d": "k/r",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A body of mass M and radius R is rolling without slipping on a horizontal surface with velocity v. It then rolls up a hill to a maximum height h = 3v^2/4g. The body might be a:",
+            "option_a": "Solid sphere",
+            "option_b": "Hollow sphere",
+            "option_c": "Disc",
+            "option_d": "Ring",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The length of a wire increases by L upon being loaded by a weight W. If the same wire is cut into two equal parts and one part is loaded with the same weight W, the extension will be:",
+            "option_a": "L",
+            "option_b": "2L",
+            "option_c": "L/2",
+            "option_d": "L/4",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The work done in blowing a soap bubble of radius R is W. The work done in blowing it to a radius 2R is:",
+            "option_a": "W",
+            "option_b": "2W",
+            "option_c": "3W",
+            "option_d": "4W",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A liquid rises to a height h in a capillary tube of radius r. If the radius is made r/2, then the height to which the liquid will rise is:",
+            "option_a": "h/2",
+            "option_b": "h",
+            "option_c": "2h",
+            "option_d": "4h",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two tuning forks A and B produce 4 beats per second. On loading fork A with wax, the number of beats becomes 6 per second. If the frequency of fork B is 256 Hz, the frequency of fork A is:",
+            "option_a": "250 Hz",
+            "option_b": "252 Hz",
+            "option_c": "260 Hz",
+            "option_d": "262 Hz",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In a stationary wave, the distance between a node and the next antinode is 10 cm. The wavelength of the wave is:",
+            "option_a": "10 cm",
+            "option_b": "20 cm",
+            "option_c": "40 cm",
+            "option_d": "80 cm",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "An organ pipe closed at one end has fundamental frequency f. If it is opened at both ends, the fundamental frequency will be:",
+            "option_a": "f/2",
+            "option_b": "f",
+            "option_c": "2f",
+            "option_d": "4f",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The ratio of the speed of sound in nitrogen gas to that in helium gas at the same temperature is:",
+            "option_a": "sqrt(2/7)",
+            "option_b": "sqrt(1/7)",
+            "option_c": "sqrt(3/5)",
+            "option_d": "sqrt(6/35)",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In Young's double slit experiment, the distance between the slits is d and the distance to the screen is D. If the source of light is replaced by one of half the wavelength, the fringe width becomes:",
+            "option_a": "Double",
+            "option_b": "Half",
+            "option_c": "Quadruple",
+            "option_d": "Remains same",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "When light travels from glass (μ=1.5) to water (μ=1.33), the critical angle is:",
+            "option_a": "sin^-1(0.5)",
+            "option_b": "sin^-1(0.88)",
+            "option_c": "sin^-1(0.75)",
+            "option_d": "sin^-1(0.66)",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The magnifying power of an astronomical telescope in normal adjustment is 10 and the focal length of the objective is 100 cm. The focal length of the eyepiece is:",
+            "option_a": "1 cm",
+            "option_b": "10 cm",
+            "option_c": "20 cm",
+            "option_d": "1000 cm",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two charges +Q and -Q are kept at a certain distance. The electric field at the midpoint of the line joining them is E. If the charges are replaced by +2Q and -2Q, the field at the midpoint will be:",
+            "option_a": "E",
+            "option_b": "2E",
+            "option_c": "4E",
+            "option_d": "E/2",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The capacity of a parallel plate capacitor is C. If a dielectric slab of dielectric constant K is inserted to fill half the space between the plates parallel to them, the new capacity is:",
+            "option_a": "KC/2",
+            "option_b": "(K+1)C/2",
+            "option_c": "2KC/(K+1)",
+            "option_d": "KC/(K+1)",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A wire of resistance 10 ohm is stretched to double its length. Its new resistance will be:",
+            "option_a": "10 ohm",
+            "option_b": "20 ohm",
+            "option_c": "40 ohm",
+            "option_d": "80 ohm",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In a potentiometer experiment, the balancing length is 250 cm for a cell of EMF 1.5 V. For a cell of EMF 1.2 V, the balancing length will be:",
+            "option_a": "200 cm",
+            "option_b": "250 cm",
+            "option_c": "300 cm",
+            "option_d": "312.5 cm",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A current of 1 A flows through a circular coil of radius 10 cm and 100 turns. The magnetic field at the center of the coil is:",
+            "option_a": "2π * 10^-4 T",
+            "option_b": "2π * 10^-5 T",
+            "option_c": "π * 10^-4 T",
+            "option_d": "π * 10^-5 T",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The magnetic susceptibility of a paramagnetic material varies with temperature T as:",
+            "option_a": "χ ∝ T",
+            "option_b": "χ ∝ T^2",
+            "option_c": "χ ∝ 1/T",
+            "option_d": "χ ∝ 1/T^2",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A transformer has 500 turns in the primary and 1000 turns in the secondary. If the primary voltage is 200 V, the secondary voltage is:",
+            "option_a": "100 V",
+            "option_b": "200 V",
+            "option_c": "400 V",
+            "option_d": "800 V",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The self-inductance of a solenoid of length L, area A and number of turns N is:",
+            "option_a": "μ0 N A / L",
+            "option_b": "μ0 N^2 A / L",
+            "option_c": "μ0 N A L",
+            "option_d": "μ0 N^2 A L",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The impedance of an LCR series circuit at resonance is:",
+            "option_a": "Zero",
+            "option_b": "Infinite",
+            "option_c": "R",
+            "option_d": "sqrt(R^2 + (XL - XC)^2)",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The ratio of the rms value to the peak value of an alternating current is:",
+            "option_a": "1/2",
+            "option_b": "1/sqrt(2)",
+            "option_c": "sqrt(2)",
+            "option_d": "2",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The work function of a metal is 2.5 eV. The threshold frequency of the metal is approx:",
+            "option_a": "6 * 10^14 Hz",
+            "option_b": "4 * 10^14 Hz",
+            "option_c": "2 * 10^14 Hz",
+            "option_d": "8 * 10^14 Hz",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The de Broglie wavelength of an electron accelerated through a potential difference of 100 V is approx:",
+            "option_a": "1.23 Å",
+            "option_b": "12.3 Å",
+            "option_c": "123 Å",
+            "option_d": "0.123 Å",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The radius of the first Bohr orbit of a hydrogen atom is 0.53 Å. The radius of the third Bohr orbit is:",
+            "option_a": "1.59 Å",
+            "option_b": "4.77 Å",
+            "option_c": "2.12 Å",
+            "option_d": "1.06 Å",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The binding energy per nucleon of a nucleus is a measure of its:",
+            "option_a": "Mass",
+            "option_b": "Charge",
+            "option_c": "Stability",
+            "option_d": "Size",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In a semiconductor, the donor level lies:",
+            "option_a": "Near the valence band",
+            "option_b": "Near the conduction band",
+            "option_c": "In the middle of the energy gap",
+            "option_d": "Inside the conduction band",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The output of an OR gate is 0 only when:",
+            "option_a": "Both inputs are 1",
+            "option_b": "One input is 1 and other is 0",
+            "option_c": "Both inputs are 0",
+            "option_d": "Any one input is 0",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The modulation index of an AM wave with max amplitude 10V and min amplitude 2V is:",
+            "option_a": "0.5",
+            "option_b": "0.67",
+            "option_c": "0.8",
+            "option_d": "0.4",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A wire of length L is stretched by 1 mm. If the diameter is halved and same force is applied, the extension will be:",
+            "option_a": "1 mm",
+            "option_b": "2 mm",
+            "option_c": "4 mm",
+            "option_d": "8 mm",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A sphere of mass m is released in a viscous liquid. Its terminal velocity is proportional to:",
+            "option_a": "Radius r",
+            "option_b": "r^2",
+            "option_c": "1/r",
+            "option_d": "1/r^2",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The pressure P of an ideal gas is related to its average kinetic energy per unit volume E as:",
+            "option_a": "P = E",
+            "option_b": "P = 0.5 E",
+            "option_c": "P = 2E/3",
+            "option_d": "P = E/3",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The root mean square speed of gas molecules at temperature T is v. If the temperature is increased to 4T, the rms speed becomes:",
+            "option_a": "v/2",
+            "option_b": "2v",
+            "option_c": "4v",
+            "option_d": "16v",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In an adiabatic process, the relation between P and V is PV^γ = constant. The work done in an adiabatic expansion from (P1, V1) to (P2, V2) is:",
+            "option_a": "(P1V1 - P2V2) / (γ - 1)",
+            "option_b": "(P2V2 - P1V1) / (γ - 1)",
+            "option_c": "(P1V1 - P2V2) / γ",
+            "option_d": "P(V2 - V1)",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The efficiency of a Carnot engine working between 300 K and 600 K is:",
+            "option_a": "25%",
+            "option_b": "50%",
+            "option_c": "75%",
+            "option_d": "100%",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The displacement of a particle in SHM is x = A sin(ωt + φ). At t=0, the displacement is A/2 and it is moving towards equilibrium. The phase φ is:",
+            "option_a": "π/6",
+            "option_b": "5π/6",
+            "option_c": "7π/6",
+            "option_d": "11π/6",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A wire of length 2m and radius 1mm is stretched by 1mm. The energy stored in the wire is (Y = 2 * 10^11 N/m^2):",
+            "option_a": "0.157 J",
+            "option_b": "0.314 J",
+            "option_c": "0.078 J",
+            "option_d": "0.628 J",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "Two soap bubbles of radii 3 cm and 4 cm join to form a single bubble under isothermal conditions. The radius of the new bubble is:",
+            "option_a": "5 cm",
+            "option_b": "7 cm",
+            "option_c": "12 cm",
+            "option_d": "3.5 cm",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The frequency of the first overtone of a closed organ pipe of length L is:",
+            "option_a": "v/4L",
+            "option_b": "3v/4L",
+            "option_c": "5v/4L",
+            "option_d": "v/2L",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A star is moving away from the earth with a velocity of 3000 km/s. The shift in the wavelength of light of 6000 Å emitted by the star is:",
+            "option_a": "6 Å",
+            "option_b": "60 Å",
+            "option_c": "0.6 Å",
+            "option_d": "600 Å",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In a biprism experiment, the fringe width is 0.4 mm. If the distance between the biprism and screen is doubled, the fringe width becomes:",
+            "option_a": "0.2 mm",
+            "option_b": "0.4 mm",
+            "option_c": "0.8 mm",
+            "option_d": "1.6 mm",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The electric potential at a point on the axis of an electric dipole at distance r is proportional to:",
+            "option_a": "1/r",
+            "option_b": "1/r^2",
+            "option_c": "1/r^3",
+            "option_d": "r^2",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "A galvanometer can be converted into an ammeter by connecting:",
+            "option_a": "Low resistance in series",
+            "option_b": "High resistance in series",
+            "option_c": "Low resistance in parallel",
+            "option_d": "High resistance in parallel",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The time constant of an RC circuit is the time in which the charge on the capacitor grows to approx:",
+            "option_a": "37% of max value",
+            "option_b": "50% of max value",
+            "option_c": "63% of max value",
+            "option_d": "90% of max value",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The energy of a photon of wavelength 4000 Å is approx:",
+            "option_a": "2 eV",
+            "option_b": "3 eV",
+            "option_c": "4 eV",
+            "option_d": "5 eV",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "The number of photoelectrons emitted per second depends upon the:",
+            "option_a": "Frequency of incident light",
+            "option_b": "Intensity of incident light",
+            "option_c": "Velocity of incident light",
+            "option_d": "Work function of metal",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        },
+        {
+            "question_text": "In a nuclear reactor, the function of a moderator is to:",
+            "option_a": "Absorb neutrons",
+            "option_b": "Slow down neutrons",
+            "option_c": "Accelerate neutrons",
+            "option_d": "Produce neutrons",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Physics"
+        }
+    ],
+    "chemistry": [
+        {
+            "question_text": "The heat of formation of water is 260 kJ. How much water is decomposed by 130 kJ of heat?",
+            "option_a": "0.25 mol",
+            "option_b": "1 mol",
+            "option_c": "0.5 mol",
+            "option_d": "2 mol",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "If a metal crystallises in bcc structure with edge length of unit cell 4.29 x 10^-8 cm, the radius of metal atom is:",
+            "option_a": "3.2 x 10^-7 cm",
+            "option_b": "1.86 x 10^-8 cm",
+            "option_c": "1.07 x 10^-7 cm",
+            "option_d": "1.07 x 10^-8 cm",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following oxides can act both as an oxidising agent as well as reducing agent?",
+            "option_a": "P2O5",
+            "option_b": "SO2",
+            "option_c": "ZnO",
+            "option_d": "Al2O3",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "In the reaction: CH3CH2Br + KCN (alc.) -> A -> (H3O+) B. The compound B is:",
+            "option_a": "Propanoic acid",
+            "option_b": "Ethanoic acid",
+            "option_c": "Ethyl cyanide",
+            "option_d": "Propan-1-ol",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is most basic in nature?",
+            "option_a": "NH3",
+            "option_b": "CH3NH2",
+            "option_c": "(CH3)2NH",
+            "option_d": "(CH3)3N",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The rate constant of a first order reaction is 6.93 x 10^-3 min^-1. The half-life period of the reaction is:",
+            "option_a": "10 min",
+            "option_b": "100 min",
+            "option_c": "1000 min",
+            "option_d": "1 min",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The coordination number of Cr in [Cr(ox)3]3- is:",
+            "option_a": "3",
+            "option_b": "4",
+            "option_c": "6",
+            "option_d": "2",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following polymers is prepared by condensation polymerisation?",
+            "option_a": "Teflon",
+            "option_b": "Nylon-6,6",
+            "option_c": "PVC",
+            "option_d": "Buna-S",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The standard reduction potential of Zn, Cu, Ag and Mg are -0.76 V, 0.34 V, 0.80 V and -2.37 V respectively. Which is the strongest reducing agent?",
+            "option_a": "Zn",
+            "option_b": "Cu",
+            "option_c": "Ag",
+            "option_d": "Mg",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "In a face-centered cubic lattice, an atom at the face center is shared by how many unit cells?",
+            "option_a": "2",
+            "option_b": "4",
+            "option_c": "1",
+            "option_d": "6",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "What is the molar solubility of AgCl in 0.1 M NaCl solution? (Ksp of AgCl = 1.6 x 10^-10)",
+            "option_a": "1.6 x 10^-9 M",
+            "option_b": "1.6 x 10^-11 M",
+            "option_c": "1.26 x 10^-5 M",
+            "option_d": "1.6 x 10^-10 M",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which among the following is a neutral amino acid?",
+            "option_a": "Glycine",
+            "option_b": "Lysine",
+            "option_c": "Aspartic acid",
+            "option_d": "Arginine",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The oxidation state of Oxygen in OF2 is:",
+            "option_a": "+2",
+            "option_b": "-2",
+            "option_c": "+1",
+            "option_d": "-1",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following will show the highest osmotic pressure?",
+            "option_a": "1 M Glucose",
+            "option_b": "1 M NaCl",
+            "option_c": "1 M BaCl2",
+            "option_d": "1 M Urea",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Identify the major product in the following reaction: Phenol + Br2 (water) -> Product.",
+            "option_a": "2-Bromophenol",
+            "option_b": "4-Bromophenol",
+            "option_c": "2,4,6-Tribromophenol",
+            "option_d": "3-Bromophenol",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The value of Henry's constant KH is:",
+            "option_a": "Greater for gases with higher solubility",
+            "option_b": "Greater for gases with lower solubility",
+            "option_c": "Constant for all gases",
+            "option_d": "Not related to solubility",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is a diamagnetic ion?",
+            "option_a": "Cu2+",
+            "option_b": "Ni2+",
+            "option_c": "Sc3+",
+            "option_d": "Ti3+",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "For the reaction 2A + B -> C, the rate law is rate = k[A]^2[B]. If the concentration of A is doubled and B is halved, the rate becomes:",
+            "option_a": "Double",
+            "option_b": "Four times",
+            "option_c": "Half",
+            "option_d": "Remains same",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The process of heating the ore in a limited supply of air below its melting point is called:",
+            "option_a": "Roasting",
+            "option_b": "Calcination",
+            "option_c": "Smelting",
+            "option_d": "Leaching",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following aqueous solutions has the minimum freezing point?",
+            "option_a": "0.1 M KI",
+            "option_b": "0.1 M Al2(SO4)3",
+            "option_c": "0.1 M C12H22O11",
+            "option_d": "0.1 M Na2SO4",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The spin-only magnetic moment of Mn2+ ion is:",
+            "option_a": "5.92 BM",
+            "option_b": "4.90 BM",
+            "option_c": "3.87 BM",
+            "option_d": "1.73 BM",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is a bidentate ligand?",
+            "option_a": "CN-",
+            "option_b": "Ethylenediamine",
+            "option_c": "EDTA",
+            "option_d": "Ammonia",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "In the extraction of Copper from its sulphide ore, the metal is formed by the reduction of Cu2O with:",
+            "option_a": "FeS",
+            "option_b": "CO",
+            "option_c": "Cu2S",
+            "option_d": "SO2",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which property of colloids is used to find the charge on colloidal particles?",
+            "option_a": "Tyndall effect",
+            "option_b": "Electrophoresis",
+            "option_c": "Brownian movement",
+            "option_d": "Dialysis",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "An alkyl halide reacts with metallic sodium in dry ether to produce 2,3-dimethylbutane. The alkyl halide is:",
+            "option_a": "2-chloropropane",
+            "option_b": "1-chloropropane",
+            "option_c": "2-chlorobutane",
+            "option_d": "1-chlorobutane",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is an example of an associated colloid?",
+            "option_a": "Gold sol",
+            "option_b": "Starch sol",
+            "option_c": "Soap solution",
+            "option_d": "Fe(OH)3 sol",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The monomers of Buna-N are:",
+            "option_a": "1,3-Butadiene and Styrene",
+            "option_b": "1,3-Butadiene and Acrylonitrile",
+            "option_c": "Isoprene",
+            "option_d": "Chloroprene",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is used as a tranquilizer?",
+            "option_a": "Equanil",
+            "option_b": "Penicillin",
+            "option_c": "Aspirin",
+            "option_d": "Chloramphenicol",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The deficiency of Vitamin K causes:",
+            "option_a": "Rickets",
+            "option_b": "Scurvy",
+            "option_c": "Delayed blood clotting",
+            "option_d": "Night blindness",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The order of reactivity of alcohols with halogen acids is:",
+            "option_a": "1 > 2 > 3",
+            "option_b": "3 > 2 > 1",
+            "option_c": "2 > 1 > 3",
+            "option_d": "1 > 3 > 2",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is not a colligative property?",
+            "option_a": "Elevation in boiling point",
+            "option_b": "Depression in freezing point",
+            "option_c": "Vapour pressure",
+            "option_d": "Osmotic pressure",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The role of a catalyst in a chemical reaction is to change:",
+            "option_a": "Internal energy",
+            "option_b": "Enthalpy",
+            "option_c": "Activation energy",
+            "option_d": "Equilibrium constant",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following noble gases is used in diving cylinders?",
+            "option_a": "Helium",
+            "option_b": "Neon",
+            "option_c": "Argon",
+            "option_d": "Krypton",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The IUPAC name of CH3-O-CH(CH3)2 is:",
+            "option_a": "1-methoxypropane",
+            "option_b": "2-methoxypropane",
+            "option_c": "Methyl isopropyl ether",
+            "option_d": "2-ethoxyethane",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Cannizzaro's reaction is not given by:",
+            "option_a": "Formaldehyde",
+            "option_b": "Benzaldehyde",
+            "option_c": "Acetaldehyde",
+            "option_d": "Trimethyl acetaldehyde",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The strongest acid among the following is:",
+            "option_a": "CH3COOH",
+            "option_b": "ClCH2COOH",
+            "option_c": "Cl2CHCOOH",
+            "option_d": "Cl3CCOOH",
+            "correct_option": "D",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following carbohydrates is a polysaccharide?",
+            "option_a": "Glucose",
+            "option_b": "Sucrose",
+            "option_c": "Cellulose",
+            "option_d": "Lactose",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The most abundant noble gas in the atmosphere is:",
+            "option_a": "Helium",
+            "option_b": "Argon",
+            "option_c": "Neon",
+            "option_d": "Xenon",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is used as a propellant in rockets?",
+            "option_a": "Liquid N2 + Liquid H2",
+            "option_b": "Liquid H2 + Liquid O2",
+            "option_c": "Liquid H2 + Liquid N2",
+            "option_d": "Liquid O2 + Liquid Argon",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Zwitterion structure is shown by:",
+            "option_a": "Urea",
+            "option_b": "Glycine",
+            "option_c": "Glucose",
+            "option_d": "Aniline",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The units of rate constant for a second order reaction are:",
+            "option_a": "s^-1",
+            "option_b": "mol L^-1 s^-1",
+            "option_c": "L mol^-1 s^-1",
+            "option_d": "L^2 mol^-2 s^-1",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The reagent used in Hinseberg's test is:",
+            "option_a": "Benzene sulphonyl chloride",
+            "option_b": "Benzene sulphonic acid",
+            "option_c": "Phenyl isocyanide",
+            "option_d": "Nitrous acid",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following is a thermoplastic polymer?",
+            "option_a": "Bakelite",
+            "option_b": "Polyethene",
+            "option_c": "Melamine",
+            "option_d": "Vulcanized rubber",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The geometry of XeF4 is:",
+            "option_a": "Tetrahedral",
+            "option_b": "Square planar",
+            "option_c": "Octahedral",
+            "option_d": "Pyramidal",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which among the following is the strongest base?",
+            "option_a": "Aniline",
+            "option_b": "p-nitroaniline",
+            "option_c": "Benzylamine",
+            "option_d": "p-toluidine",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "What is the change in oxidation number of Carbon in the reaction: CH4 + 4Cl2 -> CCl4 + 4HCl?",
+            "option_a": "-4 to +4",
+            "option_b": "0 to +4",
+            "option_c": "-4 to 0",
+            "option_d": "+4 to -4",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The main product of the reaction between Ethanol and PCl5 is:",
+            "option_a": "Ethyl chloride",
+            "option_b": "Ethylene",
+            "option_c": "Ethyl ether",
+            "option_d": "Ethanal",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The number of octahedral voids per atom in a ccp structure is:",
+            "option_a": "1",
+            "option_b": "2",
+            "option_c": "4",
+            "option_d": "8",
+            "correct_option": "A",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "Which of the following shows Tyndall effect?",
+            "option_a": "Salt solution",
+            "option_b": "Sugar solution",
+            "option_c": "Starch solution",
+            "option_d": "Copper sulphate solution",
+            "correct_option": "C",
+            "marks": 1,
+            "subject": "Chemistry"
+        },
+        {
+            "question_text": "The functional group present in a tripeptide is:",
+            "option_a": "Ester",
+            "option_b": "Amide",
+            "option_c": "Ether",
+            "option_d": "Ketone",
+            "correct_option": "B",
+            "marks": 1,
+            "subject": "Chemistry"
+        }
+    ],
+    "mathematics": [
+        {
+            "question_text": "If f: R - {2} -> R is a function defined by f(x) = (x² - 4) / (x - 2), then its range is:",
+            "option_a": "R",
+            "option_b": "R - {2}",
+            "option_c": "R - {4}",
+            "option_d": "R - {-2, 2}",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The sum of the first 10 terms of the series 9 + 99 + 999 + ... is:",
+            "option_a": "9/8 (9¹⁰ - 1)",
+            "option_b": "100/9 (10⁹ - 1)",
+            "option_c": "10⁹ - 1",
+            "option_d": "100/9 (10¹⁰ - 1) - 10/9",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The line 5x + y - 1 = 0 is a tangent to a circle with center at (2, 3). Find the equation of this circle.",
+            "option_a": "x² + y² - 4x - 6y + 1 = 0",
+            "option_b": "x² + y² - 4x - 6y + 2 = 0",
+            "option_c": "x² + y² - 4x - 6y - 6 = 0",
+            "option_d": "x² + y² - 4x - 6y + 7 = 0",
+            "correct_option": "D",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If the vectors a = 2i - j + k, b = i + 2j - 3k and c = 3i + λj + 5k are coplanar, then the value of λ is:",
+            "option_a": "-4",
+            "option_b": "-2",
+            "option_c": "2",
+            "option_d": "4",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of the integral ∫ from 0 to π/2 of (sin x / (sin x + cos x)) dx is:",
+            "option_a": "π",
+            "option_b": "π/2",
+            "option_c": "π/4",
+            "option_d": "0",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The differential equation of all circles passing through the origin and having centers on the x-axis is:",
+            "option_a": "x² + y² + 2xy(dy/dx) = 0",
+            "option_b": "y² - x² + 2xy(dy/dx) = 0",
+            "option_c": "x² - y² + 2xy(dy/dx) = 0",
+            "option_d": "x² + y² - 2xy(dy/dx) = 0",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+            "option_a": "1/3",
+            "option_b": "7/21",
+            "option_c": "8/21",
+            "option_d": "9/21",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The area bounded by the curve y = log x, the x-axis and the ordinate x = e is:",
+            "option_a": "e",
+            "option_b": "1",
+            "option_c": "e - 1",
+            "option_d": "1/e",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If A is a square matrix of order 3 and |A| = 5, then the value of |adj A| is:",
+            "option_a": "5",
+            "option_b": "25",
+            "option_c": "125",
+            "option_d": "1",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The order and degree of the differential equation [1 + (dy/dx)²]^(3/2) = d²y/dx² are respectively:",
+            "option_a": "2, 2",
+            "option_b": "2, 3",
+            "option_c": "1, 2",
+            "option_d": "1, 3",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If sin⁻¹x + sin⁻¹y = 2π/3, then the value of cos⁻¹x + cos⁻¹y is:",
+            "option_a": "2π/3",
+            "option_b": "π/3",
+            "option_c": "π/6",
+            "option_d": "π",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The slope of the tangent to the curve y = x³ - x at the point (2, 6) is:",
+            "option_a": "11",
+            "option_b": "12",
+            "option_c": "13",
+            "option_d": "10",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The function f(x) = x² - 4x + 5 has a minimum value at x equal to:",
+            "option_a": "2",
+            "option_b": "4",
+            "option_c": "-2",
+            "option_d": "1",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The distance of the point (1, 2, 3) from the plane x + 2y + 2z = 5 is:",
+            "option_a": "1",
+            "option_b": "2",
+            "option_c": "3",
+            "option_d": "0",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If tan⁻¹(x-1)/(x-2) + tan⁻¹(x+1)/(x+2) = π/4, then the value of x is:",
+            "option_a": "±1/2",
+            "option_b": "±1/√2",
+            "option_c": "±1",
+            "option_d": "±2",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If x = a cos³t, y = a sin³t, then dy/dx is:",
+            "option_a": "-tan t",
+            "option_b": "tan t",
+            "option_c": "-cot t",
+            "option_d": "cot t",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The probability of getting a sum of 9 from two throws of a dice is:",
+            "option_a": "1/6",
+            "option_b": "1/8",
+            "option_c": "1/9",
+            "option_d": "1/12",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of ∫ e^x (sin x + cos x) dx is:",
+            "option_a": "e^x sin x + c",
+            "option_b": "e^x cos x + c",
+            "option_c": "-e^x sin x + c",
+            "option_d": "-e^x cos x + c",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The angle between the lines x/1 = y/2 = z/1 and x/2 = y/1 = z/-4 is:",
+            "option_a": "0°",
+            "option_b": "45°",
+            "option_c": "90°",
+            "option_d": "60°",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If |a| = 3, |b| = 4 and the angle between a and b is 60°, then a.b is:",
+            "option_a": "6",
+            "option_b": "12",
+            "option_c": "6√3",
+            "option_d": "12√3",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The direction cosines of the line joining points (1, 2, 3) and (-1, -2, -3) are:",
+            "option_a": "1/7, 2/7, 3/7",
+            "option_b": "-1/√14, -2/√14, -3/√14",
+            "option_c": "1/√14, 2/√14, 3/√14",
+            "option_d": "2/7, 3/7, 6/7",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The number of ways in which 5 people can be seated around a circular table is:",
+            "option_a": "120",
+            "option_b": "24",
+            "option_c": "60",
+            "option_d": "720",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of the determinant |1 2 3, 4 5 6, 7 8 9| is:",
+            "option_a": "0",
+            "option_b": "1",
+            "option_c": "-1",
+            "option_d": "45",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The eccentricity of the ellipse x²/16 + y²/9 = 1 is:",
+            "option_a": "√7/4",
+            "option_b": "7/16",
+            "option_c": "3/4",
+            "option_d": "√7/3",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The domain of the function f(x) = √(9 - x²) is:",
+            "option_a": "(-3, 3)",
+            "option_b": "[-3, 3]",
+            "option_c": "R - [-3, 3]",
+            "option_d": "[0, 3]",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of lim (x->0) (sin 5x / x) is:",
+            "option_a": "1",
+            "option_b": "0",
+            "option_c": "5",
+            "option_d": "1/5",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The derivative of log(sec x) is:",
+            "option_a": "tan x",
+            "option_b": "sec x",
+            "option_c": "cot x",
+            "option_d": "1/sec x",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The second derivative of x² log x is:",
+            "option_a": "2 log x + 3",
+            "option_b": "2 log x + 1",
+            "option_c": "log x + 3",
+            "option_d": "3",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of ∫ from 0 to 1 of (1 / (1 + x²)) dx is:",
+            "option_a": "π/2",
+            "option_b": "π/4",
+            "option_c": "1",
+            "option_d": "0",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The solution of dy/dx = y/x is:",
+            "option_a": "y = cx",
+            "option_b": "x = cy",
+            "option_c": "xy = c",
+            "option_d": "y = x + c",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If P(A) = 0.4, P(B) = 0.8 and P(B|A) = 0.6, then P(A ∪ B) is:",
+            "option_a": "0.96",
+            "option_b": "0.24",
+            "option_c": "0.48",
+            "option_d": "0.12",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of i^19 is:",
+            "option_a": "i",
+            "option_b": "-i",
+            "option_c": "1",
+            "option_d": "-1",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The focus of the parabola y² = 12x is:",
+            "option_a": "(0, 3)",
+            "option_b": "(3, 0)",
+            "option_c": "(-3, 0)",
+            "option_d": "(0, -3)",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The coordinates of the center of the circle x² + y² - 4x + 6y - 12 = 0 are:",
+            "option_a": "(2, -3)",
+            "option_b": "(-2, 3)",
+            "option_c": "(4, -6)",
+            "option_d": "(-4, 6)",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of sin 75° is:",
+            "option_a": "(√3 + 1) / 2√2",
+            "option_b": "(√3 - 1) / 2√2",
+            "option_c": "1 / √2",
+            "option_d": "√3 / 2",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If f(x) = log(x), then f'(e) is:",
+            "option_a": "e",
+            "option_b": "1/e",
+            "option_c": "1",
+            "option_d": "0",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of ∫ log x dx is:",
+            "option_a": "x log x - x + c",
+            "option_b": "1/x + c",
+            "option_c": "x log x + x + c",
+            "option_d": "log x + c",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The degree of the differential equation d²y/dx² + (dy/dx)³ + y = 0 is:",
+            "option_a": "1",
+            "option_b": "2",
+            "option_c": "3",
+            "option_d": "Not defined",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The direction ratios of a line perpendicular to the plane 2x - 3y + 4z = 5 are:",
+            "option_a": "2, -3, 4",
+            "option_b": "1, 2, 3",
+            "option_c": "2, 3, 4",
+            "option_d": "5, 5, 5",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If a, b, c are in A.P., then 2b equals:",
+            "option_a": "a + c",
+            "option_b": "ac",
+            "option_c": "a - c",
+            "option_d": "√(ac)",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of tan⁻¹(1) + tan⁻¹(1/2) is:",
+            "option_a": "tan⁻¹(2)",
+            "option_b": "tan⁻¹(3)",
+            "option_c": "π/2",
+            "option_d": "π/4",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The area bounded by the curve y = x², x-axis and ordinates x = 1, x = 2 is:",
+            "option_a": "7/3",
+            "option_b": "8/3",
+            "option_c": "1",
+            "option_d": "2",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of cos⁻¹(-1/2) is:",
+            "option_a": "π/3",
+            "option_b": "2π/3",
+            "option_c": "π/6",
+            "option_d": "-π/3",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The midpoint of the line joining (2, 3, 4) and (8, -1, 2) is:",
+            "option_a": "(5, 1, 3)",
+            "option_b": "(10, 2, 6)",
+            "option_c": "(5, 2, 3)",
+            "option_d": "(3, 2, 1)",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The probability of drawing an ace from a deck of 52 cards is:",
+            "option_a": "1/52",
+            "option_b": "1/13",
+            "option_c": "4/13",
+            "option_d": "1/4",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If y = sin(log x), then dy/dx is:",
+            "option_a": "cos(log x) / x",
+            "option_b": "cos(log x)",
+            "option_c": "sin(log x) / x",
+            "option_d": "1/x",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The value of ∫ sin²x dx is:",
+            "option_a": "x/2 - (sin 2x)/4 + c",
+            "option_b": "x/2 + (sin 2x)/4 + c",
+            "option_c": "cos²x + c",
+            "option_d": "-cos x + c",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The order of the differential equation (d³y/dx³)² + dy/dx + y = 0 is:",
+            "option_a": "1",
+            "option_b": "2",
+            "option_c": "3",
+            "option_d": "6",
+            "correct_option": "C",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "The distance between parallel planes 2x - y + 2z = 4 and 2x - y + 2z = 10 is:",
+            "option_a": "2",
+            "option_b": "6",
+            "option_c": "3",
+            "option_d": "4",
+            "correct_option": "A",
+            "marks": 2,
+            "subject": "Mathematics"
+        },
+        {
+            "question_text": "If the sum of first n terms of an A.P. is n², its common difference is:",
+            "option_a": "1",
+            "option_b": "2",
+            "option_c": "3",
+            "option_d": "4",
+            "correct_option": "B",
+            "marks": 2,
+            "subject": "Mathematics"
+        }
+    ]
+}

@@ -1,0 +1,1022 @@
+{
+  "Some Basic Concepts of Chemistry": [
+    {
+      "question": "The mole represents:",
+      "options": {
+        "a": "6.022 × 10^23 particles",
+        "b": "6.022 × 10^20 particles",
+        "c": "1 × 10^23 particles",
+        "d": "1 × 10^20 particles"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Atomic mass unit (amu) is defined as 1/12th of mass of:",
+      "options": {
+        "a": "Carbon-12",
+        "b": "Oxygen-16",
+        "c": "Hydrogen",
+        "d": "Nitrogen"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If mass percentage of A in AB2 is 40%, then mass percentage of B is:",
+      "options": {
+        "a": "60%",
+        "b": "80%",
+        "c": "20%",
+        "d": "40%"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Empirical formula gives:",
+      "options": {
+        "a": "Simplest ratio of atoms",
+        "b": "Exact number of atoms",
+        "c": "Molecular mass",
+        "d": "Bond type"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "1 mole of CO2 contains how many oxygen atoms?",
+      "options": {
+        "a": "2 × NA",
+        "b": "NA",
+        "c": "3 × NA",
+        "d": "0.5 × NA"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Mass % of H in H2O is approx:",
+      "options": {
+        "a": "11%",
+        "b": "89%",
+        "c": "50%",
+        "d": "20%"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Molality is defined as moles of solute per:",
+      "options": {
+        "a": "kg of solvent",
+        "b": "kg of solution",
+        "c": "L of solution",
+        "d": "g of solvent"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If 2 moles of gas A and 3 moles of gas B are mixed, total moles =",
+      "options": {
+        "a": "5",
+        "b": "1",
+        "c": "6",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Percentage composition is based on:",
+      "options": {
+        "a": "Mass",
+        "b": "Volume",
+        "c": "Mole",
+        "d": "Molarity"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Avogadro’s number × 2 equals:",
+      "options": {
+        "a": "Number of atoms in 2 moles",
+        "b": "Number of atoms in 1 mole",
+        "c": "Half number of atoms",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ],
+  "Structure of Atom": [
+    {
+      "question": "Electron was discovered by:",
+      "options": {
+        "a": "J.J. Thomson",
+        "b": "Rutherford",
+        "c": "Bohr",
+        "d": "Chadwick"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Neutron was discovered by:",
+      "options": {
+        "a": "Chadwick",
+        "b": "Thomson",
+        "c": "Rutherford",
+        "d": "Bohr"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Bohr’s model explains:",
+      "options": {
+        "a": "Hydrogen emission spectra",
+        "b": "Bond polarity",
+        "c": "Ionic bonds",
+        "d": "Isomerism"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Principal quantum number n can be:",
+      "options": {
+        "a": "1,2,3,…",
+        "b": "0,1,2",
+        "c": "Only even",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Pauli exclusion principle states:",
+      "options": {
+        "a": "No two electrons have same set of quantum numbers",
+        "b": "Electrons move in orbits",
+        "c": "Electrons spin same direction",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Spin quantum number s has values:",
+      "options": {
+        "a": "+1/2 or −1/2",
+        "b": "0 or 1",
+        "c": "1,2,3",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Orbital angular momentum quantum number is:",
+      "options": {
+        "a": "l",
+        "b": "n",
+        "c": "m",
+        "d": "s"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Number of orbitals in p-subshell is:",
+      "options": {
+        "a": "3",
+        "b": "1",
+        "c": "5",
+        "d": "7"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Aufbau principle states:",
+      "options": {
+        "a": "Fill lower energy first",
+        "b": "Fill higher energy first",
+        "c": "Half fill then fill",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Rutherford’s experiment proved atom has:",
+      "options": {
+        "a": "Tiny nucleus",
+        "b": "No nucleus",
+        "c": "Uniform charge",
+        "d": "Electron cloud only"
+      },
+      "answer": "a"
+    }
+  ],
+  "Chemical Bonding": [
+    {
+      "question": "Ionic bond forms by:",
+      "options": {
+        "a": "Transfer of electrons",
+        "b": "Sharing of electrons",
+        "c": "Metallic bonding",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Covalent bond involves:",
+      "options": {
+        "a": "Sharing of electrons",
+        "b": "Transfer of electrons",
+        "c": "Magnetic interaction",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Electronegativity increases:",
+      "options": {
+        "a": "Across period",
+        "b": "Down group",
+        "c": "No change",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Hybridization explains:",
+      "options": {
+        "a": "Molecular shapes",
+        "b": "Color of compound",
+        "c": "Magnetic property",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Sigma bond forms by:",
+      "options": {
+        "a": "Head-on overlap",
+        "b": "Side-on overlap",
+        "c": "No overlap",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Pi bond forms by:",
+      "options": {
+        "a": "Side-on overlap",
+        "b": "Head-on overlap",
+        "c": "No overlap",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Bond polarity depends on:",
+      "options": {
+        "a": "Difference in electronegativity",
+        "b": "Molecular mass",
+        "c": "Temperature",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Ionic compounds have:",
+      "options": {
+        "a": "High melting point",
+        "b": "Low melting point",
+        "c": "Low boiling point",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Covalent compounds are generally:",
+      "options": {
+        "a": "Poor conductors",
+        "b": "Good conductors",
+        "c": "Strong electrolytes",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Metallic bond gives:",
+      "options": {
+        "a": "Electrical conductivity",
+        "b": "No conductivity",
+        "c": "Only ionic conduction",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ],
+  "States of Matter: Gases and Liquids": [
+    {
+      "question": "Ideal gas equation is:",
+      "options": {
+        "a": "PV = nRT",
+        "b": "P + V = nRT",
+        "c": "PV = RT/n",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Boyle’s law states P ∝:",
+      "options": {
+        "a": "1/V",
+        "b": "V",
+        "c": "T",
+        "d": "n"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Van der Waals equation corrects:",
+      "options": {
+        "a": "Non-ideal behavior",
+        "b": "Ideal behavior",
+        "c": "Only temperature effect",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Surface tension of liquids is due to:",
+      "options": {
+        "a": "Cohesive forces",
+        "b": "Kinetic energy",
+        "c": "Pressure only",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Liquids have:",
+      "options": {
+        "a": "Definite volume",
+        "b": "Definite shape",
+        "c": "No volume",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Compressibility of liquids is:",
+      "options": {
+        "a": "Low",
+        "b": "High",
+        "c": "Infinite",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Gases exert pressure due to:",
+      "options": {
+        "a": "Molecular collisions",
+        "b": "Static forces",
+        "c": "Viscosity",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Liquids flow because:",
+      "options": {
+        "a": "Intermolecular movement",
+        "b": "No motion",
+        "c": "Solid lattice",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Gas particles are:",
+      "options": {
+        "a": "Far apart",
+        "b": "Close",
+        "c": "Fixed",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Real gases behave ideally at:",
+      "options": {
+        "a": "Low pressure & high temp",
+        "b": "High pressure",
+        "c": "Low temp",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ],
+  "Redox Reactions": [
+    {
+      "question": "Oxidation is:",
+      "options": {
+        "a": "Loss of electrons",
+        "b": "Gain of electrons",
+        "c": "No electrons change",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Reduction is:",
+      "options": {
+        "a": "Gain of electrons",
+        "b": "Loss of electrons",
+        "c": "No change",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Oxidizing agent is:",
+      "options": {
+        "a": "Species that gets reduced",
+        "b": "Species that gets oxidized",
+        "c": "Neither",
+        "d": "Both"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "In Fe2O3 + 3CO → 2Fe + 3CO2, CO is:",
+      "options": {
+        "a": "Reducing agent",
+        "b": "Oxidizing agent",
+        "c": "Catalyst",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Oxidation number of oxygen in H2O is:",
+      "options": {
+        "a": "-2",
+        "b": "+2",
+        "c": "0",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "If oxidation number increases, it is:",
+      "options": {
+        "a": "Oxidation",
+        "b": "Reduction",
+        "c": "No change",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "In redox reaction electrons are:",
+      "options": {
+        "a": "Transferred",
+        "b": "Created",
+        "c": "Destroyed",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Balance redox reactions using:",
+      "options": {
+        "a": "Oxidation number method",
+        "b": "Mole ratio",
+        "c": "None",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Oxidation number of Cl in Cl2 is:",
+      "options": {
+        "a": "0",
+        "b": "-1",
+        "c": "1",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "A species that loses electrons is:",
+      "options": {
+        "a": "Oxidized",
+        "b": "Reduced",
+        "c": "Neutral",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ],
+  "Elements of Groups 1 and 2": [
+    {
+      "question": "Group 1 elements are also known as:",
+      "options": {
+        "a": "Alkali metals",
+        "b": "Alkaline earth metals",
+        "c": "Halogens",
+        "d": "Transition metals"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Group 2 elements are called:",
+      "options": {
+        "a": "Alkaline earth metals",
+        "b": "Alkali metals",
+        "c": "Halogens",
+        "d": "Noble gases"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which metal reacts vigorously with water?",
+      "options": {
+        "a": "Potassium",
+        "b": "Calcium",
+        "c": "Magnesium",
+        "d": "Beryllium"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Group 1 elements have:",
+      "options": {
+        "a": "One valence electron",
+        "b": "Two valence electrons",
+        "c": "Three valence electrons",
+        "d": "Four valence electrons"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Oxides of group 2 are generally:",
+      "options": {
+        "a": "Basic",
+        "b": "Acidic",
+        "c": "Neutral",
+        "d": "Amphoteric"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Atomic size of group 1 elements:",
+      "options": {
+        "a": "Increases down the group",
+        "b": "Decreases down the group",
+        "c": "No change",
+        "d": "Random"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which element is the hardest among group 2?",
+      "options": {
+        "a": "Beryllium",
+        "b": "Magnesium",
+        "c": "Strontium",
+        "d": "Barium"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Group 1 metals are stored in:",
+      "options": {
+        "a": "Kerosene",
+        "b": "Water",
+        "c": "Air",
+        "d": "Acid"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Group 2 metals form oxides that are:",
+      "options": {
+        "a": "Basic",
+        "b": "Acidic",
+        "c": "Neutral",
+        "d": "Non-basic"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Melting points of group 1 elements:",
+      "options": {
+        "a": "Decrease down the group",
+        "b": "Increase down the group",
+        "c": "Constant",
+        "d": "Random"
+      },
+      "answer": "a"
+    }
+  ],
+  "Adsorption and Colloids": [
+    {
+      "question": "Adsorption refers to:",
+      "options": {
+        "a": "Surface phenomenon",
+        "b": "Bulk phenomenon",
+        "c": "Chemical change",
+        "d": "No change"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Colloids are:",
+      "options": {
+        "a": "Heterogeneous mixtures",
+        "b": "Homogeneous solutions",
+        "c": "Pure substances",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Tyndall effect is due to:",
+      "options": {
+        "a": "Scattering of light",
+        "b": "Absorption of light",
+        "c": "Refraction only",
+        "d": "Reflection only"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Adsorption differs from absorption because:",
+      "options": {
+        "a": "Surface vs bulk",
+        "b": "Mass change",
+        "c": "Density change",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Catalysts work by:",
+      "options": {
+        "a": "Adsorption",
+        "b": "Absorption",
+        "c": "Diffusion only",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Example of lyophilic colloid is:",
+      "options": {
+        "a": "Gelatin sol",
+        "b": "Smoke",
+        "c": "Fog",
+        "d": "Dust in air"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Peptization means:",
+      "options": {
+        "a": "Formation of colloid",
+        "b": "Precipitation",
+        "c": "Dissolving gas",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Surface active agents are called:",
+      "options": {
+        "a": "Surfactants",
+        "b": "Catalysts",
+        "c": "Oxidants",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Electrophoresis is motion of colloidal particles in:",
+      "options": {
+        "a": "Electric field",
+        "b": "Magnetic field",
+        "c": "Gravity only",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Colloid with gas dispersed in liquid is:",
+      "options": {
+        "a": "Foam",
+        "b": "Emulsion",
+        "c": "Solid sol",
+        "d": "Aerosol"
+      },
+      "answer": "a"
+    }
+  ],
+  "Hydrocarbons": [
+    {
+      "question": "Unsaturated hydrocarbons contain:",
+      "options": {
+        "a": "Double or triple bonds",
+        "b": "Only single bonds",
+        "c": "Ionic bonds",
+        "d": "No carbon"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "General formula of alkanes is:",
+      "options": {
+        "a": "C_nH_{2n+2}",
+        "b": "C_nH_{2n}",
+        "c": "C_nH_{2n−2}",
+        "d": "C_nH_n"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Alkenes show:",
+      "options": {
+        "a": "C=C bond",
+        "b": "C≡C bond",
+        "c": "Only single bonds",
+        "d": "No bonds"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Isomers have:",
+      "options": {
+        "a": "Same formula, different structure",
+        "b": "Different formula",
+        "c": "Same structure",
+        "d": "No relation"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Benzene is:",
+      "options": {
+        "a": "Aromatic hydrocarbon",
+        "b": "Alkane",
+        "c": "Alkene",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Saturated hydrocarbons are:",
+      "options": {
+        "a": "Alkanes",
+        "b": "Alkenes",
+        "c": "Alkynes",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Acetylene is example of:",
+      "options": {
+        "a": "Alkyne",
+        "b": "Alkane",
+        "c": "Alkene",
+        "d": "Aromatic"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Aromatic compounds have:",
+      "options": {
+        "a": "Resonance",
+        "b": "No resonance",
+        "c": "Ion bonds",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Hydrocarbon used as fuel in vehicles is:",
+      "options": {
+        "a": "Octane",
+        "b": "Methane only",
+        "c": "Water",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "General formula of alkynes is:",
+      "options": {
+        "a": "C_nH_{2n−2}",
+        "b": "C_nH_{2n}",
+        "c": "C_nH_{2n+2}",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ],
+  "Basic Principles of Organic Chemistry": [
+    {
+      "question": "Organic compounds primarily contain:",
+      "options": {
+        "a": "Carbon",
+        "b": "Metal",
+        "c": "Only hydrogen",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Functional group determines:",
+      "options": {
+        "a": "Chemical properties",
+        "b": "Color",
+        "c": "Mass only",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Homologous series differ by:",
+      "options": {
+        "a": "CH2 unit",
+        "b": "O2 unit",
+        "c": "H2O unit",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Isomerism is:",
+      "options": {
+        "a": "Same formula, different structure",
+        "b": "Different formula",
+        "c": "Same structure",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Carboxylic acids contain:",
+      "options": {
+        "a": "−COOH group",
+        "b": "−OH group only",
+        "c": "−NH2 group",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Alcohols contain:",
+      "options": {
+        "a": "−OH group",
+        "b": "−COOH group",
+        "c": "−NH2 group",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Aromatic compounds have:",
+      "options": {
+        "a": "Benzene ring",
+        "b": "No ring",
+        "c": "Only CH3",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Alkyl halides contain:",
+      "options": {
+        "a": "Halogen",
+        "b": "Oxygen only",
+        "c": "Nitrogen only",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Nomenclature in organic chemistry is by:",
+      "options": {
+        "a": "IUPAC",
+        "b": "Metric",
+        "c": "No rule",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Organic compounds generally:",
+      "options": {
+        "a": "Have covalent bonds",
+        "b": "Have ionic bonds",
+        "c": "Always solids",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ],
+  "Chemistry in Everyday Life": [
+    {
+      "question": "Aspirin is an example of:",
+      "options": {
+        "a": "Analgesic",
+        "b": "Antacid",
+        "c": "Antibiotic",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Detergents are used for:",
+      "options": {
+        "a": "Cleaning",
+        "b": "Cooking",
+        "c": "Heating",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Caffeine is found in:",
+      "options": {
+        "a": "Tea and coffee",
+        "b": "Milk only",
+        "c": "Water",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Antibiotics are used to:",
+      "options": {
+        "a": "Kill bacteria",
+        "b": "Reduce pressure",
+        "c": "Increase temperature",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Polymers in plastic are:",
+      "options": {
+        "a": "Long chains",
+        "b": "Small atoms",
+        "c": "Only metals",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Ethyl alcohol in beverages is:",
+      "options": {
+        "a": "Ethanol",
+        "b": "Methanol",
+        "c": "Propanol",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Vitamins are important for:",
+      "options": {
+        "a": "Nutrition",
+        "b": "Weight loss",
+        "c": "Nothing",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Biodegradable materials can:",
+      "options": {
+        "a": "Decompose naturally",
+        "b": "Not decompose",
+        "c": "Explode",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Soaps are sodium salts of:",
+      "options": {
+        "a": "Fatty acids",
+        "b": "Amino acids",
+        "c": "Nucleic acids",
+        "d": "None"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Preservatives prevent:",
+      "options": {
+        "a": "Microbial growth",
+        "b": "Pressure build-up",
+        "c": "Temperature change",
+        "d": "None"
+      },
+      "answer": "a"
+    }
+  ]
+}

@@ -1,0 +1,1430 @@
+{
+    "Mathematical Logic": [
+        {
+            "question": "If p ⇒ q is false, then:",
+            "options": {
+                "a": "p is true and q is false",
+                "b": "p is false and q is true",
+                "c": "p and q are both true",
+                "d": "p and q are both false"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Negation of “All A are B” is:",
+            "options": {
+                "a": "Some A are not B",
+                "b": "No A are B",
+                "c": "All B are A",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If p ∧ q is true, then:",
+            "options": {
+                "a": "Both p and q are true",
+                "b": "Either p or q is true",
+                "c": "p is false",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "p ∨ q is false only when:",
+            "options": {
+                "a": "p and q both false",
+                "b": "p true, q false",
+                "c": "p false, q true",
+                "d": "Both true"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Contrapositive of p ⇒ q is:",
+            "options": {
+                "a": "¬q ⇒ ¬p",
+                "b": "q ⇒ p",
+                "c": "¬p ⇒ ¬q",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Inverse of p ⇒ q is:",
+            "options": {
+                "a": "¬p ⇒ ¬q",
+                "b": "¬q ⇒ ¬p",
+                "c": "q ⇒ p",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "p ↔ q is true when:",
+            "options": {
+                "a": "p and q have same truth value",
+                "b": "p true, q false",
+                "c": "p false, q true",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Tautology means:",
+            "options": {
+                "a": "Always true",
+                "b": "Always false",
+                "c": "Sometimes true",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Contradiction means:",
+            "options": {
+                "a": "Always false",
+                "b": "Always true",
+                "c": "Sometimes false",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "¬(p ∨ q) ≡",
+            "options": {
+                "a": "¬p ∧ ¬q",
+                "b": "p ∧ q",
+                "c": "p ∨ ¬q",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Matrices": [
+        {
+            "question": "If A is a 2×2 matrix, the determinant det(A) =",
+            "options": {
+                "a": "ad − bc",
+                "b": "a + d",
+                "c": "bc − ad",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Inverse of matrix A exists if:",
+            "options": {
+                "a": "det(A) ≠ 0",
+                "b": "det(A) = 0",
+                "c": "A is zero matrix",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Adjoint of matrix helps in finding:",
+            "options": {
+                "a": "Inverse",
+                "b": "Trace",
+                "c": "Rank",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Identity matrix I satisfies:",
+            "options": {
+                "a": "AI = A",
+                "b": "I = 0",
+                "c": "I = A",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Sum of diagonal entries is called:",
+            "options": {
+                "a": "Trace",
+                "b": "Determinant",
+                "c": "Rank",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "A matrix times its inverse equals:",
+            "options": {
+                "a": "Identity",
+                "b": "Zero matrix",
+                "c": "A itself",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If det(A) = 2, det(3A) for 2×2 is:",
+            "options": {
+                "a": "3^2 × 2 = 18",
+                "b": "6",
+                "c": "2",
+                "d": "0"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rank of zero matrix is:",
+            "options": {
+                "a": "0",
+                "b": "1",
+                "c": "2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If A is singular, then:",
+            "options": {
+                "a": "det(A) = 0",
+                "b": "det(A) ≠ 0",
+                "c": "has inverse",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Matrix multiplication is:",
+            "options": {
+                "a": "Not commutative in general",
+                "b": "Always commutative",
+                "c": "Never defined",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Trigonometric Functions": [
+        {
+            "question": "sin^2θ + cos^2θ =",
+            "options": {
+                "a": "1",
+                "b": "0",
+                "c": "tanθ",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "cos(90° − θ) =",
+            "options": {
+                "a": "sinθ",
+                "b": "cosθ",
+                "c": "-sinθ",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "tanθ =",
+            "options": {
+                "a": "sinθ/cosθ",
+                "b": "cosθ/sinθ",
+                "c": "1",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "sin 2θ =",
+            "options": {
+                "a": "2sinθ cosθ",
+                "b": "sinθ + cosθ",
+                "c": "cos2θ",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "cos 2θ can be written as:",
+            "options": {
+                "a": "cos^2θ − sin^2θ",
+                "b": "sin^2θ + cos^2θ",
+                "c": "1",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If sinθ = 3/5, cosθ =",
+            "options": {
+                "a": "4/5",
+                "b": "3/4",
+                "c": "5/4",
+                "d": "-4/5"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "cosecθ is:",
+            "options": {
+                "a": "1/sinθ",
+                "b": "1/cosθ",
+                "c": "tanθ",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "secθ is:",
+            "options": {
+                "a": "1/cosθ",
+                "b": "sinθ",
+                "c": "tanθ",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "tan(α + β) formula includes:",
+            "options": {
+                "a": "tanα + tanβ / 1 − tanαtanβ",
+                "b": "sinα + sinβ",
+                "c": "cosα + cosβ",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Trigonometric ratios are defined for angles in:",
+            "options": {
+                "a": "Right triangle",
+                "b": "Only acute",
+                "c": "No triangle",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Pair of Straight Lines": [
+        {
+            "question": "General second degree represents pair of straight lines if:",
+            "options": {
+                "a": "abc + 2fgh − af^2 − bg^2 − ch^2 = 0",
+                "b": "b^2 − 4ac > 0",
+                "c": "Discriminant < 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Angle between pair of lines is given by:",
+            "options": {
+                "a": "tanθ = 2√(h^2 − ab)/(a + b)",
+                "b": "a + b + c = 0",
+                "c": "Product = 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If pair of lines passes through origin, equation has:",
+            "options": {
+                "a": "No constant term",
+                "b": "Constant only",
+                "c": "Linear terms only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Lines are perpendicular if:",
+            "options": {
+                "a": "a + b = 0",
+                "b": "a − b = 0",
+                "c": "abc = 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Slopes m1, m2 of the pair satisfy:",
+            "options": {
+                "a": "m1 × m2 = c/a",
+                "b": "m1 + m2 = b/a",
+                "c": "m1 − m2 = 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Sum of slopes =",
+            "options": {
+                "a": "−2h/b",
+                "b": "b/2h",
+                "c": "0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Pair of lines coincide if:",
+            "options": {
+                "a": "Discriminant = 0",
+                "b": "Discriminant > 0",
+                "c": "Discriminant < 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Product of slopes =",
+            "options": {
+                "a": "c/a",
+                "b": "a/c",
+                "c": "b/a",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If pair of lines are real and distinct:",
+            "options": {
+                "a": "abc + 2fgh − af^2 − bg^2 − ch^2 > 0",
+                "b": "Equal to 0",
+                "c": "Less than 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Pair of straight lines passing origin are:",
+            "options": {
+                "a": "ax^2 + 2hxy + by^2 = 0",
+                "b": "x^2 + y^2 = 0",
+                "c": "x + y = 1",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Circles": [
+        {
+            "question": "Equation of circle with centre (h,k) and radius r is:",
+            "options": {
+                "a": "(x − h)^2 + (y − k)^2 = r^2",
+                "b": "x^2 + y^2 = r",
+                "c": "x − y = r",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "General equation of a circle is:",
+            "options": {
+                "a": "x^2 + y^2 + 2gx + 2fy + c = 0",
+                "b": "y = mx + c",
+                "c": "x^2 − y^2 = 0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Centre of x^2 + y^2 + 4x − 6y − 12 = 0 is:",
+            "options": {
+                "a": "(-2,3)",
+                "b": "(2,-3)",
+                "c": "(0,0)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Radius of x^2 + y^2 = 25 is:",
+            "options": {
+                "a": "5",
+                "b": "25",
+                "c": "0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Tangent to circle touches at:",
+            "options": {
+                "a": "One point",
+                "b": "Two points",
+                "c": "Does not touch",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Chord is:",
+            "options": {
+                "a": "Line joining two points on circle",
+                "b": "Radius",
+                "c": "Diameter only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Diameter is:",
+            "options": {
+                "a": "2 × radius",
+                "b": "Radius/2",
+                "c": "One point",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If circle passes origin and centre is (a,0), radius equals:",
+            "options": {
+                "a": "a",
+                "b": "2a",
+                "c": "0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Measure of angle in semicircle =",
+            "options": {
+                "a": "90°",
+                "b": "180°",
+                "c": "45°",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Pair of tangents drawn from external point are:",
+            "options": {
+                "a": "Equal in length",
+                "b": "Different in length",
+                "c": "Parallel",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Conics": [
+        {
+            "question": "Standard equation of a parabola with vertex at origin and focus (a, 0) is:",
+            "options": {
+                "a": "y² = 4ax",
+                "b": "x² = 4ay",
+                "c": "x² + y² = a²",
+                "d": "x² − y² = a²"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Ellipse equation is:",
+            "options": {
+                "a": "x²/a² + y²/b² = 1",
+                "b": "x² + y² = r²",
+                "c": "x² − y² = 1",
+                "d": "y² = 4ax"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Hyperbola equation is:",
+            "options": {
+                "a": "x²/a² − y²/b² = 1",
+                "b": "x²/a² + y²/b² = 1",
+                "c": "y² = 4ax",
+                "d": "x² + y² = r²"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Eccentricity of a circle is:",
+            "options": {
+                "a": "0",
+                "b": "1",
+                "c": "∞",
+                "d": "Greater than 1"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Sum of distances from foci to any point on ellipse is:",
+            "options": {
+                "a": "2a",
+                "b": "a",
+                "c": "b",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Difference of distances from foci to any point on hyperbola is:",
+            "options": {
+                "a": "2a",
+                "b": "a",
+                "c": "b",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Directrix of parabola y² = 4ax is:",
+            "options": {
+                "a": "x = −a",
+                "b": "y = −a",
+                "c": "x = a",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Latus rectum of ellipse is:",
+            "options": {
+                "a": "2b²/a",
+                "b": "2a²/b",
+                "c": "b",
+                "d": "a"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Focus of hyperbola x²/a² − y²/b² = 1 is:",
+            "options": {
+                "a": "(±c, 0)",
+                "b": "(0, ±c)",
+                "c": "(±a, 0)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Condition for pair of lines from general 2nd degree is:",
+            "options": {
+                "a": "abc + 2fgh − af² − bg² − ch² = 0",
+                "b": "b² − 4ac = 0",
+                "c": "b² − 4ac > 0",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Vectors": [
+        {
+            "question": "If A · B = 0, then vectors are:",
+            "options": {
+                "a": "Perpendicular",
+                "b": "Parallel",
+                "c": "Collinear",
+                "d": "Equal"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Vector magnitude of 3i + 4j + 12k is:",
+            "options": {
+                "a": "13",
+                "b": "25",
+                "c": "√194",
+                "d": "15"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Scalar triple product gives:",
+            "options": {
+                "a": "Volume of parallelepiped",
+                "b": "Area of parallelogram",
+                "c": "Dot product",
+                "d": "Cross product"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "|A × B| equals:",
+            "options": {
+                "a": "|A||B|sinθ",
+                "b": "|A||B|cosθ",
+                "c": "|A + B|",
+                "d": "|A − B|"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Projection of A on B is:",
+            "options": {
+                "a": "(A·B)/|B|",
+                "b": "(A×B)/|B|",
+                "c": "|A+B|",
+                "d": "|A−B|"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Unit vector of i + j + k is:",
+            "options": {
+                "a": "(1/√3)(i + j + k)",
+                "b": "(i + j + k)",
+                "c": "(3)(i + j + k)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If A and B are parallel, A × B is:",
+            "options": {
+                "a": "0",
+                "b": "|AB|",
+                "c": "Perpendicular",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Vector direction cosines satisfy:",
+            "options": {
+                "a": "l² + m² + n² = 1",
+                "b": "l + m + n = 1",
+                "c": "l² + m² = 1",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Position vector of point (x, y, z) is:",
+            "options": {
+                "a": "xi + yj + zk",
+                "b": "x + y + z",
+                "c": "i + j + k",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If A × B × C is triple cross, result is:",
+            "options": {
+                "a": "Vector",
+                "b": "Scalar",
+                "c": "Zero",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Three-Dimensional Geometry": [
+        {
+            "question": "Distance between (x1,y1,z1) and (x2,y2,z2) is:",
+            "options": {
+                "a": "√[(x2−x1)²+(y2−y1)²+(z2−z1)²]",
+                "b": "x2−x1",
+                "c": "y2−y1",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Direction cosines of a line are:",
+            "options": {
+                "a": "l, m, n",
+                "b": "x, y, z",
+                "c": "i, j, k",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Equation of line in 3D passing through (x1,y1,z1) with direction ratios (a,b,c) is:",
+            "options": {
+                "a": "(x−x1)/a = (y−y1)/b = (z−z1)/c",
+                "b": "x+y+z=0",
+                "c": "None",
+                "d": "x=y=z"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If direction ratios are proportional to direction cosines:",
+            "options": {
+                "a": "True",
+                "b": "False",
+                "c": "None",
+                "d": "Impossible"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "The angle between two lines is given by:",
+            "options": {
+                "a": "cosθ = (a1a2+b1b2+c1c2)/(|d1||d2|)",
+                "b": "sinθ",
+                "c": "tanθ",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Plane equation ax + by + cz + d = 0 is defined if:",
+            "options": {
+                "a": "(a,b,c) ≠ (0,0,0)",
+                "b": "All zero",
+                "c": "None",
+                "d": "Impossible"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If a point satisfies plane equation, it lies:",
+            "options": {
+                "a": "On the plane",
+                "b": "Outside",
+                "c": "Below only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Normal to plane is:",
+            "options": {
+                "a": "(a, b, c)",
+                "b": "(x, y, z)",
+                "c": "Direction ratios",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Cartesian equation of plane is:",
+            "options": {
+                "a": "ax + by + cz + d = 0",
+                "b": "x² + y² = z²",
+                "c": "None",
+                "d": "x=y"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Foot of perpendicular from point to plane gives:",
+            "options": {
+                "a": "Shortest distance",
+                "b": "Longest distance",
+                "c": "Average",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Line and Plane": [
+        {
+            "question": "Equation of a line in 3D is:",
+            "options": {
+                "a": "(x−x1)/l = (y−y1)/m = (z−z1)/n",
+                "b": "x+y=0",
+                "c": "y−x=0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Plane equation ax+by+cz+d=0 is:",
+            "options": {
+                "a": "Cartesian form",
+                "b": "Slope form",
+                "c": "Vector form only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Normal vector to plane is:",
+            "options": {
+                "a": "(a, b, c)",
+                "b": "(x, y, z)",
+                "c": "(1,1,1)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Angle between two planes equals:",
+            "options": {
+                "a": "Angle between normals",
+                "b": "Angle between lines",
+                "c": "Same always",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Shortest distance from point to plane uses:",
+            "options": {
+                "a": "Normal form",
+                "b": "Slope formula",
+                "c": "Intercept form",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Intersection of two planes is a:",
+            "options": {
+                "a": "Line",
+                "b": "Point",
+                "c": "Plane",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If line is perpendicular to plane it is:",
+            "options": {
+                "a": "Normal",
+                "b": "Parallel",
+                "c": "Skew",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Vector form of plane is:",
+            "options": {
+                "a": "r · n = p",
+                "b": "r = a",
+                "c": "x=y=z",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Direction ratios of line are:",
+            "options": {
+                "a": "Proportional to direction cosines",
+                "b": "Equal always",
+                "c": "None",
+                "d": "Impossible"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If line lies on plane then:",
+            "options": {
+                "a": "Every point satisfies plane equation",
+                "b": "Never satisfies",
+                "c": "Sometimes",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Linear Programming Problems": [
+        {
+            "question": "Linear programming involves:",
+            "options": {
+                "a": "Optimization",
+                "b": "Integration",
+                "c": "Differentiation",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Feasible region is:",
+            "options": {
+                "a": "Set of all solutions",
+                "b": "No solution",
+                "c": "Single",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Objective function is:",
+            "options": {
+                "a": "To be optimized",
+                "b": "Always zero",
+                "c": "No use",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Constraints are represented by:",
+            "options": {
+                "a": "Linear inequalities",
+                "b": "Non-linear",
+                "c": "Quadratic",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Corner point method finds:",
+            "options": {
+                "a": "Optimal solution",
+                "b": "No solution",
+                "c": "All solutions",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Feasible region is:",
+            "options": {
+                "a": "Convex polygon",
+                "b": "Concave",
+                "c": "Random",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In LPP, variables should be:",
+            "options": {
+                "a": "Non-negative",
+                "b": "Negative",
+                "c": "Zero",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If no feasible region:",
+            "options": {
+                "a": "No solution",
+                "b": "Infinite solutions",
+                "c": "Unique solution",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "In LPP, objective can be:",
+            "options": {
+                "a": "Max or Min",
+                "b": "Only Max",
+                "c": "Only Min",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Graphical method applies when variables ≤:",
+            "options": {
+                "a": "2",
+                "b": "3",
+                "c": "4",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Continuity and Differentiation": [
+        {
+            "question": "A function f is continuous at x = a if:",
+            "options": {
+                "a": "lim (x→a) f(x) = f(a)",
+                "b": "lim (x→a) f(x) ≠ f(a)",
+                "c": "f(x) is discontinuous",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Differentiable means:",
+            "options": {
+                "a": "Derivative exists",
+                "b": "Function has limit only",
+                "c": "Not continuous",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f is differentiable then it is:",
+            "options": {
+                "a": "Continuous",
+                "b": "Discontinuous",
+                "c": "None",
+                "d": "Both"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Derivative of x^n is:",
+            "options": {
+                "a": "nx^(n−1)",
+                "b": "x^n",
+                "c": "x^(n+1)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f(x) = sin x, derivative is:",
+            "options": {
+                "a": "cos x",
+                "b": "sin x",
+                "c": "-cos x",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Derivative of e^x is:",
+            "options": {
+                "a": "e^x",
+                "b": "x",
+                "c": "ex",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "f′(x) gives:",
+            "options": {
+                "a": "Slope of tangent",
+                "b": "Area",
+                "c": "Volume",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Lim f(x+h)−f(x)/h gives:",
+            "options": {
+                "a": "Derivative",
+                "b": "Integral",
+                "c": "Sum",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f′(x)=0, then f(x) has:",
+            "options": {
+                "a": "Stationary point",
+                "b": "Inflection only",
+                "c": "Discontinuity",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Differentiation of product uses:",
+            "options": {
+                "a": "Product rule",
+                "b": "Quotient only",
+                "c": "Chain rule only",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Application of Derivatives": [
+        {
+            "question": "Derivative = 0 gives:",
+            "options": {
+                "a": "Critical points",
+                "b": "No solution",
+                "c": "∞",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Max and min can be found using:",
+            "options": {
+                "a": "First derivative test",
+                "b": "Limits",
+                "c": "Algebra only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Speed is derivative of:",
+            "options": {
+                "a": "Distance",
+                "b": "Acceleration",
+                "c": "Velocity",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Rate of change is:",
+            "options": {
+                "a": "Derivative",
+                "b": "Integral",
+                "c": "Constant",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Concavity test uses:",
+            "options": {
+                "a": "Second derivative",
+                "b": "First derivative",
+                "c": "Limits",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Inflection point occurs when:",
+            "options": {
+                "a": "f″(x) changes sign",
+                "b": "f′(x)=0",
+                "c": "None",
+                "d": "Undefined"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Turning points occur when:",
+            "options": {
+                "a": "f′(x)=0",
+                "b": "f(x)=0",
+                "c": "f″(x)=0",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Derivative at max is:",
+            "options": {
+                "a": "0",
+                "b": "1",
+                "c": "Undefined",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Optimization is application of:",
+            "options": {
+                "a": "Derivatives",
+                "b": "Limits",
+                "c": "Integrals",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Velocity derivative gives:",
+            "options": {
+                "a": "Acceleration",
+                "b": "Displacement",
+                "c": "None",
+                "d": "Speed"
+            },
+            "answer": "a"
+        }
+    ],
+    "Integration": [
+        {
+            "question": "∫x^n dx =",
+            "options": {
+                "a": "x^(n+1)/(n+1)+C",
+                "b": "x^n + C",
+                "c": "nx^(n−1)",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "∫e^x dx =",
+            "options": {
+                "a": "e^x + C",
+                "b": "x + C",
+                "c": "ex",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "∫sin x dx =",
+            "options": {
+                "a": "−cos x + C",
+                "b": "cos x + C",
+                "c": "sin x + C",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "∫cos x dx =",
+            "options": {
+                "a": "sin x + C",
+                "b": "−sin x + C",
+                "c": "cos x",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Integration is reverse of:",
+            "options": {
+                "a": "Differentiation",
+                "b": "Limit",
+                "c": "Multiplication",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Fundamental theorem of calculus connects:",
+            "options": {
+                "a": "Differentiation and Integration",
+                "b": "Limits only",
+                "c": "Algebra",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "∫dx/x =",
+            "options": {
+                "a": "ln|x| + C",
+                "b": "1/x + C",
+                "c": "x^2/2",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Integration of 1/(1+x^2) gives:",
+            "options": {
+                "a": "tan^−1 x + C",
+                "b": "sec^−1 x + C",
+                "c": "x + C",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Integration by parts uses:",
+            "options": {
+                "a": "u dv = uv − ∫v du",
+                "b": "Product rule",
+                "c": "Quotient rule",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Definite integral gives:",
+            "options": {
+                "a": "Area under curve",
+                "b": "Slope",
+                "c": "Tangent",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ],
+    "Applications of Definite Integral": [
+        {
+            "question": "Area between curves uses:",
+            "options": {
+                "a": "Definite integrals",
+                "b": "Limits only",
+                "c": "Derivatives",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Volume by rotation uses:",
+            "options": {
+                "a": "π ∫y² dx",
+                "b": "tanθ",
+                "c": "sinx",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f(x) ≥ g(x), area =",
+            "options": {
+                "a": "∫(f(x)−g(x))dx",
+                "b": "∫(g(x)−f(x))dx",
+                "c": "∫f(x)dx",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Length of curve y=f(x) uses:",
+            "options": {
+                "a": "Arc length formula",
+                "b": "Limits",
+                "c": "Derivatives only",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Area between y-axis and curve uses:",
+            "options": {
+                "a": "Definite integral",
+                "b": "Indefinite integral",
+                "c": "Limits",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "If f(x) is continuous, ∫f(x)dx from a to b is:",
+            "options": {
+                "a": "Finite",
+                "b": "Infinite",
+                "c": "Undefined",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Area under curve from 2 to 5 uses:",
+            "options": {
+                "a": "∫2^5 f(x) dx",
+                "b": "∫0^2 f(x) dx",
+                "c": "∫5^2 f(x) dx",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Volume about x-axis uses:",
+            "options": {
+                "a": "π ∫y² dx",
+                "b": "sinx",
+                "c": "tanx",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Area between two curves equals zero if:",
+            "options": {
+                "a": "They coincide",
+                "b": "They never meet",
+                "c": "One is constant",
+                "d": "None"
+            },
+            "answer": "a"
+        },
+        {
+            "question": "Average value of f(x) on [a,b] is:",
+            "options": {
+                "a": "(1/(b−a))∫a^b f(x)dx",
+                "b": "∫a^b f(x)dx",
+                "c": "∫b^a f(x)dx",
+                "d": "None"
+            },
+            "answer": "a"
+        }
+    ]
+}
