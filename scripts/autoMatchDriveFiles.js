@@ -20,7 +20,7 @@ const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
 // ─── Configuration ───────────────────────────────────────────
-const GOOGLE_API_KEY = 'REMOVED_SECRET';
+const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
 
 const DRIVE_FOLDERS = {
     papers: '16H5BU8da3sQOZIU15mB06WHveb4GFX3q',
