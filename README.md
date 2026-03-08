@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="src/assets/banner.svg" alt="KakshaAI Banner" width="700"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Supabase-Backend-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
@@ -6,8 +10,6 @@
   <img src="https://img.shields.io/badge/AI-Powered-4285F4?logo=google&logoColor=white" alt="AI Powered" />
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
 </p>
-
-<h1 align="center">KakshaAI — Premium MHT-CET Prep Platform</h1>
 
 <p align="center">
   <strong>We help you crack what you are really aiming for.</strong><br/>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#14b8a6"/>
+      <stop offset="100%" style="stop-color:#10b981"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5eead4;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="700" cy="40" r="80" fill="url(#glow)"/>
+  <circle cx="80" cy="170" r="60" fill="url(#glow)"/>
+  
+  <!-- Book/graduation icon -->
+  <g transform="translate(100, 60)">
+    <!-- Open book shape -->
+    <path d="M0 70 L0 10 Q0 0 10 0 L35 0 Q40 0 40 5 L40 60 Q40 65 35 65 L5 65 Q0 65 0 70Z" fill="#14b8a6" opacity="0.9"/>
+    <path d="M80 70 L80 10 Q80 0 70 0 L45 0 Q40 0 40 5 L40 60 Q40 65 45 65 L75 65 Q80 65 80 70Z" fill="#10b981" opacity="0.9"/>
+    <!-- Pages lines -->
+    <line x1="10" y1="15" x2="32" y2="15" stroke="#0a0a0a" stroke-width="2" opacity="0.3"/>
+    <line x1="10" y1="25" x2="32" y2="25" stroke="#0a0a0a" stroke-width="2" opacity="0.3"/>
+    <line x1="10" y1="35" x2="28" y2="35" stroke="#0a0a0a" stroke-width="2" opacity="0.3"/>
+    <line x1="48" y1="15" x2="70" y2="15" stroke="#0a0a0a" stroke-width="2" opacity="0.3"/>
+    <line x1="48" y1="25" x2="70" y2="25" stroke="#0a0a0a" stroke-width="2" opacity="0.3"/>
+    <line x1="48" y1="35" x2="66" y2="35" stroke="#0a0a0a" stroke-width="2" opacity="0.3"/>
+    <!-- AI sparkle -->
+    <g transform="translate(62, -8)">
+      <path d="M8 0 L10 6 L16 8 L10 10 L8 16 L6 10 L0 8 L6 6Z" fill="#5eead4"/>
+    </g>
+  </g>
+  
+  <!-- Main text -->
+  <text x="210" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="white" letter-spacing="-1">
+    Kaksha<tspan fill="url(#teal)">AI</tspan>
+  </text>
+  
+  <!-- Tagline -->
+  <text x="210" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#a1a1aa" letter-spacing="0.5">
+    Premium MHT-CET Exam Preparation Platform
+  </text>
+  
+  <!-- Bottom accent line -->
+  <rect x="210" y="148" width="120" height="3" rx="1.5" fill="url(#teal)"/>
+</svg>
