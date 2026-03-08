@@ -42,7 +42,7 @@
 
 ## Live Demo
 
-> Deployed on **Vercel** — (http://kaksha-ai.vercel.app).
+> Deployed on **Vercel** — [(http://kaksha-ai.vercel.app).]
 
 ---
 
