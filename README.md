@@ -42,7 +42,7 @@
 
 ## Live Demo
 
-> Deployed on **Vercel** — link will be available after deployment.
+> Deployed on **Vercel** — (http://kaksha-ai.vercel.app).
 
 ---
 
@@ -246,9 +246,8 @@ npm install
 npm run dev
 ```
 
-The app will be available at `http://kaksha-ai.vercel.app`.
-
 ---
+The app will be available at `http://kaksha-ai.vercel.app`.
 
 ## Environment Variables
 
