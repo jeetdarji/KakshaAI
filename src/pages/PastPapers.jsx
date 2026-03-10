@@ -244,9 +244,9 @@ const PastPapers = () => {
                                 onChange={(e) => setSelectedSubject(e.target.value)}
                             >
                                 <option value="all">All Subjects</option>
-                                {subjects.map(subject => (
-                                    <option key={subject} value={subject}>{subject}</option>
-                                ))}
+                                <option value="Physics">Physics</option>
+                                <option value="Chemistry">Chemistry</option>
+                                <option value="Mathematics">Mathematics</option>
                             </select>
                         </div>
 

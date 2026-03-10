@@ -3,6 +3,14 @@ import { getUserStats, updateCachedStats } from './userStatsService';
 import { getAllSubjectsProgress, getFirstIncompleteChapter, getWeakestSubject } from './subjectProgressService';
 import { getTodayChallenge, getChallengeProgress, generateDailyChallenge } from './challengeGenerator';
 
+/** Return local date as YYYY-MM-DD (avoids UTC shift from toISOString) */
+function getLocalDateString(date = new Date()) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
 /**
  * Dashboard Helper Library
  * Combines all dashboard services for easy access
@@ -202,8 +210,8 @@ export async function getDailyActivityData(userId, startDate = null, endDate = n
       .from('daily_activity')
       .select('*')
       .eq('user_id', userId)
-      .gte('activity_date', startDate.toISOString().split('T')[0])
-      .lte('activity_date', endDate.toISOString().split('T')[0])
+      .gte('activity_date', getLocalDateString(startDate))
+      .lte('activity_date', getLocalDateString(endDate))
       .order('activity_date', { ascending: true });
 
     if (error) throw error;
@@ -357,7 +365,7 @@ export async function getHeatmapData(userId, year = null) {
     currentDate.setHours(0, 0, 0, 0);
 
     while (currentDate <= endDate) {
-      const dateStr = currentDate.toISOString().split('T')[0];
+      const dateStr = getLocalDateString(currentDate);
       const activity = activityMap[dateStr];
 
       heatmapData.push({

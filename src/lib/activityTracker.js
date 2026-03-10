@@ -1,6 +1,14 @@
 import { supabase } from './supabase';
 import { updateCachedStats } from './userStatsService';
 
+/** Return local date as YYYY-MM-DD (avoids UTC shift from toISOString) */
+function getLocalDateString(date = new Date()) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
 /**
  * Activity Tracker Service
  * Monitors and records user activity on the platform
@@ -308,7 +316,7 @@ class ActivityTracker {
     if (!this.userId || !this.hasBufferedActivity()) return;
 
     try {
-      const today = new Date().toISOString().split('T')[0];
+      const today = getLocalDateString();
 
       // Get existing activity for today
       const { data: existing } = await supabase
@@ -380,7 +388,7 @@ class ActivityTracker {
    */
   async updateDailyActivity(durationSeconds) {
     try {
-      const today = new Date().toISOString().split('T')[0];
+      const today = getLocalDateString();
 
       // Get existing activity
       const { data: existing } = await supabase

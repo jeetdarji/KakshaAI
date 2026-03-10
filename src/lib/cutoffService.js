@@ -336,6 +336,36 @@ export function clearFilterOptionsCache() {
     _filterOptionsCache = null;
 }
 
+/**
+ * Fetch distinct courses and categories for a specific college.
+ * Used to auto-filter Branch/Category dropdowns when a college is selected.
+ * @param {string} collegeName - Exact college name
+ * @returns {{ courses: string[], categories: string[] }}
+ */
+export async function getCollegeFilterOptions(collegeName) {
+    if (!collegeName) return { courses: [], categories: [] };
+
+    try {
+        const { data, error } = await supabase
+            .from('cutoffs')
+            .select('course_name, category')
+            .eq('college_name', collegeName);
+
+        if (error) {
+            console.error('getCollegeFilterOptions error:', error);
+            return { courses: [], categories: [] };
+        }
+
+        const courses = [...new Set((data || []).map(r => r.course_name).filter(Boolean))].sort();
+        const categories = [...new Set((data || []).map(r => r.category).filter(Boolean))].sort();
+
+        return { courses, categories };
+    } catch (err) {
+        console.error('getCollegeFilterOptions exception:', err);
+        return { courses: [], categories: [] };
+    }
+}
+
 // ============================================================================
 // RANK PREDICTOR
 // ============================================================================

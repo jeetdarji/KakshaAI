@@ -4,7 +4,7 @@ import { TrendingUp, TrendingDown, Minus, Search, BarChart3, ArrowRight, Info, A
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Area, AreaChart } from 'recharts';
 import { useTheme } from '../../contexts/ThemeContext';
 import Button from '../ui/Button';
-import { getCutoffTrends, getTrendInsight, getCategoryLabel } from '../../lib/cutoffService';
+import { getCutoffTrends, getTrendInsight, getCategoryLabel, getCollegeFilterOptions } from '../../lib/cutoffService';
 
 const ROUND_COLORS = {
     1: '#14b8a6', // teal-500 (brand)
@@ -26,6 +26,28 @@ const CutoffTrends = ({ filterOptions }) => {
     const [chartType, setChartType] = useState('rank'); // 'rank' | 'percentile'
     const [collegeSuggestions, setCollegeSuggestions] = useState([]);
     const [showSuggestions, setShowSuggestions] = useState(false);
+
+    // College-specific filter options (branches & categories)
+    const [collegeSpecificOptions, setCollegeSpecificOptions] = useState(null);
+
+    // Fetch college-specific branches/categories when a college is selected
+    useEffect(() => {
+        if (collegeName && filterOptions?.colleges?.includes(collegeName)) {
+            getCollegeFilterOptions(collegeName).then(opts => {
+                setCollegeSpecificOptions(opts);
+                // Reset course if it doesn't exist for this college
+                if (courseName && !opts.courses.includes(courseName)) {
+                    setCourseName('');
+                }
+                // Reset category if it doesn't exist for this college
+                if (category && !opts.categories.includes(category)) {
+                    setCategory(opts.categories[0] || 'GOPENS');
+                }
+            });
+        } else {
+            setCollegeSpecificOptions(null);
+        }
+    }, [collegeName]);
 
     // Autocomplete college name
     useEffect(() => {
@@ -224,7 +246,7 @@ const CutoffTrends = ({ filterOptions }) => {
                             className={selectClass}
                         >
                             <option value="">Select branch...</option>
-                            {(filterOptions?.courses || []).map(c => (
+                            {(collegeSpecificOptions?.courses || filterOptions?.courses || []).map(c => (
                                 <option key={c} value={c}>{c}</option>
                             ))}
                         </select>
@@ -238,7 +260,7 @@ const CutoffTrends = ({ filterOptions }) => {
                             onChange={(e) => setCategory(e.target.value)}
                             className={selectClass}
                         >
-                            {(filterOptions?.categories || ['GOPENS']).map(c => (
+                            {(collegeSpecificOptions?.categories || filterOptions?.categories || ['GOPENS']).map(c => (
                                 <option key={c} value={c}>{getCategoryLabel(c)}</option>
                             ))}
                         </select>

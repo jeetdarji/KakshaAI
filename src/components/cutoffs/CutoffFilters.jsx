@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Search, X, ChevronDown, Filter, RotateCcw } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTheme } from '../../contexts/ThemeContext';
-import { getCategoryLabel, getCategoryGroups, getPopularCategories } from '../../lib/cutoffService';
+import { getCategoryLabel, getCategoryGroups, getPopularCategories, getCollegeFilterOptions } from '../../lib/cutoffService';
 
 const CutoffFilters = ({ filters, onFilterChange, filterOptions, onReset }) => {
     const { isDark } = useTheme();
@@ -13,6 +13,29 @@ const CutoffFilters = ({ filters, onFilterChange, filterOptions, onReset }) => {
     const [courseSearch, setCourseSearch] = useState('');
     const collegeRef = useRef(null);
     const courseRef = useRef(null);
+
+    // College-specific filter options (branches & categories)
+    const [collegeSpecificOptions, setCollegeSpecificOptions] = useState(null);
+
+    // Fetch college-specific branches/categories when a college is selected from suggestions
+    useEffect(() => {
+        const collegeName = filters.collegeName;
+        // Only fetch when an exact college name is selected (matches a known college)
+        if (collegeName && filterOptions?.colleges?.includes(collegeName)) {
+            getCollegeFilterOptions(collegeName).then(opts => {
+                setCollegeSpecificOptions(opts);
+                // Reset course/category if they don't exist for this college
+                if (filters.courseName && !opts.courses.includes(filters.courseName)) {
+                    onFilterChange({ ...filters, courseName: null });
+                }
+                if (filters.category && !opts.categories.includes(filters.category)) {
+                    onFilterChange({ ...filters, category: '' });
+                }
+            });
+        } else {
+            setCollegeSpecificOptions(null);
+        }
+    }, [filters.collegeName]);
 
     // Debounce college name search
     useEffect(() => {
@@ -43,14 +66,15 @@ const CutoffFilters = ({ filters, onFilterChange, filterOptions, onReset }) => {
         .filter(c => collegeSearch && c.toLowerCase().includes(collegeSearch.toLowerCase()))
         .slice(0, 8);
 
-    // Filter courses for suggestions
-    const filteredCourses = (filterOptions?.courses || [])
+    // Filter courses for suggestions (use college-specific courses when available)
+    const availableCourses = collegeSpecificOptions?.courses || filterOptions?.courses || [];
+    const filteredCourses = availableCourses
         .filter(c => courseSearch ? c.toLowerCase().includes(courseSearch.toLowerCase()) : true);
 
     // Get grouped categories for the dropdown
     const categoryMap = getPopularCategories();
     const categoryGroups = getCategoryGroups();
-    const allCategories = filterOptions?.categories || [];
+    const allCategories = collegeSpecificOptions?.categories || filterOptions?.categories || [];
 
     // Build grouped options
     const groupedCategories = categoryGroups.map(group => {
